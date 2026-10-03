@@ -54,7 +54,7 @@
   "onboardingProcess": "Hur mycket detaljer vill du se?",
   "onboardingProcessDescription": "Detta ändrar bara hur förloppet visas, inte vad DeepSeek Harness kan göra.",
   "onboardingPurposeDescription": "Vi anpassar gränssnittet och verktygen efter hur du arbetar.",
-  "onboardingPurposePrefix": "Vad skulle du vilja",
+  "onboardingPurposePrefix": "Vad vill du att",
   "onboardingPurposeSuffix": "ska hjälpa till med?",
   "onboardingRetry": "Försök igen",
   "onboardingSaveFailed": "Kunde inte spara inställningarna. Försök igen.",
