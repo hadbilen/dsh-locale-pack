@@ -36,7 +36,7 @@ Clone the repository and register it as a plugin link.
 
 ```bash
 # 1) Get the sources
-git clone https://github.com/sayho87/dsh-locale-pack.git
+git clone https://github.com/sayho-pm/dsh-locale-pack.git
 cd dsh-locale-pack
 
 # 2) Register the folder with the desktop profile
@@ -47,7 +47,7 @@ Windows (PowerShell):
 
 ```powershell
 # 1) Get the sources
-git clone https://github.com/sayho87/dsh-locale-pack.git
+git clone https://github.com/sayho-pm/dsh-locale-pack.git
 cd dsh-locale-pack
 
 # 2) Register the folder with the desktop profile
@@ -61,7 +61,7 @@ Then open **Settings → Language** and pick the language you want.
 If you do not have a development environment, an AI assistant can do the setup for you. Open the assistant and paste this:
 
 ```
-Install this GitHub repository: https://github.com/sayho87/dsh-locale-pack
+Install this GitHub repository: https://github.com/sayho-pm/dsh-locale-pack
 Wherever I have to type something myself, such as a token or a path,
 mark it with **** and tell me exactly where it goes. Handle the rest.
 ```

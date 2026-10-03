@@ -36,7 +36,7 @@ DeepSeek Harness는 코딩 도구입니다. 할 일을 넘기면 에이전트가
 
 ```bash
 # 1) 저장소 내려받기
-git clone https://github.com/sayho87/dsh-locale-pack.git
+git clone https://github.com/sayho-pm/dsh-locale-pack.git
 cd dsh-locale-pack
 
 # 2) 폴더를 데스크톱 프로필에 등록
@@ -47,7 +47,7 @@ Windows (PowerShell):
 
 ```powershell
 # 1) 저장소 내려받기
-git clone https://github.com/sayho87/dsh-locale-pack.git
+git clone https://github.com/sayho-pm/dsh-locale-pack.git
 cd dsh-locale-pack
 
 # 2) 폴더를 데스크톱 프로필에 등록
@@ -61,7 +61,7 @@ dsh plugin --profile desktop add link:(Get-Location).Path
 개발 환경이 없으면 AI 어시스턴트가 설치를 대신 진행합니다. 어시스턴트를 열고 아래 문장을 붙여넣습니다.
 
 ```
-이 깃헙 저장소를 설치해줘: https://github.com/sayho87/dsh-locale-pack
+이 깃헙 저장소를 설치해줘: https://github.com/sayho-pm/dsh-locale-pack
 설치 과정에서 내가 직접 입력해야 하는 부분은 **** 로 표시해주고,
 어디에 입력해야 하는지 알려줘. 나머지는 네가 알아서 진행해줘.
 ```
