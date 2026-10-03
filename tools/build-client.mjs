@@ -66,8 +66,23 @@ for (const { id } of LANGS) {
   if (entries.length) console.log(`${id}: ${entries.length} namespaces, ${total} keys`);
 }
 
-const present = LANGS.filter(({ id }) => perLang.get(id)?.length);
+const present = LANGS.filter(({ id }) => perLang.get(id)?.length).map((entry) => entry);
 if (!present.length) throw new Error('no language folder under locale/ has dictionaries');
+
+// Optional subset: `node tools/build-client.mjs --langs ko,ja` bundles only the
+// listed languages. Omit the flag to bundle every language folder under locale/.
+const argIdx = process.argv.indexOf('--langs');
+const subset = argIdx >= 0 ? process.argv[argIdx + 1] : null;
+if (subset) {
+  const wanted = subset.split(',').map((s) => s.trim()).filter(Boolean);
+  const known = new Set(LANGS.map(({ id }) => id));
+  const unknown = wanted.filter((id) => !known.has(id));
+  if (unknown.length) throw new Error(`unknown language id(s): ${unknown.join(', ')}`);
+  const chosen = present.filter(({ id }) => wanted.includes(id));
+  if (!chosen.length) throw new Error('--langs matched no language folder under locale/');
+  present.splice(0, present.length, ...chosen);
+  console.log(`subset build: ${present.map(({ id }) => id).join(', ')}`);
+}
 
 const langSrc = JSON.stringify(present.map(({ id, label }) => ({ id, label })), null, 2);
 const dictSrc = JSON.stringify(

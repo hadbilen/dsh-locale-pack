@@ -92,6 +92,16 @@ node tools/check-keep.mjs     # translation quality check
 
 Placeholders such as `{name}` must be kept exactly as they are. If the order or the spelling changes, the sentence breaks at runtime.
 
+### Bundling only the languages you need
+
+Installing the whole pack is the default, and switching language afterwards is a matter of the settings screen. When the full bundle is more than you want, build a subset instead:
+
+```bash
+node tools/build-client.mjs --langs ko,ja   # Korean and Japanese only
+```
+
+A two-language bundle comes out at roughly 320 KB instead of 4.2 MB. The flag accepts any comma-separated list of the language codes in the table above. Omitting it rebuilds every language.
+
 ## Translation quality checks
 
 `tools/check-keep.mjs` compares every language against the English baseline and reports five things:
@@ -121,6 +131,10 @@ Requests move through four models in order. If the first one fails, the worker r
 - The menu bar, the right-click menu, and the update dialog belong to the desktop shell, so this pack does not change them.
 - When DeepSeek Harness ships a new version, new strings appear in English until they are translated.
 - Korean is reviewed by hand. Other languages come from machine translation, and each language's dictionary file is the place to adjust wording.
+
+## Contributing
+
+Requests for additional languages are welcome. Open an issue in this repository naming the language, and it gets picked up in the next round. Corrections to an existing language go straight into that language's dictionary file under `locale/<language>/`, and a pull request is the easiest form.
 
 ## License
 
