@@ -9,7 +9,7 @@
   "error.outsideWorkspace": "آن پوشه خارج از فضای کاری است، بنابراین نوار کناری آن را نمی‌خواند.",
   "error.unavailable": "خواندن ناموفق بود: {message}",
   "guide.description": "فایل‌های فضای کاری این نشست را مرور کنید",
-  "guide.title": "Files فضای کاری",
+  "guide.title": "فایلهای فضای کاری",
   "loading": "در حال خواندن…",
   "noWorkspace": "این نشست پوشه فضای کاری ندارد.",
   "reload": "بارگذاری مجدد",

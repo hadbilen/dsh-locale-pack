@@ -1,7 +1,7 @@
 {
   "address.changed": "URL alterada",
   "address.placeholder": "Digite um endereço HTTP(S)",
-  "address.unknown": "A página navegou; esta operadora não consegue ler sua nova URL.",
+  "address.unknown": "A página navegou; este contêiner não consegue ler sua nova URL.",
   "back": "Voltar",
   "error.application-origin": "O navegador integrado não pode abrir o próprio aplicativo DSH.",
   "error.credentials": "Endereços não podem conter nome de usuário ou senha.",

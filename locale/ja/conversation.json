@@ -339,7 +339,7 @@
   "tool.title.ralph": "ラルフループ実行",
   "tool.title.read": "Read",
   "tool.title.readEvent": "イベント読み取り",
-  "tool.title.readImage": "Read画像",
+  "tool.title.readImage": "画像の読み込み",
   "tool.title.readJob": "ジョブ出力読み取り",
   "tool.title.readTerminal": "Terminalを読む",
   "tool.title.removeCordis": "Cordisプラグインの削除",

@@ -7,7 +7,7 @@
   "error.notDirectory": "هذا ليس دليلا.",
   "error.notFound": "هذا الدليل لم يعد موجودا. ربما تم نقله أو حذفه.",
   "error.outsideWorkspace": "هذا الدليل خارج مساحة العمل، لذلك لن يقرأه الشريط الجانبي.",
-  "error.unavailable": "فشل Read: {message}",
+  "error.unavailable": "فشلت القراءة: {message}",
   "guide.description": "تصفح الملفات في مساحة عمل هذه الجلسة",
   "guide.title": "ملفات مساحة العمل",
   "loading": "جار القراءة…",

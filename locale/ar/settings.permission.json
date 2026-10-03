@@ -7,8 +7,8 @@
   "description": "اختر وضع الأذونات الافتراضي للجلسات الجديدة",
   "loading": "جار التحميل",
   "preset.fullAccess": "الوصول الكامل",
-  "preset.readOnly": "Read فقط",
-  "preset.workspaceWrite": "Write في مساحة العمل",
+  "preset.readOnly": "للقراءة فقط",
+  "preset.workspaceWrite": "الكتابة في مساحة العمل",
   "title": "الإذن",
   "unavailable": "غير متوفر"
 }

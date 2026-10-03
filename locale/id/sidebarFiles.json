@@ -7,7 +7,7 @@
   "error.notDirectory": "Itu bukan direktori.",
   "error.notFound": "Direktori tersebut sudah tidak ada. Mungkin telah dipindahkan atau dihapus.",
   "error.outsideWorkspace": "Direktori tersebut berada di luar ruang kerja, sehingga bilah sisi tidak akan membacanya.",
-  "error.unavailable": "Read gagal: {message}",
+  "error.unavailable": "Gagal membaca: {message}",
   "guide.description": "Telusuri Files di ruang kerja sesi ini",
   "guide.title": "Files ruang kerja",
   "loading": "Membaca…",

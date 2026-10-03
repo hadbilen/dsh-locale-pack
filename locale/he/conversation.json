@@ -227,7 +227,7 @@
   "placeholder.workspace": "בחר סביבת עבודה כדי להתחיל",
   "queue.cancelEdit": "בטל עריכה",
   "queue.count": "{n} הודעות בתור",
-  "queue.edit": "Edit הודעה בתור",
+  "queue.edit": "ערוך הודעה בתור",
   "queue.edit.unsupported": "מכיל תוכן שאינו טקסט; עריכה אינה נתמכת עדיין",
   "queue.editFailed": "Edit נכשל: ייתכן שההודעה הזו כבר החלה להישלח.",
   "queue.file": "קובץ בתור {name}",

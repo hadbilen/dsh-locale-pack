@@ -18,7 +18,7 @@
   "delete.description": "Dadurch wird die Auslösung der Aufgabe gestoppt und sie wird zusammen mit ihren gespeicherten Zustelldatensätzen gelöscht. Die ursprüngliche Sitzung und ihre Nachrichten bleiben erhalten; Nachrichten in der Warteschlange werden nicht zurückgezogen.",
   "delete.pending": "Wird gelöscht…",
   "delete.title": "Diese Aufgabe löschen?",
-  "delivery.collapse": "Reduzieren",
+  "delivery.collapse": "Einklappen",
   "delivery.cursorError": "Datensätze wurden aktualisiert.",
   "delivery.empty": "Kein Zustelldatensatz verfügbar",
   "delivery.error": "Zustelldatensätze konnten nicht geladen werden.",

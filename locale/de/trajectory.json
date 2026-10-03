@@ -96,7 +96,7 @@
   "record.wrapLines": "Zeilen umbrechen",
   "request.collapsedAssistant": "Assistent",
   "request.collapsedSummary": "Eingeklappte {kind} Zusammenfassung, {summary}",
-  "request.collapsedTurn": "Turn",
+  "request.collapsedTurn": "Runde",
   "request.compaction": "Kompaktierung · {section}",
   "request.compactionPurpose": "Kompaktierung",
   "request.label": "Anfrage #{request}",

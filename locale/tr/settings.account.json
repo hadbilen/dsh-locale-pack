@@ -54,7 +54,7 @@
   "onboardingProcess": "Ne kadar ayrıntı görmek istersiniz?",
   "onboardingProcessDescription": "Bu yalnızca ilerlemenin nasıl gösterildiğini değiştirir, DeepSeek Harness'in yapabileceklerini değiştirmez.",
   "onboardingPurposeDescription": "Arayüzü ve araçları çalışma şeklinize uyacak şekilde özelleştireceğiz.",
-  "onboardingPurposePrefix": "Ne konuda",
+  "onboardingPurposePrefix": "Ne istersiniz",
   "onboardingPurposeSuffix": "yardım almak istersiniz?",
   "onboardingRetry": "Tekrar dene",
   "onboardingSaveFailed": "Ayarlar kaydedilemedi. Tekrar deneyin.",

@@ -5,7 +5,7 @@
   "clear": "Usuń",
   "clear-search": "Wyczyść wyszukiwanie",
   "close": "Zamknij skróty klawiaturowe",
-  "close-confirmation": "Zamknij potwierdzenie",
+  "close-confirmation": "Potwierdzenie zamknięcia",
   "conflict": "Już używane przez „{commands}”",
   "description": "Przeglądaj i edytuj dostępne skróty oraz akcje wprowadzania",
   "desktop-document": "userData/keybindings.json",

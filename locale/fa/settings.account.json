@@ -54,7 +54,7 @@
   "onboardingProcess": "مایلید چه میزان جزئیات ببینید؟",
   "onboardingProcessDescription": "این فقط نحوه نمایش پیشرفت را تغییر می‌دهد، نه قابلیت‌های DeepSeek Harness.",
   "onboardingPurposeDescription": "رابط کاربری و ابزارها را متناسب با شیوه کار شما تنظیم می‌کنیم.",
-  "onboardingPurposePrefix": "دوست دارید",
+  "onboardingPurposePrefix": "چه چیزی دوست دارید",
   "onboardingPurposeSuffix": "در چه کاری به شما کمک کند؟",
   "onboardingRetry": "تلاش مجدد",
   "onboardingSaveFailed": "تنظیمات ذخیره نشد. دوباره تلاش کنید.",

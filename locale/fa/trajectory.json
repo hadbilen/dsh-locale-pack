@@ -84,7 +84,7 @@
   "record.outputJson": "نتیجه JSON",
   "record.parameters": "پارامترها",
   "record.parametersJson": "پارامترها JSON",
-  "record.payloadJson": "بار JSON",
+  "record.payloadJson": "پیلود JSON",
   "record.resultJson": "نتیجه JSON",
   "record.schemaUnavailable": "طرحواره در دسترس نیست",
   "record.systemPrompt": "پرامپت سیستم",

@@ -54,7 +54,7 @@
   "onboardingProcess": "Wie viele Details möchten Sie sehen?",
   "onboardingProcessDescription": "Dies ändert nur, wie der Fortschritt angezeigt wird, nicht was DeepSeek Harness kann.",
   "onboardingPurposeDescription": "Wir passen die Oberfläche und die Werkzeuge an Ihre Arbeitsweise an.",
-  "onboardingPurposePrefix": "Wobei soll",
+  "onboardingPurposePrefix": "Was möchten Sie",
   "onboardingPurposeSuffix": "Ihnen helfen?",
   "onboardingRetry": "Erneut versuchen",
   "onboardingSaveFailed": "Einstellungen konnten nicht gespeichert werden. Versuchen Sie es erneut.",

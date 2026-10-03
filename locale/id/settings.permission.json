@@ -7,8 +7,8 @@
   "description": "Pilih mode izin bawaan untuk sesi baru",
   "loading": "Memuat",
   "preset.fullAccess": "Akses penuh",
-  "preset.readOnly": "Read Saja",
-  "preset.workspaceWrite": "Ruang Kerja Write",
+  "preset.readOnly": "Hanya Baca",
+  "preset.workspaceWrite": "Tulis Ruang Kerja",
   "title": "Izin",
   "unavailable": "Tidak tersedia"
 }

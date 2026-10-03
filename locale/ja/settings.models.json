@@ -81,7 +81,7 @@
   "modelInputImage": "画像",
   "modelInputText": "テキスト",
   "modelInputTypes": "入力形式",
-  "modelMaxTokensInvalid": "最大出力トークン数は正の数で入力してください。例として8192など、千単位や百万単位の接尾辞も使用できます。",
+  "modelMaxTokensInvalid": "最大出力トークン数は、8192、64K、1M などの正の数で入力してください。",
   "modelName": "表示名",
   "modelNameInvalid": "表示名は空にできません。",
   "modelNamePlaceholder": "空の場合はモデル識別子を使用します",

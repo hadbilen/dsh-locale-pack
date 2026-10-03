@@ -331,7 +331,7 @@
   "tool.title.listModels": "Lister les modèles",
   "tool.title.listSchedules": "Lister les rappels",
   "tool.title.listTeamTasks": "Lister les tâches d'équipe",
-  "tool.title.listTerminals": "Lister Terminal",
+  "tool.title.listTerminals": "Lister les terminaux",
   "tool.title.lsp": "Interroger les symboles du code",
   "tool.title.openTerminal": "Ouvrir Terminal",
   "tool.title.pwsh": "Pwsh",

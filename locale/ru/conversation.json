@@ -85,7 +85,7 @@
   "detail.field.turn": "Ход",
   "detail.field.type": "Тип",
   "detail.field.warnings": "Предупреждения",
-  "detail.field.writeScopes": "Области Write",
+  "detail.field.writeScopes": "Области записи",
   "detail.goal.active": "Активна",
   "detail.goal.blocked": "Заблокирована",
   "detail.goal.complete": "Завершена",

@@ -181,7 +181,7 @@
   "stats.dialog.llmTime": "Timp LLM",
   "stats.dialog.speed": "Tokenuri pe secundă (TPS)",
   "stats.dialog.title": "Statisticile sesiunii",
-  "stats.dialog.toolTime": "Timp instrument",
+  "stats.dialog.toolTime": "Timp instrumente",
   "stats.dialog.ttft": "Timp mediu până la primul token (TTFT)",
   "stats.dialog.usageTitle": "Utilizare tokenuri",
   "view.chat": "Chat"

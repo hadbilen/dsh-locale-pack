@@ -85,7 +85,7 @@
   "detail.field.turn": "รอบ",
   "detail.field.type": "ประเภท",
   "detail.field.warnings": "คำเตือน",
-  "detail.field.writeScopes": "ขอบเขต Write",
+  "detail.field.writeScopes": "ขอบเขตการเขียน",
   "detail.goal.active": "กำลังดำเนินการ",
   "detail.goal.blocked": "ติดขัด",
   "detail.goal.complete": "เสร็จสมบูรณ์",

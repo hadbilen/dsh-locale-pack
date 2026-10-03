@@ -10,7 +10,7 @@
   "action.inspect": "Inspecter",
   "action.remove": "Supprimer",
   "action.retry": "Réessayer",
-  "action.rollback": "Rétablir",
+  "action.rollback": "Revenir en arrière",
   "action.run": "Exécuter",
   "action.stop": "Arrêter",
   "body.clientCode": "Client",
