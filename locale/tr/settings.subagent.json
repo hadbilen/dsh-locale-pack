@@ -24,7 +24,7 @@
   "subagentModelSelectionEmpty": "Şu anda hiçbir model sağlayıcısı model sunmuyor.",
   "subagentModelSelectionLoadFailed": "Modeller yüklenemedi.",
   "subagentModelSelectionLoading": "Modeller yükleniyor…",
-  "subagentModelSelectionOff": "Alt aracılar yapılandırılan varsayılanları kullanır veya üst aracının modelini devralır. Kaydedilmiş model seçimleri korunur.",
+  "subagentModelSelectionOff": "Alt ajanlar yapılandırılan varsayılanları kullanır veya üst ajanın modelini devralır. Kaydedilmiş model seçimleri korunur.",
   "subagentModelSelectionPartial": "Bazı model sağlayıcıları yüklenemedi; kaydedilmiş seçimler yine de kaldırılabilir.",
   "subagentModelSelectionRequired": "Kaydetmeden önce en az bir model seçin.",
   "subagentModelSelectionRetry": "Yeniden Dene",

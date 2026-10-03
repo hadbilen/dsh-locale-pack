@@ -86,7 +86,7 @@
   "status.idle": "Boşta",
   "status.planReview": "Plan inceleme bekliyor",
   "status.running": "Çalışıyor",
-  "status.subagentsRunning.one": "{n} alt aracı çalışıyor",
+  "status.subagentsRunning.one": "{n} alt ajan çalışıyor",
   "status.subagentsRunning.other": "{n} alt ajan çalışıyor",
   "status.waitingAnswer": "Yanıt bekleniyor",
   "status.waitingApproval": "Onay bekleniyor",
