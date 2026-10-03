@@ -23,7 +23,7 @@
   "desktop.update.tasksUnavailable": "Görev durumu kullanılamıyor. Çalışma alanı hazır olduğunda güncellemeyi yeniden deneyin.",
   "desktop.update.verifying": "Güncelleme dosyaları doğrulanıyor…",
   "desktop.update.versionDetail": "{label}: {version}",
-  "developerTools.description": "Yörüngeyi, kod Diff öğelerini ve tüm Ajan hazır ayarlarını gösterir",
+  "developerTools.description": "Yörüngeyi, kod diff öğelerini ve tüm ajan hazır ayarlarını gösterir",
   "developerTools.error": "Kaydedilemedi. Lütfen tekrar deneyin.",
   "developerTools.title": "Kodlama görünümünü göster",
   "general.currentVersion": "Mevcut sürüm: {version}",

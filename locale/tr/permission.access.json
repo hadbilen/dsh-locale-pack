@@ -15,5 +15,5 @@
   "mode": "Erişim modu, mevcut: {name}",
   "preset.fullAccess": "Tam erişim",
   "preset.readOnly": "Salt Okunur",
-  "preset.workspaceWrite": "Çalışma Alanı Yazma"
+  "preset.workspaceWrite": "Çalışma Alanına Yazma"
 }

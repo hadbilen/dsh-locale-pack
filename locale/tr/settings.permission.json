@@ -8,7 +8,7 @@
   "loading": "Yükleniyor",
   "preset.fullAccess": "Tam erişim",
   "preset.readOnly": "Salt Okunur",
-  "preset.workspaceWrite": "Çalışma Alanı Yazma",
+  "preset.workspaceWrite": "Çalışma Alanına Yazma",
   "title": "İzin",
   "unavailable": "Kullanılamıyor"
 }
