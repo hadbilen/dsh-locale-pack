@@ -32,7 +32,9 @@ That interface was available in English and Simplified Chinese. Developers who p
 
 ## Install
 
-Clone the repository and register it as a plugin link.
+The DeepSeek Harness desktop app has to be installed first. Then clone the repository and register it as a plugin link.
+
+macOS and Linux (bash):
 
 ```bash
 # 1) Get the sources
