@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Закрити",
+  "dialog.commandFailed": "Не вдалося розпочати експорт сеансу.",
+  "dialog.errorTitle": "Не вдалося експортувати сеанс",
+  "dialog.preparingDescription": "Підготовка ZIP-архіву, що містить цей сеанс, його підсеанси та вкладення.",
+  "dialog.preparingTitle": "Експортування сеансу",
+  "dialog.successDescription": "Браузер завантажує ZIP-архів сеансу.",
+  "dialog.successTitle": "Завантаження сеансу розпочато",
+  "header.more": "Більше дій",
+  "menu.download": "Завантажити журнал сеансу",
+  "menu.feedback": "Зворотний зв'язок"
+}

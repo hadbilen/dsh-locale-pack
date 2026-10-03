@@ -1,0 +1,14 @@
+{
+  "description": "Controla como o agente distribui chamadas de ferramenta.",
+  "invalidNumber": "Digite um número ou deixe em branco para usar o padrão.",
+  "maxParallel": "Chamadas de ferramenta paralelas",
+  "maxParallelHint": "Limite superior de chamadas paralelas seguras executadas de uma vez em uma etapa.",
+  "overridden": "Substituído",
+  "readOnly": "Esta implantação armazena as configurações como somente leitura.",
+  "reset": "Redefinir para o padrão",
+  "save": "Salvar",
+  "saveFailed": "A implantação não aceitou esses valores; eles foram mantidos para você corrigir.",
+  "saving": "Salvando…",
+  "title": "Loop do agente",
+  "unavailable": "Este plugin não está carregado, por isso não pode ser configurado agora."
+}

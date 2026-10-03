@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "خروج از حالت طرح ناموفق بود",
+  "chip.label": "طرح",
+  "chip.on.aria": "حالت طرح روشن است، برای خاموش کردن فشار دهید",
+  "chip.on.title": "حالت طرح روشن است، برای خاموش کردن کلیک کنید (/plan off)",
+  "preview.action": "باز کردن",
+  "preview.document": "طرح · Markdown",
+  "preview.expired": "این پیش‌نمایش موقت طرح منقضی شده است. آن را از کارت بررسی در انتظار دوباره باز کنید.",
+  "preview.failed": "طرح بارگذاری نشد",
+  "preview.full": "مشاهده طرح کامل",
+  "preview.historyUnavailable": "تاریخچه نشست در دسترس نیست",
+  "preview.invalidAddress": "نشانی طرح نامعتبر است",
+  "preview.loading": "در حال بارگذاری طرح…",
+  "preview.notFound": "این طرح پیدا نشد",
+  "preview.open": "باز کردن طرح در نوار کناری",
+  "preview.openNamed": "باز کردن طرح: {title}",
+  "preview.title": "طرح",
+  "preview.unavailable": "پیش‌نمایش طرح در دسترس نیست"
+}

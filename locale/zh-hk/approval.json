@@ -1,0 +1,7 @@
+{
+  "allowOnce": "允許一次",
+  "detail.aria": "批准詳情",
+  "escalation": "工具 {toolName} 要求特權執行",
+  "reject": "拒絕",
+  "waiting": "等候批准"
+}

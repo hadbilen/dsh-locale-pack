@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Isara",
+  "dialog.commandFailed": "Hindi masimulan ang pag-export ng sesyon.",
+  "dialog.errorTitle": "Nabigo ang pag-export ng sesyon",
+  "dialog.preparingDescription": "Naghahanda ng ZIP na naglalaman ng sesyong ito, ng mga sub-sesyon nito, at ng mga kalakip.",
+  "dialog.preparingTitle": "Ine-export ang sesyon",
+  "dialog.successDescription": "Dina-download ng browser ang ZIP ng sesyon.",
+  "dialog.successTitle": "Nagsimula na ang pag-download ng sesyon",
+  "header.more": "Higit pang mga aksyon",
+  "menu.download": "I-download ang log ng sesyon",
+  "menu.feedback": "Puna"
+}

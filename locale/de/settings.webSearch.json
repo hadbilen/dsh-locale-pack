@@ -1,0 +1,20 @@
+{
+  "apiKey": "API-Schlüssel",
+  "apiKeyHint": "Außerhalb der Einstellungsdatei gespeichert. Leer lassen, um den aktuellen Schlüssel zu behalten.",
+  "apiKeySet": "Ein Schlüssel ist konfiguriert.",
+  "apiKeyUnset": "Kein Schlüssel ist konfiguriert; nur Unterhaltungen mit einem DeepSeek-Kontomodell können über den Standardendpunkt suchen.",
+  "baseUrl": "Endpunkt",
+  "baseUrlHint": "Leer lassen, um den Standard des Anbieters zu verwenden.",
+  "description": "Den DeepSeek-Suchanbieter einrichten.",
+  "invalidNumber": "Eine Zahl eingeben oder leer lassen, um den Standard zu verwenden.",
+  "maxUses": "Maximale Suchvorgänge pro Anfrage",
+  "maxUsesHint": "Wie oft eine Anfrage suchen darf, bevor sie antworten muss.",
+  "overridden": "Überschrieben",
+  "readOnly": "Diese Bereitstellung speichert Einstellungen schreibgeschützt.",
+  "reset": "Auf Standard zurücksetzen",
+  "save": "Speichern",
+  "saveFailed": "Die Bereitstellung hat diese Werte nicht akzeptiert; sie wurden zur Korrektur beibehalten.",
+  "saving": "Speichern…",
+  "title": "Websuche",
+  "unavailable": "Dieses Plugin ist nicht geladen, daher kann es derzeit nicht konfiguriert werden."
+}

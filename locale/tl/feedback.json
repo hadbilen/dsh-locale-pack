@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Hindi magandang tugon",
+  "action.dislikeActive": "Alisin ang rating",
+  "action.like": "Magandang tugon",
+  "action.likeActive": "Alisin ang rating",
+  "category.instruction-following": "Pag-unawa at pagsunod sa tagubilin",
+  "category.other": "Iba pa",
+  "category.product-interaction": "Mga tampok at interaksyon ng produkto",
+  "category.resource-cost": "Paggamit ng mapagkukunan at gastos",
+  "category.security-privacy-permission": "Seguridad, pagkapribado, at mga pahintulot",
+  "category.service-stability": "Katatagan at bilis",
+  "category.task-result": "Resulta ng gawain",
+  "dialog.categories": "Kategorya ng puna",
+  "dialog.detail": "Mga detalye ng puna",
+  "dialog.hint": "Magdagdag ng mga detalye upang matulungan kaming mapabuti ito. Isasama sa iyong isusumite ang kasalukuyang log ng pag-uusap.",
+  "dialog.title": "Isumite ang puna",
+  "error.conflict": "Nagbago ang punang ito sa ibang lugar; ipinapakita ang pinakabagong estado",
+  "error.generic": "Hindi ma-save ang puna",
+  "error.load": "Hindi ma-load ang puna",
+  "error.noteTooLarge": "Masyadong mahaba ang paglalarawan; paikliin ito at isumite muli",
+  "toast.recorded": "Salamat sa iyong puna"
+}

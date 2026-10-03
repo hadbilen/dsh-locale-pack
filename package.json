@@ -1,0 +1,49 @@
+{
+  "name": "dsh-locale-pack",
+  "description": "DeepSeek Harness 26개 언어 로케일 팩: 언어 등록 + 사전 (버전업 유지형)",
+  "version": "0.2.0",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "engines": {
+      "dsh": ">=0.2.0-rc.1"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [
+        "@deepseek-ai/dsh-client-locale"
+      ],
+      "platform": "web"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": "~4.0.4"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<계정>/dsh-locale-pack.git"
+  },
+  "files": [
+    "lib/**/*.js",
+    "locale/**/*.json",
+    "cordis.patch.yml",
+    "README.md",
+    "CHANGELOG.md",
+    "SUPPORTED_DSH.json",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "node tools/build-client.mjs",
+    "smoke": "node tools/smoke.mjs",
+    "check-keep": "node tools/check-keep.mjs",
+    "check-upstream": "node tools/check-upstream.mjs"
+  }
+}

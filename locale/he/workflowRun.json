@@ -1,0 +1,20 @@
+{
+  "member.empty": "שם חבר ריק",
+  "member.open": "פתח את {name}",
+  "phase.empty": "שם שלב ריק",
+  "phase.unassigned": "ללא שלב",
+  "run.empty": "אף חבר לא התחיל",
+  "run.members.one": "{count} חבר",
+  "run.members.other": "{count} חברים",
+  "run.title": "{name}",
+  "status.cancelled": "בוטל",
+  "status.completed": "הושלם",
+  "status.failed": "נכשל",
+  "status.interrupted": "הופסק",
+  "status.running": "פועל",
+  "statusCount.cancelled": "בוטלו {count}",
+  "statusCount.completed": "הושלמו {count}",
+  "statusCount.failed": "נכשלו {count}",
+  "statusCount.interrupted": "הופסקו {count}",
+  "statusCount.running": "פועלים {count}"
+}

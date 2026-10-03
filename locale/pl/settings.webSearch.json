@@ -1,0 +1,20 @@
+{
+  "apiKey": "Klucz API",
+  "apiKeyHint": "Przechowywany poza plikiem ustawień. Pozostaw puste, aby zachować bieżący klucz.",
+  "apiKeySet": "Klucz jest skonfigurowany.",
+  "apiKeyUnset": "Nie skonfigurowano klucza; tylko konwersacje używające modelu DeepSeek Account mogą wyszukiwać, za pośrednictwem domyślnego punktu końcowego.",
+  "baseUrl": "Punkt końcowy",
+  "baseUrlHint": "Pozostaw puste, aby użyć domyślnego ustawienia dostawcy.",
+  "description": "Skonfiguruj dostawcę wyszukiwania DeepSeek.",
+  "invalidNumber": "Wpisz liczbę lub pozostaw puste, aby użyć wartości domyślnej.",
+  "maxUses": "Maks. liczba wyszukiwań na żądanie",
+  "maxUsesHint": "Ile razy jedno żądanie może wyszukiwać, zanim będzie musiało odpowiedzieć.",
+  "overridden": "Nadpisane",
+  "readOnly": "To wdrożenie przechowuje ustawienia tylko do odczytu.",
+  "reset": "Przywróć domyślne",
+  "save": "Zapisz",
+  "saveFailed": "Wdrożenie nie zaakceptowało tych wartości; pozostawiono je do poprawienia.",
+  "saving": "Zapisywanie…",
+  "title": "Wyszukiwanie w internecie",
+  "unavailable": "Ta wtyczka nie jest załadowana, więc nie można jej teraz skonfigurować."
+}

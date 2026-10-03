@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Awtomatikong pag-refresh",
+  "autoRefresh.disable": "Huwag paganahin ang awtomatikong pag-refresh",
+  "autoRefresh.enable": "Paganahin ang awtomatikong pag-refresh",
+  "empty": "Walang laman na direktoryo",
+  "entry.other": "Hindi ito file o direktoryo, kaya hindi ito mabubuksan.",
+  "error.notDirectory": "Hindi iyon isang direktoryo.",
+  "error.notFound": "Wala na ang direktoryong iyon. Maaaring inilipat o tinanggal ito.",
+  "error.outsideWorkspace": "Nasa labas ng workspace ang direktoryong iyon, kaya hindi ito babasahin ng sidebar.",
+  "error.unavailable": "Nabigo ang Read: {message}",
+  "guide.description": "I-browse ang mga file sa workspace ng session na ito",
+  "guide.title": "Mga file ng workspace",
+  "loading": "Nagbabasa…",
+  "noWorkspace": "Walang workspace direktoryo ang session na ito.",
+  "reload": "I-reload",
+  "shortcut.noSession": "Pumili muna ng session",
+  "truncated": "Masyadong maraming entry, ilan lang ang ipinapakita.",
+  "type.label": "Mga file"
+}

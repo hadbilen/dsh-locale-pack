@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "In {app} öffnen",
+  "open.tooltip": "Lokal öffnen",
+  "path.appDefault": "{app} (Standard)",
+  "path.appsError": "Anwendungen konnten nicht geladen werden",
+  "path.more": "Weitere Möglichkeiten zum Öffnen",
+  "path.open": "Öffnen",
+  "path.openError": "Konnte nicht geöffnet werden. Erneut versuchen.",
+  "path.reveal": "Dateispeicherort anzeigen",
+  "path.revealError": "Der Dateispeicherort konnte nicht angezeigt werden. Erneut versuchen.",
+  "shortcut.busy": "Arbeitsbereich wird geöffnet",
+  "shortcut.unavailable": "Aktueller Arbeitsbereich oder lokale Anwendung nicht verfügbar"
+}

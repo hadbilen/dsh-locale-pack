@@ -1,0 +1,14 @@
+{
+  "description": "Kontroluj, jak agent rozdziela wywołania narzędzi.",
+  "invalidNumber": "Wpisz liczbę lub pozostaw puste pole, aby użyć wartości domyślnej.",
+  "maxParallel": "Równoległe wywołania narzędzi",
+  "maxParallelHint": "Górny limit liczby wywołań bezpiecznych do wykonywania równoległego, działających jednocześnie w jednym kroku.",
+  "overridden": "Nadpisano",
+  "readOnly": "To wdrożenie przechowuje ustawienia tylko do odczytu.",
+  "reset": "Przywróć wartość domyślną",
+  "save": "Zapisz",
+  "saveFailed": "Wdrożenie nie zaakceptowało tych wartości; pozostawiono je do poprawy.",
+  "saving": "Zapisywanie…",
+  "title": "Pętla agenta",
+  "unavailable": "Ta wtyczka nie jest załadowana, więc nie można jej teraz skonfigurować."
+}

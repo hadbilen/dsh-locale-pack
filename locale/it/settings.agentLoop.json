@@ -1,0 +1,14 @@
+{
+  "description": "Controlla come l'agente invia le chiamate agli strumenti.",
+  "invalidNumber": "Inserisci un numero oppure lascia vuoto per usare il valore predefinito.",
+  "maxParallel": "Chiamate agli strumenti in parallelo",
+  "maxParallelHint": "Limite massimo di chiamate sicure in parallelo eseguite contemporaneamente in un unico passaggio.",
+  "overridden": "Sovrascritto",
+  "readOnly": "Questa distribuzione memorizza le impostazioni in sola lettura.",
+  "reset": "Ripristina valore predefinito",
+  "save": "Salva",
+  "saveFailed": "La distribuzione non ha accettato questi valori; sono stati lasciati invariati per consentirti di correggerli.",
+  "saving": "Salvataggio in corso…",
+  "title": "Ciclo dell'agente",
+  "unavailable": "Questo plugin non è caricato, quindi non può essere configurato al momento."
+}

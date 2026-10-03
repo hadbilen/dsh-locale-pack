@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "गहरा",
+  "appearance.light": "हल्का",
+  "appearance.system": "सिस्टम",
+  "appearance.title": "दिखावट",
+  "fontSize.decrease": "फ़ॉन्ट आकार घटाएं",
+  "fontSize.description": "केवल बातचीत सामग्री को प्रभावित करता है",
+  "fontSize.increase": "फ़ॉन्ट आकार बढ़ाएं",
+  "fontSize.title": "फ़ॉन्ट आकार",
+  "fontSize.unit": "px"
+}

@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Ik begrijp deze risico's en wil doorgaan",
+  "auto.confirm.description": "Automatische controle wordt uitgevoerd zonder sandbox. Voor elke native toolaanroep en interne PTC-aanroep beoordeelt hetzelfde model als de huidige agent of deze is toegestaan; je keurt elke geweigerde aanroep goed of af. Deze functie is experimenteel, kan acties ten onrechte toestaan of weigeren, en gebruikt extra tokens.",
+  "auto.confirm.enable": "Automatische controle inschakelen",
+  "auto.confirm.title": "Automatische controle (experimenteel) inschakelen?",
+  "auto.description": "Uitvoeren zonder sandbox na een experimentele beoordeling door hetzelfde model van elke native toolaanroep en interne PTC-aanroep.",
+  "auto.label": "Automatische controle",
+  "close": "Sluiten",
+  "confirm.acknowledge": "Ik begrijp de risico's en wil doorgaan",
+  "confirm.cancel": "Annuleren",
+  "confirm.description": "Volledige toegang vermindert het aantal bevestigingsstappen en laat de agent meer acties direct uitvoeren, waaronder gevoelige bewerkingen, bestandswijzigingen of externe opdrachten. Gebruik dit alleen als je de huidige taak vertrouwt.",
+  "confirm.enable": "Volledige toegang inschakelen",
+  "confirm.title": "Volledige toegang inschakelen?",
+  "mode": "Toegangsmodus, huidige: {name}",
+  "preset.fullAccess": "Volledige toegang",
+  "preset.readOnly": "Alleen lezen",
+  "preset.workspaceWrite": "Werkruimte schrijven"
+}

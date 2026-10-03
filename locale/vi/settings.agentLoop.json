@@ -1,0 +1,14 @@
+{
+  "description": "Kiểm soát cách tác tử điều phối các lệnh gọi công cụ.",
+  "invalidNumber": "Nhập một số, hoặc để trống để dùng giá trị mặc định.",
+  "maxParallel": "Lệnh gọi công cụ song song",
+  "maxParallelHint": "Giới hạn trên của các lệnh gọi an toàn song song chạy cùng lúc trong một bước.",
+  "overridden": "Đã ghi đè",
+  "readOnly": "Bản triển khai này lưu trữ cài đặt ở chế độ chỉ đọc.",
+  "reset": "Đặt lại về mặc định",
+  "save": "Lưu",
+  "saveFailed": "Bản triển khai không chấp nhận các giá trị này; các giá trị được giữ lại để bạn sửa.",
+  "saving": "Đang lưu…",
+  "title": "Vòng lặp tác tử",
+  "unavailable": "Tiện ích này chưa được tải nên hiện không thể cấu hình."
+}

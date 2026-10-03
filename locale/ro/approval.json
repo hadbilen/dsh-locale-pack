@@ -1,0 +1,7 @@
+{
+  "allowOnce": "Permite o dată",
+  "detail.aria": "Detaliile aprobării",
+  "escalation": "Instrumentul {toolName} solicită execuție privilegiată",
+  "reject": "Respinge",
+  "waiting": "Se așteaptă aprobarea"
+}

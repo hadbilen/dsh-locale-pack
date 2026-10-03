@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Buka di {app}",
+  "open.tooltip": "Buka secara lokal",
+  "path.appDefault": "{app} (bawaan)",
+  "path.appsError": "Tidak dapat memuat aplikasi",
+  "path.more": "Cara lain untuk membuka",
+  "path.open": "Buka",
+  "path.openError": "Tidak dapat membuka. Coba lagi.",
+  "path.reveal": "Tampilkan lokasi file",
+  "path.revealError": "Tidak dapat menampilkan lokasi file. Coba lagi.",
+  "shortcut.busy": "Membuka ruang kerja",
+  "shortcut.unavailable": "Ruang kerja saat ini atau aplikasi lokal tidak tersedia"
+}

@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "alleen gebruiker",
+  "row.failed": "Laden van vaardigheid mislukt",
+  "row.inspect": "Inspecteren",
+  "row.instructions": "Instructies",
+  "row.preparing": "Voorbereiden om een vaardigheid te laden",
+  "row.running": "Vaardigheid laden",
+  "row.stopped": "Laden van vaardigheid gestopt",
+  "row.title": "Vaardigheid"
+}

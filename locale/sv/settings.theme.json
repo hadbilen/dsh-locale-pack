@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Mörkt",
+  "appearance.light": "Ljust",
+  "appearance.system": "System",
+  "appearance.title": "Utseende",
+  "fontSize.decrease": "Minska teckenstorleken",
+  "fontSize.description": "Påverkar endast konversationens innehåll",
+  "fontSize.increase": "Öka teckenstorleken",
+  "fontSize.title": "Teckenstorlek",
+  "fontSize.unit": "px"
+}

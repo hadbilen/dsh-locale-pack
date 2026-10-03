@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Скасувати редагування",
+  "action.clear": "Очистити ціль",
+  "action.edit": "Редагувати ціль",
+  "action.pause": "Призупинити ціль",
+  "action.resume": "Відновити ціль",
+  "action.save": "Зберегти ціль",
+  "commandInput.aria": "Введення команди",
+  "objective.aria": "Завдання цілі",
+  "phase.active": "Активна ціль",
+  "phase.active.disarmed": "Неактивна ціль",
+  "phase.blocked": "Заблокована ціль",
+  "phase.paused": "Призупинена ціль"
+}

@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Donker",
+  "appearance.light": "Licht",
+  "appearance.system": "Systeem",
+  "appearance.title": "Uiterlijk",
+  "fontSize.decrease": "Tekengrootte verkleinen",
+  "fontSize.description": "Alleen van invloed op gespreksinhoud",
+  "fontSize.increase": "Tekengrootte vergroten",
+  "fontSize.title": "Tekengrootte",
+  "fontSize.unit": "px"
+}

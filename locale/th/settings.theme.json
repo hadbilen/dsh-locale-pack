@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "มืด",
+  "appearance.light": "สว่าง",
+  "appearance.system": "ระบบ",
+  "appearance.title": "รูปลักษณ์",
+  "fontSize.decrease": "ลดขนาดตัวอักษร",
+  "fontSize.description": "มีผลเฉพาะเนื้อหาการสนทนาเท่านั้น",
+  "fontSize.increase": "เพิ่มขนาดตัวอักษร",
+  "fontSize.title": "ขนาดตัวอักษร",
+  "fontSize.unit": "px"
+}

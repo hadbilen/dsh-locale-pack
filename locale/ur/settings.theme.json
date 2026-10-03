@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "گہرا",
+  "appearance.light": "ہلکا",
+  "appearance.system": "نظام",
+  "appearance.title": "ظاہری شکل",
+  "fontSize.decrease": "فونٹ کا سائز کم کریں",
+  "fontSize.description": "صرف گفتگو کے مواد پر اثر ہوتا ہے",
+  "fontSize.increase": "فونٹ کا سائز بڑھائیں",
+  "fontSize.title": "فونٹ کا سائز",
+  "fontSize.unit": "px"
+}

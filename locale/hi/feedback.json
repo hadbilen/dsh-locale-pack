@@ -1,0 +1,22 @@
+{
+  "action.dislike": "खराब जवाब",
+  "action.dislikeActive": "रेटिंग हटाएं",
+  "action.like": "अच्छा जवाब",
+  "action.likeActive": "रेटिंग हटाएं",
+  "category.instruction-following": "निर्देशों को समझना और उनका पालन",
+  "category.other": "अन्य",
+  "category.product-interaction": "उत्पाद सुविधाएं और इंटरैक्शन",
+  "category.resource-cost": "संसाधन उपयोग और लागत",
+  "category.security-privacy-permission": "सुरक्षा, गोपनीयता और अनुमतियां",
+  "category.service-stability": "स्थिरता और गति",
+  "category.task-result": "कार्य परिणाम",
+  "dialog.categories": "फ़ीडबैक श्रेणी",
+  "dialog.detail": "फ़ीडबैक विवरण",
+  "dialog.hint": "हमें सुधार करने में मदद के लिए विवरण जोड़ें। आपके सबमिशन में वर्तमान वार्तालाप लॉग शामिल होगा।",
+  "dialog.title": "फ़ीडबैक भेजें",
+  "error.conflict": "यह फ़ीडबैक कहीं और बदल गया है; नवीनतम स्थिति दिखाई गई है",
+  "error.generic": "फ़ीडबैक सहेजा नहीं जा सका",
+  "error.load": "फ़ीडबैक लोड नहीं हो सका",
+  "error.noteTooLarge": "विवरण बहुत लंबा है; इसे छोटा करें और फिर से भेजें",
+  "toast.recorded": "आपके फ़ीडबैक के लिए धन्यवाद"
+}

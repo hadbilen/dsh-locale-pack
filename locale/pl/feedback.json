@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Zła odpowiedź",
+  "action.dislikeActive": "Usuń ocenę",
+  "action.like": "Dobra odpowiedź",
+  "action.likeActive": "Usuń ocenę",
+  "category.instruction-following": "Rozumienie i wykonywanie instrukcji",
+  "category.other": "Inne",
+  "category.product-interaction": "Funkcje produktu i interakcja",
+  "category.resource-cost": "Zużycie zasobów i koszty",
+  "category.security-privacy-permission": "Bezpieczeństwo, prywatność i uprawnienia",
+  "category.service-stability": "Stabilność i szybkość",
+  "category.task-result": "Wynik zadania",
+  "dialog.categories": "Kategoria opinii",
+  "dialog.detail": "Szczegóły opinii",
+  "dialog.hint": "Dodaj szczegóły, aby pomóc nam się poprawić. Twoje zgłoszenie będzie zawierać bieżący dziennik konwersacji.",
+  "dialog.title": "Prześlij opinię",
+  "error.conflict": "Ta opinia została zmieniona w innym miejscu; wyświetlono najnowszy stan",
+  "error.generic": "Nie można zapisać opinii",
+  "error.load": "Nie można wczytać opinii",
+  "error.noteTooLarge": "Opis jest zbyt długi; skróć go i prześlij ponownie",
+  "toast.recorded": "Dziękujemy za opinię"
+}

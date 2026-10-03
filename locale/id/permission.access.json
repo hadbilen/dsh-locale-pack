@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Saya memahami risiko ini dan ingin melanjutkan",
+  "auto.confirm.description": "Tinjauan otomatis berjalan tanpa sandbox. Sebelum setiap panggilan tool native dan panggilan dalam PTC, model yang sama dengan agen saat ini meninjau apakah akan mengizinkannya; Anda menyetujui atau menolak setiap panggilan yang ditolaknya. Fitur ini bersifat eksperimental, dapat secara keliru mengizinkan atau menolak tindakan, dan menggunakan token tambahan.",
+  "auto.confirm.enable": "Aktifkan Tinjauan otomatis",
+  "auto.confirm.title": "Aktifkan Tinjauan otomatis (eksperimental)?",
+  "auto.description": "Berjalan tanpa sandbox setelah tinjauan eksperimental model yang sama untuk setiap panggilan tool native dan panggilan dalam PTC.",
+  "auto.label": "Tinjauan otomatis",
+  "close": "Tutup",
+  "confirm.acknowledge": "Saya memahami risikonya dan ingin melanjutkan",
+  "confirm.cancel": "Batal",
+  "confirm.description": "Akses penuh mengurangi langkah konfirmasi dan memungkinkan agen melakukan lebih banyak tindakan secara langsung, termasuk operasi sensitif, perubahan file, atau perintah eksternal. Gunakan hanya jika Anda memercayai tugas saat ini.",
+  "confirm.enable": "Aktifkan Akses penuh",
+  "confirm.title": "Aktifkan Akses penuh?",
+  "mode": "Mode akses, saat ini: {name}",
+  "preset.fullAccess": "Akses penuh",
+  "preset.readOnly": "Hanya Baca",
+  "preset.workspaceWrite": "Tulis Ruang Kerja"
+}

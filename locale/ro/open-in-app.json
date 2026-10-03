@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Deschide în {app}",
+  "open.tooltip": "Deschide local",
+  "path.appDefault": "{app} (implicit)",
+  "path.appsError": "Nu s-au putut încărca aplicațiile",
+  "path.more": "Mai multe moduri de deschidere",
+  "path.open": "Deschide",
+  "path.openError": "Nu s-a putut deschide. Încearcă din nou.",
+  "path.reveal": "Afișează locația fișierului",
+  "path.revealError": "Nu s-a putut afișa locația fișierului. Încearcă din nou.",
+  "shortcut.busy": "Se deschide spațiul de lucru",
+  "shortcut.unavailable": "Spațiul de lucru curent sau aplicația locală nu sunt disponibile"
+}

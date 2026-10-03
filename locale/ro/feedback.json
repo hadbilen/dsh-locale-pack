@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Răspuns prost",
+  "action.dislikeActive": "Elimină evaluarea",
+  "action.like": "Răspuns bun",
+  "action.likeActive": "Elimină evaluarea",
+  "category.instruction-following": "Înțelegerea și respectarea instrucțiunilor",
+  "category.other": "Altele",
+  "category.product-interaction": "Funcțiile produsului și interacțiunea",
+  "category.resource-cost": "Utilizarea resurselor și costurile",
+  "category.security-privacy-permission": "Securitate, confidențialitate și permisiuni",
+  "category.service-stability": "Stabilitate și viteză",
+  "category.task-result": "Rezultatul sarcinii",
+  "dialog.categories": "Categorie de feedback",
+  "dialog.detail": "Detalii despre feedback",
+  "dialog.hint": "Adaugă detalii pentru a ne ajuta să ne îmbunătățim. Trimiterea ta va include jurnalul conversației curente.",
+  "dialog.title": "Trimite feedback",
+  "error.conflict": "Acest feedback a fost modificat în altă parte; este afișată cea mai recentă stare",
+  "error.generic": "Feedbackul nu a putut fi salvat",
+  "error.load": "Feedbackul nu a putut fi încărcat",
+  "error.noteTooLarge": "Descrierea este prea lungă; scurteaz-o și trimite din nou",
+  "toast.recorded": "Mulțumim pentru feedback"
+}

@@ -1,0 +1,12 @@
+{
+  "dialog.close": "ปิด",
+  "dialog.commandFailed": "ไม่สามารถเริ่มการส่งออกเซสชันได้",
+  "dialog.errorTitle": "การส่งออกเซสชันล้มเหลว",
+  "dialog.preparingDescription": "กำลังเตรียมไฟล์ ZIP ที่มีเซสชันนี้ เซสชันย่อย และไฟล์แนบ",
+  "dialog.preparingTitle": "กำลังส่งออกเซสชัน",
+  "dialog.successDescription": "เบราว์เซอร์กำลังดาวน์โหลดไฟล์ ZIP ของเซสชัน",
+  "dialog.successTitle": "เริ่มดาวน์โหลดเซสชันแล้ว",
+  "header.more": "การดำเนินการเพิ่มเติม",
+  "menu.download": "ดาวน์โหลดบันทึกเซสชัน",
+  "menu.feedback": "ข้อเสนอแนะ"
+}

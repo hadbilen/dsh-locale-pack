@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Madilim",
+  "appearance.light": "Maliwanag",
+  "appearance.system": "Sistema",
+  "appearance.title": "Hitsura",
+  "fontSize.decrease": "Bawasan ang laki ng font",
+  "fontSize.description": "Nakakaapekto lamang sa nilalaman ng pag-uusap",
+  "fontSize.increase": "Dagdagan ang laki ng font",
+  "fontSize.title": "Laki ng font",
+  "fontSize.unit": "px"
+}

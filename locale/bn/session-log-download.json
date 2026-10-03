@@ -1,0 +1,12 @@
+{
+  "dialog.close": "বন্ধ করুন",
+  "dialog.commandFailed": "সেশন এক্সপোর্ট শুরু করা যায়নি।",
+  "dialog.errorTitle": "সেশন এক্সপোর্ট ব্যর্থ হয়েছে",
+  "dialog.preparingDescription": "এই সেশন, এর সাব-সেশন এবং সংযুক্তি সহ একটি ZIP প্রস্তুত করা হচ্ছে।",
+  "dialog.preparingTitle": "সেশন এক্সপোর্ট করা হচ্ছে",
+  "dialog.successDescription": "ব্রাউজার সেশন ZIP ডাউনলোড করছে।",
+  "dialog.successTitle": "সেশন ডাউনলোড শুরু হয়েছে",
+  "header.more": "আরও ক্রিয়া",
+  "menu.download": "সেশন লগ ডাউনলোড করুন",
+  "menu.feedback": "মতামত"
+}

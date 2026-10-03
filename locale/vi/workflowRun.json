@@ -1,0 +1,20 @@
+{
+  "member.empty": "Tên thành viên trống",
+  "member.open": "Mở {name}",
+  "phase.empty": "Tên giai đoạn trống",
+  "phase.unassigned": "Chưa phân giai đoạn",
+  "run.empty": "Chưa có thành viên nào bắt đầu",
+  "run.members.one": "{count} thành viên",
+  "run.members.other": "{count} thành viên",
+  "run.title": "{name}",
+  "status.cancelled": "Đã hủy",
+  "status.completed": "Đã hoàn thành",
+  "status.failed": "Thất bại",
+  "status.interrupted": "Bị gián đoạn",
+  "status.running": "Đang chạy",
+  "statusCount.cancelled": "Đã hủy {count}",
+  "statusCount.completed": "Đã hoàn thành {count}",
+  "statusCount.failed": "Thất bại {count}",
+  "statusCount.interrupted": "Bị gián đoạn {count}",
+  "statusCount.running": "Đang chạy {count}"
+}

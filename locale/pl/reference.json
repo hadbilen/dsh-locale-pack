@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(brak cwd)",
+  "crumb.root": "Obszar roboczy",
+  "section.files": "Files i foldery",
+  "section.sessions": "Sesje",
+  "section.subagents": "Subagenci",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "teraz",
+  "time.years": "{n}y"
+}

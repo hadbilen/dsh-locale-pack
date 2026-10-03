@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Rozumiem te zagrożenia i chcę kontynuować",
+  "auto.confirm.description": "Automatyczna weryfikacja działa bez piaskownicy. Przed każdym natywnym wywołaniem narzędzia i wewnętrznym wywołaniem PTC ten sam model co bieżący agent sprawdza, czy je zezwolić; każde wywołanie, które odrzuci, zatwierdzasz lub odrzucasz. Ta funkcja jest eksperymentalna, może błędnie zezwalać na działania lub je blokować oraz zużywa dodatkowe tokeny.",
+  "auto.confirm.enable": "Włącz Automatyczną weryfikację",
+  "auto.confirm.title": "Włączyć Automatyczną weryfikację (eksperymentalną)?",
+  "auto.description": "Działaj bez piaskownicy po eksperymentalnej weryfikacji przez ten sam model każdego natywnego wywołania narzędzia i wewnętrznego wywołania PTC.",
+  "auto.label": "Automatyczna weryfikacja",
+  "close": "Zamknij",
+  "confirm.acknowledge": "Rozumiem ryzyko i chcę kontynuować",
+  "confirm.cancel": "Anuluj",
+  "confirm.description": "Pełny dostęp ogranicza liczbę potwierdzeń i pozwala agentowi wykonywać więcej działań bezpośrednio, w tym operacje wrażliwe, zmiany plików lub polecenia zewnętrzne. Używaj go tylko wtedy, gdy ufasz bieżącemu zadaniu.",
+  "confirm.enable": "Włącz Pełny dostęp",
+  "confirm.title": "Włączyć Pełny dostęp?",
+  "mode": "Tryb dostępu, bieżący: {name}",
+  "preset.fullAccess": "Pełny dostęp",
+  "preset.readOnly": "Tylko do odczytu",
+  "preset.workspaceWrite": "Zapis obszaru roboczego"
+}

@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "היציאה ממצב תוכנית נכשלה",
+  "chip.label": "תוכנית",
+  "chip.on.aria": "מצב תוכנית מופעל, לחץ כדי לכבות",
+  "chip.on.title": "מצב תוכנית מופעל, לחץ כדי לכבות (/plan off)",
+  "preview.action": "פתח",
+  "preview.document": "תוכנית · Markdown",
+  "preview.expired": "תצוגה מקדימה זמנית זו של התוכנית פגה. פתח אותה מחדש מכרטיס הסקירה הממתינה.",
+  "preview.failed": "לא ניתן לטעון את התוכנית",
+  "preview.full": "הצג את התוכנית המלאה",
+  "preview.historyUnavailable": "היסטוריית ההפעלה אינה זמינה",
+  "preview.invalidAddress": "כתובת תוכנית לא תקינה",
+  "preview.loading": "טוען את התוכנית…",
+  "preview.notFound": "התוכנית לא נמצאה",
+  "preview.open": "פתח את התוכנית בסרגל הצד",
+  "preview.openNamed": "פתח תוכנית: {title}",
+  "preview.title": "תוכנית",
+  "preview.unavailable": "תצוגה מקדימה של התוכנית אינה זמינה"
+}

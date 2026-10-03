@@ -1,0 +1,22 @@
+{
+  "action.dislike": "رد سيئ",
+  "action.dislikeActive": "إزالة التقييم",
+  "action.like": "رد جيد",
+  "action.likeActive": "إزالة التقييم",
+  "category.instruction-following": "فهم التعليمات واتباعها",
+  "category.other": "أخرى",
+  "category.product-interaction": "ميزات المنتج والتفاعل",
+  "category.resource-cost": "استخدام الموارد والتكلفة",
+  "category.security-privacy-permission": "الأمان والخصوصية والأذونات",
+  "category.service-stability": "الاستقرار والسرعة",
+  "category.task-result": "نتيجة المهمة",
+  "dialog.categories": "فئة الملاحظات",
+  "dialog.detail": "تفاصيل الملاحظات",
+  "dialog.hint": "أضف تفاصيل لمساعدتنا على التحسين. سيتضمن إرسالك سجل المحادثة الحالي.",
+  "dialog.title": "إرسال الملاحظات",
+  "error.conflict": "تغيرت هذه الملاحظات في مكان آخر، ويتم عرض أحدث حالة",
+  "error.generic": "تعذر حفظ الملاحظات",
+  "error.load": "تعذر تحميل الملاحظات",
+  "error.noteTooLarge": "الوصف طويل جدا، اختصره ثم أرسله مرة أخرى",
+  "toast.recorded": "شكرا لك على ملاحظاتك"
+}

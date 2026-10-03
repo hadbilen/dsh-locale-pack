@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(cwd yok)",
+  "crumb.root": "Çalışma alanı",
+  "section.files": "Files ve klasörler",
+  "section.sessions": "Oturumlar",
+  "section.subagents": "Alt ajanlar",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "şimdi",
+  "time.years": "{n}y"
+}

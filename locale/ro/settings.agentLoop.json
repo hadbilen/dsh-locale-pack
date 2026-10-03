@@ -1,0 +1,14 @@
+{
+  "description": "Controlează modul în care agentul distribuie apelurile de instrumente.",
+  "invalidNumber": "Introduceți un număr sau lăsați necompletat pentru a utiliza valoarea implicită.",
+  "maxParallel": "Apeluri paralele de instrumente",
+  "maxParallelHint": "Limita superioară a apelurilor compatibile cu rularea în paralel, executate simultan într-un singur pas.",
+  "overridden": "Suprascris",
+  "readOnly": "Această implementare stochează setările numai pentru citire.",
+  "reset": "Resetează la valoarea implicită",
+  "save": "Salvează",
+  "saveFailed": "Implementarea nu a acceptat aceste valori; acestea au fost păstrate pentru a le corecta.",
+  "saving": "Se salvează…",
+  "title": "Bucla agentului",
+  "unavailable": "Acest plugin nu este încărcat, deci nu poate fi configurat acum."
+}

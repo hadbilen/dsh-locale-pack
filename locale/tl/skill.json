@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "gumagamit lang",
+  "row.failed": "Nabigo ang pag-load ng kasanayan",
+  "row.inspect": "Suriin",
+  "row.instructions": "Mga tagubilin",
+  "row.preparing": "Naghahanda sa pag-load ng kasanayan",
+  "row.running": "Naglo-load ng kasanayan",
+  "row.stopped": "Nahinto ang pag-load ng kasanayan",
+  "row.title": "Kasanayan"
+}

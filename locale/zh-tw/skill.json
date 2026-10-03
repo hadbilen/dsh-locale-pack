@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "僅限使用者",
+  "row.failed": "技能載入失敗",
+  "row.inspect": "檢視",
+  "row.instructions": "指示",
+  "row.preparing": "準備載入技能",
+  "row.running": "正在載入技能",
+  "row.stopped": "技能載入已停止",
+  "row.title": "技能"
+}

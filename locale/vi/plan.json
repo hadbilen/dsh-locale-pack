@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Không thể thoát chế độ kế hoạch",
+  "chip.label": "Kế hoạch",
+  "chip.on.aria": "Chế độ kế hoạch đang bật, nhấn để tắt",
+  "chip.on.title": "Chế độ kế hoạch đang bật, nhấp để tắt (/plan off)",
+  "preview.action": "Mở",
+  "preview.document": "Kế hoạch · Markdown",
+  "preview.expired": "Bản xem trước kế hoạch tạm thời này đã hết hạn. Mở lại từ thẻ đánh giá đang chờ.",
+  "preview.failed": "Không thể tải kế hoạch",
+  "preview.full": "Xem toàn bộ kế hoạch",
+  "preview.historyUnavailable": "Lịch sử phiên không khả dụng",
+  "preview.invalidAddress": "Địa chỉ kế hoạch không hợp lệ",
+  "preview.loading": "Đang tải kế hoạch…",
+  "preview.notFound": "Không tìm thấy kế hoạch này",
+  "preview.open": "Mở kế hoạch trong thanh bên",
+  "preview.openNamed": "Mở kế hoạch: {title}",
+  "preview.title": "Kế hoạch",
+  "preview.unavailable": "Bản xem trước kế hoạch không khả dụng"
+}

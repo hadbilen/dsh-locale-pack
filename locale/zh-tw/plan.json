@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "無法退出計畫模式",
+  "chip.label": "計畫",
+  "chip.on.aria": "計畫模式已開啟，按下即可關閉",
+  "chip.on.title": "計畫模式已開啟，按一下即可關閉（/plan off）",
+  "preview.action": "開啟",
+  "preview.document": "計畫 · Markdown",
+  "preview.expired": "此臨時計畫預覽已過期。請從待審查卡片重新開啟。",
+  "preview.failed": "無法載入計畫",
+  "preview.full": "檢視完整計畫",
+  "preview.historyUnavailable": "工作階段記錄無法使用",
+  "preview.invalidAddress": "無效的計畫位址",
+  "preview.loading": "正在載入計畫…",
+  "preview.notFound": "找不到此計畫",
+  "preview.open": "在側邊欄開啟計畫",
+  "preview.openNamed": "開啟計畫：{title}",
+  "preview.title": "計畫",
+  "preview.unavailable": "計畫預覽無法使用"
+}

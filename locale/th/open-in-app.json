@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "เปิดใน {app}",
+  "open.tooltip": "เปิดในเครื่อง",
+  "path.appDefault": "{app} (ค่าเริ่มต้น)",
+  "path.appsError": "ไม่สามารถโหลดแอปพลิเคชันได้",
+  "path.more": "วิธีเปิดเพิ่มเติม",
+  "path.open": "เปิด",
+  "path.openError": "ไม่สามารถเปิดได้ โปรดลองอีกครั้ง",
+  "path.reveal": "แสดงตำแหน่งไฟล์",
+  "path.revealError": "ไม่สามารถแสดงตำแหน่งไฟล์ได้ โปรดลองอีกครั้ง",
+  "shortcut.busy": "กำลังเปิดพื้นที่ทำงาน",
+  "shortcut.unavailable": "พื้นที่ทำงานปัจจุบันหรือแอปพลิเคชันในเครื่องไม่พร้อมใช้งาน"
+}

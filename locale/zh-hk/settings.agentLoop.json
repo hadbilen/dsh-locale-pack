@@ -1,0 +1,14 @@
+{
+  "description": "控制代理如何分派工具呼叫。",
+  "invalidNumber": "請輸入數字，或留空以使用預設值。",
+  "maxParallel": "並行工具呼叫",
+  "maxParallelHint": "單一步驟內可同時執行的並行安全呼叫上限。",
+  "overridden": "已覆寫",
+  "readOnly": "此部署以唯讀方式儲存設定。",
+  "reset": "重設為預設值",
+  "save": "儲存",
+  "saveFailed": "此部署未接受這些數值，已保留以供你修正。",
+  "saving": "儲存中…",
+  "title": "代理循環",
+  "unavailable": "此外掛程式尚未載入，因此目前無法設定。"
+}

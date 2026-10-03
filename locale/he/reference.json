@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(אין תיקיית עבודה)",
+  "crumb.root": "סביבת עבודה",
+  "section.files": "קבצים ותיקיות",
+  "section.sessions": "הפעלות",
+  "section.subagents": "סוכני משנה",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "עכשיו",
+  "time.years": "{n}y"
+}

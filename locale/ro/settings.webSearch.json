@@ -1,0 +1,20 @@
+{
+  "apiKey": "Cheie API",
+  "apiKeyHint": "Stocată în afara fișierului de setări. Lăsați necompletat pentru a păstra cheia actuală.",
+  "apiKeySet": "O cheie este configurată.",
+  "apiKeyUnset": "Nicio cheie nu este configurată; doar conversațiile care utilizează un model cu cont DeepSeek pot căuta, prin punctul final implicit.",
+  "baseUrl": "Punct final",
+  "baseUrlHint": "Lăsați necompletat pentru a utiliza valoarea implicită a furnizorului.",
+  "description": "Configurați furnizorul de căutare DeepSeek.",
+  "invalidNumber": "Introduceți un număr sau lăsați necompletat pentru a utiliza valoarea implicită.",
+  "maxUses": "Căutări maxime per solicitare",
+  "maxUsesHint": "De câte ori poate căuta o solicitare înainte să trebuiască să răspundă.",
+  "overridden": "Suprascris",
+  "readOnly": "Această implementare stochează setările în mod doar pentru citire.",
+  "reset": "Resetați la valoarea implicită",
+  "save": "Salvați",
+  "saveFailed": "Implementarea nu a acceptat aceste valori; acestea au fost lăsate pentru a le corecta.",
+  "saving": "Se salvează…",
+  "title": "Căutare web",
+  "unavailable": "Acest plugin nu este încărcat, deci nu poate fi configurat momentan."
+}

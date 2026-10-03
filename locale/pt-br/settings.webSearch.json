@@ -1,0 +1,20 @@
+{
+  "apiKey": "Chave de API",
+  "apiKeyHint": "Armazenada fora do arquivo de configurações. Deixe em branco para manter a chave atual.",
+  "apiKeySet": "Uma chave está configurada.",
+  "apiKeyUnset": "Nenhuma chave está configurada; somente conversas que usam um modelo DeepSeek Account podem pesquisar, pelo endpoint padrão.",
+  "baseUrl": "Endpoint",
+  "baseUrlHint": "Deixe em branco para usar o padrão do provedor.",
+  "description": "Configure o provedor de pesquisa DeepSeek.",
+  "invalidNumber": "Digite um número ou deixe em branco para usar o padrão.",
+  "maxUses": "Máximo de pesquisas por solicitação",
+  "maxUsesHint": "Quantas vezes uma solicitação pode pesquisar antes de precisar responder.",
+  "overridden": "Substituído",
+  "readOnly": "Esta implantação armazena as configurações como somente leitura.",
+  "reset": "Redefinir para o padrão",
+  "save": "Salvar",
+  "saveFailed": "A implantação não aceitou esses valores; eles foram mantidos para você corrigir.",
+  "saving": "Salvando…",
+  "title": "Pesquisa na web",
+  "unavailable": "Este plug-in não está carregado, portanto não pode ser configurado no momento."
+}

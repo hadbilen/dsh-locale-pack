@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Anulează editarea",
+  "action.clear": "Șterge scopul",
+  "action.edit": "Editează scopul",
+  "action.pause": "Pune scopul pe pauză",
+  "action.resume": "Reia scopul",
+  "action.save": "Salvează scopul",
+  "commandInput.aria": "Câmp de comandă",
+  "objective.aria": "Obiectivul scopului",
+  "phase.active": "Scop în desfășurare",
+  "phase.active.disarmed": "Scop inactiv",
+  "phase.blocked": "Scop blocat",
+  "phase.paused": "Scop în pauză"
+}

@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "فقط کاربر",
+  "row.failed": "بارگذاری مهارت ناموفق بود",
+  "row.inspect": "بررسی",
+  "row.instructions": "دستورالعمل‌ها",
+  "row.preparing": "آماده‌سازی برای بارگذاری مهارت",
+  "row.running": "در حال بارگذاری مهارت",
+  "row.stopped": "بارگذاری مهارت متوقف شد",
+  "row.title": "مهارت"
+}

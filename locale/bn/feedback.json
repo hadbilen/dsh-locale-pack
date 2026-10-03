@@ -1,0 +1,22 @@
+{
+  "action.dislike": "খারাপ প্রতিক্রিয়া",
+  "action.dislikeActive": "রেটিং সরান",
+  "action.like": "ভালো প্রতিক্রিয়া",
+  "action.likeActive": "রেটিং সরান",
+  "category.instruction-following": "নির্দেশনা বোঝা ও অনুসরণ",
+  "category.other": "অন্যান্য",
+  "category.product-interaction": "পণ্যের বৈশিষ্ট্য ও মিথস্ক্রিয়া",
+  "category.resource-cost": "সম্পদ ব্যবহার ও খরচ",
+  "category.security-privacy-permission": "নিরাপত্তা, গোপনীয়তা ও অনুমতি",
+  "category.service-stability": "স্থিতিশীলতা ও গতি",
+  "category.task-result": "কাজের ফলাফল",
+  "dialog.categories": "মতামতের বিভাগ",
+  "dialog.detail": "মতামতের বিবরণ",
+  "dialog.hint": "উন্নতিতে সাহায্য করতে বিস্তারিত যোগ করুন। আপনার জমাদানে বর্তমান কথোপকথনের লগ অন্তর্ভুক্ত থাকবে।",
+  "dialog.title": "মতামত জমা দিন",
+  "error.conflict": "এই মতামত অন্য কোথাও পরিবর্তিত হয়েছে; সর্বশেষ অবস্থা দেখানো হচ্ছে",
+  "error.generic": "মতামত সংরক্ষণ করা যায়নি",
+  "error.load": "মতামত লোড করা যায়নি",
+  "error.noteTooLarge": "বিবরণটি অনেক দীর্ঘ; সংক্ষিপ্ত করে আবার জমা দিন",
+  "toast.recorded": "আপনার মতামতের জন্য ধন্যবাদ"
+}

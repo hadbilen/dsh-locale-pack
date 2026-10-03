@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Buksan sa {app}",
+  "open.tooltip": "Buksan nang lokal",
+  "path.appDefault": "{app} (pauna)",
+  "path.appsError": "Hindi ma-load ang mga aplikasyon",
+  "path.more": "Higit pang mga paraan para buksan",
+  "path.open": "Buksan",
+  "path.openError": "Hindi mabuksan. Subukang muli.",
+  "path.reveal": "Ipakita ang lokasyon ng file",
+  "path.revealError": "Hindi maipakita ang lokasyon ng file. Subukang muli.",
+  "shortcut.busy": "Binubuksan ang workspace",
+  "shortcut.unavailable": "Hindi magagamit ang kasalukuyang workspace o lokal na aplikasyon"
+}

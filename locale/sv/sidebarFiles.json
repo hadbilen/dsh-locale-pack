@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Automatisk uppdatering",
+  "autoRefresh.disable": "Inaktivera automatisk uppdatering",
+  "autoRefresh.enable": "Aktivera automatisk uppdatering",
+  "empty": "Tom mapp",
+  "entry.other": "Inte en fil eller en mapp, så den kan inte öppnas.",
+  "error.notDirectory": "Det är inte en mapp.",
+  "error.notFound": "Den mappen är borta. Den kan ha flyttats eller tagits bort.",
+  "error.outsideWorkspace": "Den mappen ligger utanför arbetsytan, så sidopanelen läser den inte.",
+  "error.unavailable": "Läsning misslyckades: {message}",
+  "guide.description": "Bläddra bland filer i den här sessionens arbetsyta",
+  "guide.title": "Filer i arbetsytan",
+  "loading": "Läser…",
+  "noWorkspace": "Den här sessionen har ingen arbetskatalog.",
+  "reload": "Ladda om",
+  "shortcut.noSession": "Välj en session först",
+  "truncated": "För många poster, visar endast några av dem.",
+  "type.label": "Filer"
+}

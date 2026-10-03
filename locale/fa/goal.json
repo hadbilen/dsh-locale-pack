@@ -1,0 +1,14 @@
+{
+  "action.cancel": "لغو ویرایش",
+  "action.clear": "پاک کردن هدف",
+  "action.edit": "ویرایش هدف",
+  "action.pause": "توقف هدف",
+  "action.resume": "ازسرگیری هدف",
+  "action.save": "ذخیره هدف",
+  "commandInput.aria": "ورودی دستور",
+  "objective.aria": "شرح هدف",
+  "phase.active": "هدف در حال انجام",
+  "phase.active.disarmed": "هدف غیرفعال",
+  "phase.blocked": "هدف مسدودشده",
+  "phase.paused": "هدف متوقف‌شده"
+}

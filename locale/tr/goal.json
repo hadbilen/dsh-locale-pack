@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Düzenlemeyi iptal et",
+  "action.clear": "Hedefi temizle",
+  "action.edit": "Hedefi düzenle",
+  "action.pause": "Hedefi duraklat",
+  "action.resume": "Hedefi sürdür",
+  "action.save": "Hedefi kaydet",
+  "commandInput.aria": "Komut girişi",
+  "objective.aria": "Hedef amacı",
+  "phase.active": "Devam Eden Hedef",
+  "phase.active.disarmed": "Pasif Hedef",
+  "phase.blocked": "Engellenmiş Hedef",
+  "phase.paused": "Duraklatılmış Hedef"
+}

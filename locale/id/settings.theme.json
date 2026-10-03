@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Gelap",
+  "appearance.light": "Terang",
+  "appearance.system": "Sistem",
+  "appearance.title": "Tampilan",
+  "fontSize.decrease": "Perkecil ukuran font",
+  "fontSize.description": "Hanya memengaruhi konten percakapan",
+  "fontSize.increase": "Perbesar ukuran font",
+  "fontSize.title": "Ukuran font",
+  "fontSize.unit": "px"
+}

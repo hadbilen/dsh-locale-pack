@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "深色",
+  "appearance.light": "淺色",
+  "appearance.system": "系統",
+  "appearance.title": "外觀",
+  "fontSize.decrease": "減小字體大小",
+  "fontSize.description": "只會影響對話內容",
+  "fontSize.increase": "增大字體大小",
+  "fontSize.title": "字體大小",
+  "fontSize.unit": "px"
+}

@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "solo utente",
+  "row.failed": "Caricamento della competenza non riuscito",
+  "row.inspect": "Ispeziona",
+  "row.instructions": "Istruzioni",
+  "row.preparing": "Preparazione al caricamento di una competenza",
+  "row.running": "Caricamento della competenza",
+  "row.stopped": "Caricamento della competenza interrotto",
+  "row.title": "Competenza"
+}

@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Slechte reactie",
+  "action.dislikeActive": "Beoordeling verwijderen",
+  "action.like": "Goede reactie",
+  "action.likeActive": "Beoordeling verwijderen",
+  "category.instruction-following": "Instructies begrijpen en volgen",
+  "category.other": "Overig",
+  "category.product-interaction": "Productfuncties en interactie",
+  "category.resource-cost": "Resourcegebruik en kosten",
+  "category.security-privacy-permission": "Beveiliging, privacy en machtigingen",
+  "category.service-stability": "Stabiliteit en snelheid",
+  "category.task-result": "Taakresultaat",
+  "dialog.categories": "Feedbackcategorie",
+  "dialog.detail": "Feedbackdetails",
+  "dialog.hint": "Voeg details toe om ons te helpen verbeteren. Je inzending bevat het huidige gesprekslogboek.",
+  "dialog.title": "Feedback verzenden",
+  "error.conflict": "Deze feedback is elders gewijzigd; de nieuwste status wordt weergegeven",
+  "error.generic": "Feedback kon niet worden opgeslagen",
+  "error.load": "Feedback kon niet worden geladen",
+  "error.noteTooLarge": "De beschrijving is te lang; maak deze korter en dien opnieuw in",
+  "toast.recorded": "Bedankt voor je feedback"
+}

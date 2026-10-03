@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "tylko użytkownik",
+  "row.failed": "Wczytywanie umiejętności nie powiodło się",
+  "row.inspect": "Sprawdź",
+  "row.instructions": "Instrukcje",
+  "row.preparing": "Przygotowywanie do wczytania umiejętności",
+  "row.running": "Wczytywanie umiejętności",
+  "row.stopped": "Wczytywanie umiejętności zatrzymane",
+  "row.title": "Umiejętność"
+}

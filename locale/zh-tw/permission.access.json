@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "我瞭解這些風險並想要繼續",
+  "auto.confirm.description": "自動審查在無沙箱環境下執行。在每個原生工具呼叫與內部呼叫之前，由與目前代理程式相同的模型審查是否允許；您可核准或拒絕其否決的每個呼叫。此功能為實驗性，可能錯誤允許或拒絕動作，並會使用額外權杖。",
+  "auto.confirm.enable": "啟用自動審查",
+  "auto.confirm.title": "啟用自動審查（實驗性）？",
+  "auto.description": "在對每個原生工具呼叫與內部呼叫進行實驗性同模型審查後，於無沙箱環境下執行。",
+  "auto.label": "自動審查",
+  "close": "關閉",
+  "confirm.acknowledge": "我瞭解風險並想要繼續",
+  "confirm.cancel": "取消",
+  "confirm.description": "完整存取會減少確認步驟，讓代理程式可直接執行更多動作，包括敏感操作、檔案變更或外部命令。只有在信任目前工作時才使用。",
+  "confirm.enable": "啟用完整存取",
+  "confirm.title": "啟用完整存取？",
+  "mode": "存取模式，目前：{name}",
+  "preset.fullAccess": "完整存取",
+  "preset.readOnly": "唯讀",
+  "preset.workspaceWrite": "工作區寫入"
+}

@@ -1,0 +1,12 @@
+{
+  "dialog.close": "إغلاق",
+  "dialog.commandFailed": "تعذر بدء تصدير الجلسة.",
+  "dialog.errorTitle": "فشل تصدير الجلسة",
+  "dialog.preparingDescription": "جارٍ إعداد ملف ZIP يتضمن هذه الجلسة والجلسات الفرعية التابعة لها والمرفقات.",
+  "dialog.preparingTitle": "جارٍ تصدير الجلسة",
+  "dialog.successDescription": "المتصفح يقوم بتنزيل ملف ZIP الخاص بالجلسة.",
+  "dialog.successTitle": "بدأ تنزيل الجلسة",
+  "header.more": "المزيد من الإجراءات",
+  "menu.download": "تنزيل سجل الجلسة",
+  "menu.feedback": "الملاحظات"
+}

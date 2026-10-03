@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Sluiten",
+  "dialog.commandFailed": "Kon de sessie-export niet starten.",
+  "dialog.errorTitle": "Export van sessie mislukt",
+  "dialog.preparingDescription": "Een ZIP met deze sessie, de subsessies en bijlagen wordt voorbereid.",
+  "dialog.preparingTitle": "Sessie exporteren",
+  "dialog.successDescription": "De browser downloadt de sessie-ZIP.",
+  "dialog.successTitle": "Sessiedownload gestart",
+  "header.more": "Meer acties",
+  "menu.download": "Sessielogboek downloaden",
+  "menu.feedback": "Feedback"
+}

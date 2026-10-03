@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(بدون cwd)",
+  "crumb.root": "فضای کاری",
+  "section.files": "Files و پوشه‌ها",
+  "section.sessions": "نشست‌ها",
+  "section.subagents": "زیرعامل‌ها",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "اکنون",
+  "time.years": "{n}y"
+}

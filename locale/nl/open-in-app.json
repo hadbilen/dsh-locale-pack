@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Openen in {app}",
+  "open.tooltip": "Lokaal openen",
+  "path.appDefault": "{app} (standaard)",
+  "path.appsError": "Kon toepassingen niet laden",
+  "path.more": "Meer manieren om te openen",
+  "path.open": "Openen",
+  "path.openError": "Kon niet openen. Probeer het opnieuw.",
+  "path.reveal": "Bestandslocatie tonen",
+  "path.revealError": "Kon de bestandslocatie niet tonen. Probeer het opnieuw.",
+  "shortcut.busy": "Werkruimte wordt geopend",
+  "shortcut.unavailable": "Huidige werkruimte of lokale toepassing niet beschikbaar"
+}

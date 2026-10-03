@@ -1,0 +1,20 @@
+{
+  "member.empty": "Lege lidnaam",
+  "member.open": "Open {name}",
+  "phase.empty": "Lege fasenaam",
+  "phase.unassigned": "Zonder fase",
+  "run.empty": "Geen leden gestart",
+  "run.members.one": "{count} lid",
+  "run.members.other": "{count} leden",
+  "run.title": "{name}",
+  "status.cancelled": "Geannuleerd",
+  "status.completed": "Voltooid",
+  "status.failed": "Mislukt",
+  "status.interrupted": "Onderbroken",
+  "status.running": "Lopend",
+  "statusCount.cancelled": "Geannuleerd {count}",
+  "statusCount.completed": "Voltooid {count}",
+  "statusCount.failed": "Mislukt {count}",
+  "statusCount.interrupted": "Onderbroken {count}",
+  "statusCount.running": "Lopend {count}"
+}

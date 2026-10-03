@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "{app} এ খুলুন",
+  "open.tooltip": "স্থানীয়ভাবে খুলুন",
+  "path.appDefault": "{app} (ডিফল্ট)",
+  "path.appsError": "অ্যাপ্লিকেশন লোড করা যায়নি",
+  "path.more": "খোলার আরও উপায়",
+  "path.open": "খুলুন",
+  "path.openError": "খোলা যায়নি। আবার চেষ্টা করুন।",
+  "path.reveal": "ফাইলের অবস্থান দেখান",
+  "path.revealError": "ফাইলের অবস্থান দেখানো যায়নি। আবার চেষ্টা করুন।",
+  "shortcut.busy": "ওয়ার্কস্পেস খোলা হচ্ছে",
+  "shortcut.unavailable": "বর্তমান ওয়ার্কস্পেস বা স্থানীয় অ্যাপ্লিকেশন উপলব্ধ নয়"
+}

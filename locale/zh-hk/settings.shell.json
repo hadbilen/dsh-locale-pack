@@ -1,0 +1,16 @@
+{
+  "description": "限制每個指令可執行的時間同輸出量。",
+  "invalidNumber": "請輸入數字，或留空以使用預設值。",
+  "maxOutputBytes": "每個串流輸出上限（位元組）",
+  "maxOutputBytesHint": "超出上限的輸出會存入暫存檔案，而不會遺失。",
+  "overridden": "已覆寫",
+  "readOnly": "此部署以唯讀方式儲存設定。",
+  "reset": "重設為預設值",
+  "save": "儲存",
+  "saveFailed": "此部署未接受這些數值，已保留以供你修正。",
+  "saving": "儲存中…",
+  "timeoutMs": "指令逾時（毫秒）",
+  "timeoutMsHint": "單一指令執行幾耐之後會被終止。",
+  "title": "殼層",
+  "unavailable": "此外掛程式尚未載入，所以目前無法設定。"
+}

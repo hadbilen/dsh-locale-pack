@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Avbryt redigering",
+  "action.clear": "Rensa mål",
+  "action.edit": "Redigera mål",
+  "action.pause": "Pausa mål",
+  "action.resume": "Återuppta mål",
+  "action.save": "Spara mål",
+  "commandInput.aria": "Kommandoinmatning",
+  "objective.aria": "Målsättning",
+  "phase.active": "Pågående mål",
+  "phase.active.disarmed": "Inaktivt mål",
+  "phase.blocked": "Blockerat mål",
+  "phase.paused": "Pausat mål"
+}

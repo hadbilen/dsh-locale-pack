@@ -1,0 +1,20 @@
+{
+  "apiKey": "Clé API",
+  "apiKeyHint": "Stockée en dehors du fichier de paramètres. Laissez vide pour conserver la clé actuelle.",
+  "apiKeySet": "Une clé est configurée.",
+  "apiKeyUnset": "Aucune clé n'est configurée ; seules les conversations utilisant un modèle de compte DeepSeek peuvent effectuer une recherche via le point de terminaison par défaut.",
+  "baseUrl": "Point de terminaison",
+  "baseUrlHint": "Laissez vide pour utiliser la valeur par défaut du fournisseur.",
+  "description": "Configurer le fournisseur de recherche DeepSeek.",
+  "invalidNumber": "Saisissez un nombre, ou laissez vide pour utiliser la valeur par défaut.",
+  "maxUses": "Nombre maximal de recherches par demande",
+  "maxUsesHint": "Nombre de fois qu'une demande peut lancer une recherche avant de devoir répondre.",
+  "overridden": "Remplacé",
+  "readOnly": "Ce déploiement stocke les paramètres en lecture seule.",
+  "reset": "Réinitialiser à la valeur par défaut",
+  "save": "Enregistrer",
+  "saveFailed": "Le déploiement n'a pas accepté ces valeurs ; elles ont été conservées pour que vous puissiez les corriger.",
+  "saving": "Enregistrement…",
+  "title": "Recherche Web",
+  "unavailable": "Ce plugin n'est pas chargé, il ne peut donc pas être configuré pour le moment."
+}

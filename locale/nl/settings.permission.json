@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Ik begrijp de risico's en wil doorgaan",
+  "confirm.cancel": "Annuleren",
+  "confirm.description": "Volledige toegang laat nieuwe sessies bevestigingsstappen verminderen en meer acties direct uitvoeren, waaronder gevoelige bewerkingen, bestandswijzigingen of externe opdrachten. Gebruik dit alleen als je vervolgtaken vertrouwt.",
+  "confirm.enable": "Volledige toegang inschakelen",
+  "confirm.title": "Volledige toegang inschakelen?",
+  "description": "Kies de standaard toestemmingsmodus voor nieuwe sessies",
+  "loading": "Laden",
+  "preset.fullAccess": "Volledige toegang",
+  "preset.readOnly": "Alleen lezen",
+  "preset.workspaceWrite": "Werkruimte schrijven",
+  "title": "Toestemming",
+  "unavailable": "Niet beschikbaar"
+}

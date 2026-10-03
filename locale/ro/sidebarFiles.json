@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Reîmprospătare automată",
+  "autoRefresh.disable": "Dezactivați reîmprospătarea automată",
+  "autoRefresh.enable": "Activați reîmprospătarea automată",
+  "empty": "Director gol",
+  "entry.other": "Nu este un fișier sau un director, deci nu poate fi deschis.",
+  "error.notDirectory": "Acesta nu este un director.",
+  "error.notFound": "Acel director a dispărut. Este posibil să fi fost mutat sau șters.",
+  "error.outsideWorkspace": "Acel director se află în afara spațiului de lucru, deci bara laterală nu îl va citi.",
+  "error.unavailable": "Citirea a eșuat: {message}",
+  "guide.description": "Răsfoiți fișierele din spațiul de lucru al acestei sesiuni",
+  "guide.title": "Fișierele spațiului de lucru",
+  "loading": "Se citește…",
+  "noWorkspace": "Această sesiune nu are un director de spațiu de lucru.",
+  "reload": "Reîncărcați",
+  "shortcut.noSession": "Selectați mai întâi o sesiune",
+  "truncated": "Prea multe intrări, sunt afișate doar o parte dintre ele.",
+  "type.label": "Fișiere"
+}

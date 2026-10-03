@@ -1,0 +1,16 @@
+{
+  "description": "Ogranicz czas działania każdego polecenia oraz ilość generowanych danych wyjściowych.",
+  "invalidNumber": "Wprowadź liczbę lub pozostaw puste, aby użyć wartości domyślnej.",
+  "maxOutputBytes": "Limit danych wyjściowych na strumień (bajty)",
+  "maxOutputBytesHint": "Dane wyjściowe przekraczające ten limit trafiają do pliku tymczasowego zamiast zostać utracone.",
+  "overridden": "Nadpisane",
+  "readOnly": "To wdrożenie przechowuje ustawienia tylko do odczytu.",
+  "reset": "Przywróć wartość domyślną",
+  "save": "Zapisz",
+  "saveFailed": "Wdrożenie nie zaakceptowało tych wartości; pozostawiono je do poprawy.",
+  "saving": "Zapisywanie…",
+  "timeoutMs": "Limit czasu polecenia (ms)",
+  "timeoutMsHint": "Jak długo jedno polecenie może działać, zanim zostanie zakończone.",
+  "title": "Powłoka",
+  "unavailable": "Ta wtyczka nie jest załadowana, więc nie można jej teraz skonfigurować."
+}

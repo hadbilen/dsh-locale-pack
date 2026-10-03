@@ -1,0 +1,20 @@
+{
+  "apiKey": "Chiave API",
+  "apiKeyHint": "Archiviata al di fuori del file delle impostazioni. Lascia vuoto per mantenere la chiave attuale.",
+  "apiKeySet": "È configurata una chiave.",
+  "apiKeyUnset": "Nessuna chiave configurata; solo le conversazioni che usano un modello DeepSeek Account possono effettuare ricerche tramite l'endpoint predefinito.",
+  "baseUrl": "Endpoint",
+  "baseUrlHint": "Lascia vuoto per usare il valore predefinito del provider.",
+  "description": "Configura il provider di ricerca DeepSeek.",
+  "invalidNumber": "Inserisci un numero oppure lascia vuoto per usare il valore predefinito.",
+  "maxUses": "Numero massimo di ricerche per richiesta",
+  "maxUsesHint": "Quante volte una richiesta può effettuare ricerche prima di dover rispondere.",
+  "overridden": "Sovrascritto",
+  "readOnly": "Questa distribuzione memorizza le impostazioni in sola lettura.",
+  "reset": "Ripristina predefinito",
+  "save": "Salva",
+  "saveFailed": "La distribuzione non ha accettato questi valori; sono stati lasciati invariati per consentirti di correggerli.",
+  "saving": "Salvataggio in corso…",
+  "title": "Ricerca web",
+  "unavailable": "Questo plugin non è caricato, quindi non può essere configurato al momento."
+}

@@ -1,0 +1,14 @@
+{
+  "action.cancel": "সম্পাদনা বাতিল করুন",
+  "action.clear": "লক্ষ্য মুছুন",
+  "action.edit": "লক্ষ্য সম্পাদনা করুন",
+  "action.pause": "লক্ষ্য বিরত রাখুন",
+  "action.resume": "লক্ষ্য পুনরায় শুরু করুন",
+  "action.save": "লক্ষ্য সংরক্ষণ করুন",
+  "commandInput.aria": "কমান্ড ইনপুট",
+  "objective.aria": "লক্ষ্যের উদ্দেশ্য",
+  "phase.active": "চলমান লক্ষ্য",
+  "phase.active.disarmed": "নিষ্ক্রিয় লক্ষ্য",
+  "phase.blocked": "অবরুদ্ধ লক্ষ্য",
+  "phase.paused": "বিরত লক্ষ্য"
+}

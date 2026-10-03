@@ -1,0 +1,20 @@
+{
+  "member.empty": "نام عضو خالی است",
+  "member.open": "باز کردن {name}",
+  "phase.empty": "نام فاز خالی است",
+  "phase.unassigned": "بدون فاز",
+  "run.empty": "هیچ عضوی شروع نشده است",
+  "run.members.one": "{count} عضو",
+  "run.members.other": "{count} اعضا",
+  "run.title": "{name}",
+  "status.cancelled": "لغو شده",
+  "status.completed": "تکمیل شده",
+  "status.failed": "ناموفق",
+  "status.interrupted": "قطع شده",
+  "status.running": "در حال اجرا",
+  "statusCount.cancelled": "{count} لغو شده",
+  "statusCount.completed": "{count} تکمیل شده",
+  "statusCount.failed": "{count} ناموفق",
+  "statusCount.interrupted": "{count} قطع شده",
+  "statusCount.running": "{count} در حال اجرا"
+}

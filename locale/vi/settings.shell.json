@@ -1,0 +1,16 @@
+{
+  "description": "Giới hạn thời gian mỗi lệnh được phép chạy và lượng đầu ra mà lệnh đó được phép tạo.",
+  "invalidNumber": "Nhập một số, hoặc để trống để dùng giá trị mặc định.",
+  "maxOutputBytes": "Mức trần đầu ra cho mỗi luồng (bytes)",
+  "maxOutputBytesHint": "Đầu ra vượt quá mức này sẽ được chuyển vào tệp tạm thời thay vì bị mất.",
+  "overridden": "Đã ghi đè",
+  "readOnly": "Triển khai này lưu trữ cài đặt ở chế độ chỉ đọc.",
+  "reset": "Đặt lại về mặc định",
+  "save": "Lưu",
+  "saveFailed": "Triển khai này không chấp nhận các giá trị này; các giá trị đã được giữ lại để bạn sửa.",
+  "saving": "Đang lưu…",
+  "timeoutMs": "Thời gian chờ của lệnh (ms)",
+  "timeoutMsHint": "Thời gian một lệnh được phép chạy trước khi bị kết thúc.",
+  "title": "Shell",
+  "unavailable": "Phần bổ trợ này chưa được tải nên hiện không thể cấu hình."
+}

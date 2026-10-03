@@ -1,0 +1,20 @@
+{
+  "member.empty": "خالی رکن کا نام",
+  "member.open": "کھولیں {name}",
+  "phase.empty": "خالی مرحلے کا نام",
+  "phase.unassigned": "بغیر مرحلے کے",
+  "run.empty": "کوئی رکن شروع نہیں ہوا",
+  "run.members.one": "{count} رکن",
+  "run.members.other": "{count} ارکان",
+  "run.title": "{name}",
+  "status.cancelled": "منسوخ",
+  "status.completed": "مکمل",
+  "status.failed": "ناکام",
+  "status.interrupted": "متوقف",
+  "status.running": "جاری",
+  "statusCount.cancelled": "منسوخ {count}",
+  "statusCount.completed": "مکمل {count}",
+  "statusCount.failed": "ناکام {count}",
+  "statusCount.interrupted": "متوقف {count}",
+  "statusCount.running": "جاری {count}"
+}

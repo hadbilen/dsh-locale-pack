@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Naiintindihan ko ang mga panganib na ito at gusto kong magpatuloy",
+  "auto.confirm.description": "Ang Awtomatikong pagsusuri ay tumatakbo nang walang sandbox. Bago ang bawat tawag ng native tool at panloob na tawag ng PTC, sinusuri ng parehong modelo gaya ng kasalukuyang agent kung papayagan ito; inaaprubahan o tinatanggihan mo ang bawat tawag na hindi nito pinayagan. Ang feature na ito ay eksperimental, maaaring maling payagan o tanggihan ang mga aksyon, at gumagamit ng karagdagang mga token.",
+  "auto.confirm.enable": "Paganahin ang Awtomatikong pagsusuri",
+  "auto.confirm.title": "Paganahin ang Awtomatikong pagsusuri (eksperimental)?",
+  "auto.description": "Tumakbo nang walang sandbox pagkatapos ng eksperimental na pagsusuri ng parehong modelo sa bawat tawag ng native tool at panloob na tawag ng PTC.",
+  "auto.label": "Awtomatikong pagsusuri",
+  "close": "Isara",
+  "confirm.acknowledge": "Naiintindihan ko ang mga panganib at gusto kong magpatuloy",
+  "confirm.cancel": "Kanselahin",
+  "confirm.description": "Binabawasan ng Buong access ang mga hakbang sa pagkumpirma at hinahayaan ang agent na direktang gumawa ng mas maraming aksyon, kabilang ang mga sensitibong operasyon, pagbabago sa file, o panlabas na command. Gamitin lang ito kapag pinagkakatiwalaan mo ang kasalukuyang gawain.",
+  "confirm.enable": "Paganahin ang Buong access",
+  "confirm.title": "Paganahin ang Buong access?",
+  "mode": "Mode ng access, kasalukuyan: {name}",
+  "preset.fullAccess": "Buong access",
+  "preset.readOnly": "Read Lamang",
+  "preset.workspaceWrite": "Write sa Workspace"
+}

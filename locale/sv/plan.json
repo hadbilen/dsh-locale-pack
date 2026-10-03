@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Det gick inte att avsluta planläget",
+  "chip.label": "Plan",
+  "chip.on.aria": "Planläge på, tryck för att stänga av",
+  "chip.on.title": "Planläge på, klicka för att stänga av (/plan off)",
+  "preview.action": "Öppna",
+  "preview.document": "Plan · Markdown",
+  "preview.expired": "Den här tillfälliga förhandsvisningen av planen har gått ut. Öppna den igen från kortet för väntande granskning.",
+  "preview.failed": "Kunde inte läsa in planen",
+  "preview.full": "Visa hela planen",
+  "preview.historyUnavailable": "Sessionshistoriken är inte tillgänglig",
+  "preview.invalidAddress": "Ogiltig planadress",
+  "preview.loading": "Laddar planen…",
+  "preview.notFound": "Den här planen hittades inte",
+  "preview.open": "Öppna planen i sidofältet",
+  "preview.openNamed": "Öppna plan: {title}",
+  "preview.title": "Plan",
+  "preview.unavailable": "Förhandsvisningen av planen är inte tillgänglig"
+}

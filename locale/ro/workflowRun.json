@@ -1,0 +1,20 @@
+{
+  "member.empty": "Nume de membru gol",
+  "member.open": "Deschide {name}",
+  "phase.empty": "Nume de fază gol",
+  "phase.unassigned": "Fără fază",
+  "run.empty": "Niciun membru nu a început",
+  "run.members.one": "{count} membru",
+  "run.members.other": "{count} membri",
+  "run.title": "{name}",
+  "status.cancelled": "Anulat",
+  "status.completed": "Finalizat",
+  "status.failed": "Eșuat",
+  "status.interrupted": "Întrerupt",
+  "status.running": "În execuție",
+  "statusCount.cancelled": "Anulat {count}",
+  "statusCount.completed": "Finalizat {count}",
+  "statusCount.failed": "Eșuat {count}",
+  "statusCount.interrupted": "Întrerupt {count}",
+  "statusCount.running": "În execuție {count}"
+}

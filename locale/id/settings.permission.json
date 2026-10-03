@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Saya memahami risikonya dan ingin melanjutkan",
+  "confirm.cancel": "Batal",
+  "confirm.description": "Akses penuh memungkinkan sesi baru mengurangi langkah konfirmasi dan melakukan lebih banyak tindakan secara langsung, termasuk operasi sensitif, perubahan berkas, atau perintah eksternal. Hanya gunakan jika Anda memercayai tugas berikutnya.",
+  "confirm.enable": "Aktifkan Akses penuh",
+  "confirm.title": "Aktifkan Akses penuh?",
+  "description": "Pilih mode izin bawaan untuk sesi baru",
+  "loading": "Memuat",
+  "preset.fullAccess": "Akses penuh",
+  "preset.readOnly": "Read Saja",
+  "preset.workspaceWrite": "Ruang Kerja Write",
+  "title": "Izin",
+  "unavailable": "Tidak tersedia"
+}

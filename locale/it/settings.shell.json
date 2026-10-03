@@ -1,0 +1,16 @@
+{
+  "description": "Limita la durata massima di esecuzione di ciascun comando e la quantità di output prodotta.",
+  "invalidNumber": "Inserisci un numero oppure lascia vuoto per usare il valore predefinito.",
+  "maxOutputBytes": "Limite di output per flusso (byte)",
+  "maxOutputBytesHint": "L'output che supera questo limite viene salvato in un file temporaneo invece di andare perso.",
+  "overridden": "Sovrascritto",
+  "readOnly": "Questa distribuzione memorizza le impostazioni in sola lettura.",
+  "reset": "Ripristina predefinito",
+  "save": "Salva",
+  "saveFailed": "La distribuzione non ha accettato questi valori; sono stati conservati per permettere la correzione.",
+  "saving": "Salvataggio…",
+  "timeoutMs": "Timeout del comando (ms)",
+  "timeoutMsHint": "Durata massima di esecuzione di un comando prima che venga terminato.",
+  "title": "Shell",
+  "unavailable": "Questo plugin non è caricato, quindi non può essere configurato al momento."
+}

@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "在{app}中開啟",
+  "open.tooltip": "在本機開啟",
+  "path.appDefault": "{app} (預設)",
+  "path.appsError": "無法載入應用程式",
+  "path.more": "更多開啟方式",
+  "path.open": "開啟",
+  "path.openError": "無法開啟，請再試一次。",
+  "path.reveal": "顯示檔案位置",
+  "path.revealError": "無法顯示檔案位置，請再試一次。",
+  "shortcut.busy": "正在開啟工作區",
+  "shortcut.unavailable": "目前的工作區或本機應用程式無法使用"
+}

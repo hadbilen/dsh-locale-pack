@@ -1,0 +1,14 @@
+{
+  "description": "Ajanın araç çağrılarını nasıl gönderdiğini kontrol edin.",
+  "invalidNumber": "Bir sayı girin veya varsayılanı kullanmak için boş bırakın.",
+  "maxParallel": "Paralel araç çağrıları",
+  "maxParallelHint": "Bir adım içinde aynı anda çalışan paralel güvenli çağrılar için üst sınır.",
+  "overridden": "Geçersiz kılındı",
+  "readOnly": "Bu dağıtım ayarları salt okunur olarak saklar.",
+  "reset": "Varsayılana sıfırla",
+  "save": "Kaydet",
+  "saveFailed": "Dağıtım bu değerleri kabul etmedi; düzeltmeniz için bırakıldılar.",
+  "saving": "Kaydediliyor…",
+  "title": "Ajan döngüsü",
+  "unavailable": "Bu eklenti yüklenmedi, bu nedenle şu anda yapılandırılamaz."
+}

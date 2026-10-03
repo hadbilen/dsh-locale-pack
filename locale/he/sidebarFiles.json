@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "רענון אוטומטי",
+  "autoRefresh.disable": "השבת רענון אוטומטי",
+  "autoRefresh.enable": "הפעל רענון אוטומטי",
+  "empty": "תיקייה ריקה",
+  "entry.other": "זה לא קובץ ולא תיקייה, ולכן לא ניתן לפתוח אותו.",
+  "error.notDirectory": "זו אינה תיקייה.",
+  "error.notFound": "התיקייה הזו נעלמה. ייתכן שהיא הועברה או נמחקה.",
+  "error.outsideWorkspace": "התיקייה הזו נמצאת מחוץ לסביבת העבודה, ולכן סרגל הצד לא יקרא אותה.",
+  "error.unavailable": "Read נכשל: {message}",
+  "guide.description": "עיין ב Files בסביבת העבודה של ההפעלה הזו",
+  "guide.title": "Files של סביבת העבודה",
+  "loading": "קורא…",
+  "noWorkspace": "להפעלה זו אין תיקיית סביבת עבודה.",
+  "reload": "רענן",
+  "shortcut.noSession": "בחר הפעלה תחילה",
+  "truncated": "יש יותר מדי פריטים, מוצגים רק חלק מהם.",
+  "type.label": "קבצים"
+}

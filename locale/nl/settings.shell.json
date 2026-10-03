@@ -1,0 +1,16 @@
+{
+  "description": "Beperk hoe lang elke opdracht mag worden uitgevoerd en hoeveel uitvoer deze mag produceren.",
+  "invalidNumber": "Voer een getal in of laat leeg om de standaardwaarde te gebruiken.",
+  "maxOutputBytes": "Uitvoerlimiet per stream (bytes)",
+  "maxOutputBytesHint": "Uitvoer boven deze limiet wordt naar een tijdelijk bestand geschreven in plaats van verloren te gaan.",
+  "overridden": "Overschreven",
+  "readOnly": "Deze implementatie slaat instellingen alleen-lezen op.",
+  "reset": "Terugzetten naar standaard",
+  "save": "Opslaan",
+  "saveFailed": "De implementatie heeft deze waarden niet geaccepteerd; ze zijn blijven staan zodat u ze kunt corrigeren.",
+  "saving": "Opslaan…",
+  "timeoutMs": "Opdracht-time-out (ms)",
+  "timeoutMsHint": "Hoe lang een opdracht mag worden uitgevoerd voordat deze wordt beëindigd.",
+  "title": "Shell",
+  "unavailable": "Deze plug-in is niet geladen en kan daarom nu niet worden geconfigureerd."
+}

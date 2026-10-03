@@ -1,0 +1,7 @@
+{
+  "allowOnce": "Consenti una volta",
+  "detail.aria": "Dettagli dell'approvazione",
+  "escalation": "Lo strumento {toolName} richiede esecuzione con privilegi",
+  "reject": "Rifiuta",
+  "waiting": "In attesa di approvazione"
+}

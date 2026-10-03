@@ -1,0 +1,20 @@
+{
+  "member.empty": "Порожнє ім'я учасника",
+  "member.open": "Відкрити {name}",
+  "phase.empty": "Порожня назва фази",
+  "phase.unassigned": "Без фази",
+  "run.empty": "Жоден учасник не розпочав",
+  "run.members.one": "{count} учасник",
+  "run.members.other": "{count} учасників",
+  "run.title": "{name}",
+  "status.cancelled": "Скасовано",
+  "status.completed": "Завершено",
+  "status.failed": "Не вдалося",
+  "status.interrupted": "Перервано",
+  "status.running": "Виконується",
+  "statusCount.cancelled": "Скасовано {count}",
+  "statusCount.completed": "Завершено {count}",
+  "statusCount.failed": "Не вдалося {count}",
+  "statusCount.interrupted": "Перервано {count}",
+  "statusCount.running": "Виконується {count}"
+}

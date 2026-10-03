@@ -1,0 +1,20 @@
+{
+  "apiKey": "Susi ng API",
+  "apiKeyHint": "Iniimbak sa labas ng file ng setting. Iwanan itong blangko upang panatilihin ang kasalukuyang susi.",
+  "apiKeySet": "May nakatakdang susi.",
+  "apiKeyUnset": "Walang nakatakdang susi; mga pag-uusap lang na gumagamit ng modelong DeepSeek Account ang makakapaghanap, sa pamamagitan ng default na endpoint.",
+  "baseUrl": "Endpoint",
+  "baseUrlHint": "Iwanan itong blangko upang gamitin ang default ng provider.",
+  "description": "I-set up ang provider ng paghahanap ng DeepSeek.",
+  "invalidNumber": "Maglagay ng numero, o iwanan itong blangko upang gamitin ang default.",
+  "maxUses": "Pinakamaraming paghahanap bawat kahilingan",
+  "maxUsesHint": "Kung ilang beses makakapaghanap ang isang kahilingan bago ito kailangang sumagot.",
+  "overridden": "Na-override",
+  "readOnly": "Iniimbak ng deployment na ito ang mga setting bilang read-only.",
+  "reset": "Ibalik sa default",
+  "save": "I-save",
+  "saveFailed": "Hindi tinanggap ng deployment ang mga halagang ito; iniwan ang mga ito para maitama mo.",
+  "saving": "Nagse-save…",
+  "title": "Paghahanap sa web",
+  "unavailable": "Hindi naka-load ang plugin na ito, kaya hindi ito mai-configure sa ngayon."
+}

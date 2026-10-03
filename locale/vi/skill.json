@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "chỉ người dùng",
+  "row.failed": "Tải kỹ năng thất bại",
+  "row.inspect": "Kiểm tra",
+  "row.instructions": "Hướng dẫn",
+  "row.preparing": "Đang chuẩn bị tải kỹ năng",
+  "row.running": "Đang tải kỹ năng",
+  "row.stopped": "Đã dừng tải kỹ năng",
+  "row.title": "Kỹ năng"
+}

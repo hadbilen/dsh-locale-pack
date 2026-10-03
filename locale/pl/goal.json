@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Anuluj edycję",
+  "action.clear": "Wyczyść cel",
+  "action.edit": "Edytuj cel",
+  "action.pause": "Wstrzymaj cel",
+  "action.resume": "Wznów cel",
+  "action.save": "Zapisz cel",
+  "commandInput.aria": "Wejście polecenia",
+  "objective.aria": "Cel zadania",
+  "phase.active": "Aktywny cel",
+  "phase.active.disarmed": "Nieaktywny cel",
+  "phase.blocked": "Zablokowany cel",
+  "phase.paused": "Wstrzymany cel"
+}

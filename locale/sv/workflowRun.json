@@ -1,0 +1,20 @@
+{
+  "member.empty": "Tomt medlemsnamn",
+  "member.open": "Öppna {name}",
+  "phase.empty": "Tomt fasnamn",
+  "phase.unassigned": "Utan fas",
+  "run.empty": "Inga medlemmar har startat",
+  "run.members.one": "{count} medlem",
+  "run.members.other": "{count} medlemmar",
+  "run.title": "{name}",
+  "status.cancelled": "Inställd",
+  "status.completed": "Slutförd",
+  "status.failed": "Misslyckad",
+  "status.interrupted": "Avbruten",
+  "status.running": "Pågår",
+  "statusCount.cancelled": "Inställda {count}",
+  "statusCount.completed": "Slutförda {count}",
+  "statusCount.failed": "Misslyckade {count}",
+  "statusCount.interrupted": "Avbrutna {count}",
+  "statusCount.running": "Pågår {count}"
+}

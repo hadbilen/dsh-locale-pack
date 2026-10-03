@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Dåligt svar",
+  "action.dislikeActive": "Ta bort betyg",
+  "action.like": "Bra svar",
+  "action.likeActive": "Ta bort betyg",
+  "category.instruction-following": "Förståelse och följning av instruktioner",
+  "category.other": "Övrigt",
+  "category.product-interaction": "Produktfunktioner och interaktion",
+  "category.resource-cost": "Resursanvändning och kostnad",
+  "category.security-privacy-permission": "Säkerhet, integritet och behörigheter",
+  "category.service-stability": "Stabilitet och hastighet",
+  "category.task-result": "Uppgiftsresultat",
+  "dialog.categories": "Återkopplingskategori",
+  "dialog.detail": "Återkopplingsdetaljer",
+  "dialog.hint": "Lägg till detaljer så att vi kan bli bättre. Din inlämning kommer att inkludera den aktuella konversationsloggen.",
+  "dialog.title": "Skicka återkoppling",
+  "error.conflict": "Den här återkopplingen ändrades på annat håll; det senaste tillståndet visas",
+  "error.generic": "Kunde inte spara återkoppling",
+  "error.load": "Kunde inte ladda återkoppling",
+  "error.noteTooLarge": "Beskrivningen är för lång; förkorta den och skicka igen",
+  "toast.recorded": "Tack för din återkoppling"
+}

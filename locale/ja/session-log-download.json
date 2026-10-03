@@ -1,0 +1,12 @@
+{
+  "dialog.close": "閉じる",
+  "dialog.commandFailed": "セッションのエクスポートを開始できませんでした。",
+  "dialog.errorTitle": "セッションのエクスポート失敗",
+  "dialog.preparingDescription": "このセッションとサブセッション、添付ファイルを含むジップを準備しています。",
+  "dialog.preparingTitle": "セッションをエクスポート中",
+  "dialog.successDescription": "ブラウザーがセッションのジップをダウンロードしています。",
+  "dialog.successTitle": "セッションのダウンロード開始",
+  "header.more": "その他の操作",
+  "menu.download": "セッションログのダウンロード",
+  "menu.feedback": "フィードバック"
+}

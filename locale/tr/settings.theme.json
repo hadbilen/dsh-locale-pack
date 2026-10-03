@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Koyu",
+  "appearance.light": "Açık",
+  "appearance.system": "Sistem",
+  "appearance.title": "Görünüm",
+  "fontSize.decrease": "Yazı boyutunu azalt",
+  "fontSize.description": "Yalnızca konuşma içeriğini etkiler",
+  "fontSize.increase": "Yazı boyutunu artır",
+  "fontSize.title": "Yazı boyutu",
+  "fontSize.unit": "px"
+}

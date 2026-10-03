@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Sombre",
+  "appearance.light": "Clair",
+  "appearance.system": "Système",
+  "appearance.title": "Apparence",
+  "fontSize.decrease": "Réduire la taille de police",
+  "fontSize.description": "Affecte uniquement le contenu de la conversation",
+  "fontSize.increase": "Augmenter la taille de police",
+  "fontSize.title": "Taille de police",
+  "fontSize.unit": "px"
+}

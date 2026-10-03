@@ -1,0 +1,20 @@
+{
+  "member.empty": "সদস্যের নাম খালি",
+  "member.open": "{name} খুলুন",
+  "phase.empty": "পর্যায়ের নাম খালি",
+  "phase.unassigned": "পর্যায়বিহীন",
+  "run.empty": "কোনো সদস্য শুরু হয়নি",
+  "run.members.one": "{count} জন সদস্য",
+  "run.members.other": "{count} জন সদস্য",
+  "run.title": "{name}",
+  "status.cancelled": "বাতিল",
+  "status.completed": "সম্পন্ন",
+  "status.failed": "ব্যর্থ",
+  "status.interrupted": "বিঘ্নিত",
+  "status.running": "চলমান",
+  "statusCount.cancelled": "বাতিল {count}",
+  "statusCount.completed": "সম্পন্ন {count}",
+  "statusCount.failed": "ব্যর্থ {count}",
+  "statusCount.interrupted": "বিঘ্নিত {count}",
+  "statusCount.running": "চলমান {count}"
+}

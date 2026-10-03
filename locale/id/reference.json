@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(tanpa cwd)",
+  "crumb.root": "Ruang kerja",
+  "section.files": "Berkas & folder",
+  "section.sessions": "Sesi",
+  "section.subagents": "Subagen",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "sekarang",
+  "time.years": "{n}y"
+}

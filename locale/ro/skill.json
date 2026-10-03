@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "doar utilizator",
+  "row.failed": "Încărcarea abilității a eșuat",
+  "row.inspect": "Inspectează",
+  "row.instructions": "Instrucțiuni",
+  "row.preparing": "Se pregătește încărcarea abilității",
+  "row.running": "Se încarcă abilitatea",
+  "row.stopped": "Încărcarea abilității a fost oprită",
+  "row.title": "Abilitate"
+}

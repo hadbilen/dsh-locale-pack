@@ -1,0 +1,20 @@
+{
+  "apiKey": "API-nyckel",
+  "apiKeyHint": "Lagras utanför inställningsfilen. Lämna tomt för att behålla den aktuella nyckeln.",
+  "apiKeySet": "En nyckel är konfigurerad.",
+  "apiKeyUnset": "Ingen nyckel är konfigurerad; endast konversationer som använder en DeepSeek Account-modell kan söka, via standardslutpunkten.",
+  "baseUrl": "Slutpunkt",
+  "baseUrlHint": "Lämna tomt för att använda leverantörens standardvärde.",
+  "description": "Konfigurera DeepSeek-sökleverantören.",
+  "invalidNumber": "Ange ett tal, eller lämna tomt för att använda standardvärdet.",
+  "maxUses": "Max antal sökningar per förfrågan",
+  "maxUsesHint": "Hur många gånger en förfrågan får söka innan den måste svara.",
+  "overridden": "Åsidosatt",
+  "readOnly": "Den här distributionen lagrar inställningar skrivskyddat.",
+  "reset": "Återställ till standard",
+  "save": "Spara",
+  "saveFailed": "Distributionen accepterade inte dessa värden; de lämnades kvar så att du kan korrigera dem.",
+  "saving": "Sparar…",
+  "title": "Webbsökning",
+  "unavailable": "Det här insticksprogrammet är inte inläst, så det kan inte konfigureras just nu."
+}

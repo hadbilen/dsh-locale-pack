@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Întunecat",
+  "appearance.light": "Luminos",
+  "appearance.system": "Sistem",
+  "appearance.title": "Aspect",
+  "fontSize.decrease": "Micșorează dimensiunea fontului",
+  "fontSize.description": "Afectează doar conținutul conversației",
+  "fontSize.increase": "Mărește dimensiunea fontului",
+  "fontSize.title": "Dimensiune font",
+  "fontSize.unit": "px"
+}

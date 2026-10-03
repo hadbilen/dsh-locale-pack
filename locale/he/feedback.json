@@ -1,0 +1,22 @@
+{
+  "action.dislike": "תגובה גרועה",
+  "action.dislikeActive": "הסר דירוג",
+  "action.like": "תגובה טובה",
+  "action.likeActive": "הסר דירוג",
+  "category.instruction-following": "הבנה וביצוע של הוראות",
+  "category.other": "אחר",
+  "category.product-interaction": "תכונות המוצר ואינטראקציה",
+  "category.resource-cost": "שימוש במשאבים ועלות",
+  "category.security-privacy-permission": "אבטחה, פרטיות והרשאות",
+  "category.service-stability": "יציבות ומהירות",
+  "category.task-result": "תוצאת המשימה",
+  "dialog.categories": "קטגוריית משוב",
+  "dialog.detail": "פרטי המשוב",
+  "dialog.hint": "הוסף פרטים כדי לעזור לנו להשתפר. ההגשה שלך תכלול את יומן השיחה הנוכחי.",
+  "dialog.title": "שליחת משוב",
+  "error.conflict": "המשוב הזה השתנה במקום אחר; מוצג המצב העדכני",
+  "error.generic": "לא ניתן לשמור את המשוב",
+  "error.load": "לא ניתן לטעון את המשוב",
+  "error.noteTooLarge": "התיאור ארוך מדי; קצר אותו ושלח שוב",
+  "toast.recorded": "תודה על המשוב שלך"
+}

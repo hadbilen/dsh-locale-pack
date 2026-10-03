@@ -1,0 +1,20 @@
+{
+  "apiKey": "API-sleutel",
+  "apiKeyHint": "Wordt buiten het instellingenbestand opgeslagen. Laat leeg om de huidige sleutel te behouden.",
+  "apiKeySet": "Er is een sleutel geconfigureerd.",
+  "apiKeyUnset": "Er is geen sleutel geconfigureerd; alleen gesprekken met een DeepSeek Account-model kunnen zoeken via het standaardeindpunt.",
+  "baseUrl": "Eindpunt",
+  "baseUrlHint": "Laat leeg om de standaard van de provider te gebruiken.",
+  "description": "Stel de DeepSeek-zoekprovider in.",
+  "invalidNumber": "Voer een getal in, of laat leeg om de standaard te gebruiken.",
+  "maxUses": "Maximaal aantal zoekopdrachten per aanvraag",
+  "maxUsesHint": "Hoe vaak een aanvraag mag zoeken voordat deze moet antwoorden.",
+  "overridden": "Overschreven",
+  "readOnly": "Deze implementatie slaat instellingen alleen-lezen op.",
+  "reset": "Terugzetten naar standaard",
+  "save": "Opslaan",
+  "saveFailed": "De implementatie heeft deze waarden niet geaccepteerd; ze zijn blijven staan zodat u ze kunt corrigeren.",
+  "saving": "Opslaan…",
+  "title": "Zoeken op het web",
+  "unavailable": "Deze plug-in is niet geladen, dus deze kan nu niet worden geconfigureerd."
+}

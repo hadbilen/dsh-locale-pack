@@ -1,0 +1,11 @@
+{
+  "appearance.title": "모양",
+  "appearance.light": "라이트",
+  "appearance.dark": "다크",
+  "appearance.system": "시스템",
+  "fontSize.title": "글자 크기",
+  "fontSize.description": "대화 내용에만 적용됩니다",
+  "fontSize.unit": "px",
+  "fontSize.increase": "글자 크기 키우기",
+  "fontSize.decrease": "글자 크기 줄이기"
+}

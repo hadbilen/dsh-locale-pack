@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "গাঢ়",
+  "appearance.light": "হালকা",
+  "appearance.system": "সিস্টেম",
+  "appearance.title": "চেহারা",
+  "fontSize.decrease": "ফন্টের আকার কমান",
+  "fontSize.description": "শুধুমাত্র কথোপকথনের বিষয়বস্তুতে প্রভাব ফেলে",
+  "fontSize.increase": "ফন্টের আকার বাড়ান",
+  "fontSize.title": "ফন্টের আকার",
+  "fontSize.unit": "px"
+}

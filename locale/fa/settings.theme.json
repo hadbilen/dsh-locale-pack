@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "تیره",
+  "appearance.light": "روشن",
+  "appearance.system": "سیستم",
+  "appearance.title": "ظاهر",
+  "fontSize.decrease": "کاهش اندازه قلم",
+  "fontSize.description": "فقط بر محتوای گفتگو اثر می‌گذارد",
+  "fontSize.increase": "افزایش اندازه قلم",
+  "fontSize.title": "اندازه قلم",
+  "fontSize.unit": "px"
+}

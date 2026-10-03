@@ -1,0 +1,22 @@
+{
+  "action.dislike": "برا جواب",
+  "action.dislikeActive": "ریٹنگ ہٹائیں",
+  "action.like": "اچھا جواب",
+  "action.likeActive": "ریٹنگ ہٹائیں",
+  "category.instruction-following": "ہدایات کو سمجھنا اور ان پر عمل کرنا",
+  "category.other": "دیگر",
+  "category.product-interaction": "مصنوعات کی خصوصیات اور تعامل",
+  "category.resource-cost": "وسائل کا استعمال اور لاگت",
+  "category.security-privacy-permission": "سیکیورٹی، پرائیویسی اور اجازتیں",
+  "category.service-stability": "استحکام اور رفتار",
+  "category.task-result": "کام کا نتیجہ",
+  "dialog.categories": "فیڈ بیک کی قسم",
+  "dialog.detail": "فیڈ بیک کی تفصیلات",
+  "dialog.hint": "بہتری میں ہماری مدد کے لیے تفصیلات شامل کریں۔ آپ کی گزارش میں موجودہ گفتگو کا ریکارڈ شامل ہوگا۔",
+  "dialog.title": "فیڈ بیک جمع کرائیں",
+  "error.conflict": "یہ فیڈ بیک کہیں اور تبدیل ہوا ہے؛ تازہ ترین حالت دکھائی گئی ہے",
+  "error.generic": "فیڈ بیک محفوظ نہیں ہو سکا",
+  "error.load": "فیڈ بیک لوڈ نہیں ہو سکا",
+  "error.noteTooLarge": "تفصیل بہت لمبی ہے؛ اسے مختصر کر کے دوبارہ جمع کرائیں",
+  "toast.recorded": "آپ کی رائے کا شکریہ"
+}

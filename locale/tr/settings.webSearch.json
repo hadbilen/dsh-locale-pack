@@ -1,0 +1,20 @@
+{
+  "apiKey": "API anahtarı",
+  "apiKeyHint": "Ayarlar dosyasının dışında saklanır. Mevcut anahtarı korumak için boş bırakın.",
+  "apiKeySet": "Bir anahtar yapılandırıldı.",
+  "apiKeyUnset": "Hiçbir anahtar yapılandırılmadı; varsayılan uç nokta üzerinden yalnızca DeepSeek Hesabı modeli kullanan sohbetler arama yapabilir.",
+  "baseUrl": "Uç nokta",
+  "baseUrlHint": "Sağlayıcı varsayılanını kullanmak için boş bırakın.",
+  "description": "DeepSeek arama sağlayıcısını ayarlayın.",
+  "invalidNumber": "Bir sayı girin veya varsayılanı kullanmak için boş bırakın.",
+  "maxUses": "İstek başına en fazla arama",
+  "maxUsesHint": "Bir isteğin yanıt vermeden önce kaç kez arama yapabileceği.",
+  "overridden": "Geçersiz kılındı",
+  "readOnly": "Bu dağıtım ayarları salt okunur olarak saklar.",
+  "reset": "Varsayılana sıfırla",
+  "save": "Kaydet",
+  "saveFailed": "Dağıtım bu değerleri kabul etmedi; düzeltmeniz için bırakıldı.",
+  "saving": "Kaydediliyor…",
+  "title": "Web araması",
+  "unavailable": "Bu eklenti yüklenmedi, bu nedenle şu anda yapılandırılamaz."
+}

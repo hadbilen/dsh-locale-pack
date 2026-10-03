@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(無工作目錄)",
+  "crumb.root": "工作區",
+  "section.files": "Files 與資料夾",
+  "section.sessions": "工作階段",
+  "section.subagents": "子代理",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "現在",
+  "time.years": "{n}y"
+}

@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Dunkel",
+  "appearance.light": "Hell",
+  "appearance.system": "System",
+  "appearance.title": "Darstellung",
+  "fontSize.decrease": "Schriftgröße verkleinern",
+  "fontSize.description": "Betrifft nur den Konversationsinhalt",
+  "fontSize.increase": "Schriftgröße vergrößern",
+  "fontSize.title": "Schriftgröße",
+  "fontSize.unit": "px"
+}

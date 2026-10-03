@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(ingen cwd)",
+  "crumb.root": "Arbetsyta",
+  "section.files": "Files & mappar",
+  "section.sessions": "Sessioner",
+  "section.subagents": "Subagenter",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "nu",
+  "time.years": "{n}y"
+}

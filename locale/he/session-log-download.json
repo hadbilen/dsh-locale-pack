@@ -1,0 +1,12 @@
+{
+  "dialog.close": "סגור",
+  "dialog.commandFailed": "לא ניתן היה להתחיל את ייצוא ההפעלה.",
+  "dialog.errorTitle": "ייצוא ההפעלה נכשל",
+  "dialog.preparingDescription": "מכין קובץ ZIP הכולל את ההפעלה הזו, את הפעלות המשנה שלה ואת הקבצים המצורפים.",
+  "dialog.preparingTitle": "ייצוא ההפעלה",
+  "dialog.successDescription": "הדפדפן מוריד את קובץ ZIP של ההפעלה.",
+  "dialog.successTitle": "הורדת ההפעלה החלה",
+  "header.more": "פעולות נוספות",
+  "menu.download": "הורדת יומן ההפעלה",
+  "menu.feedback": "משוב"
+}

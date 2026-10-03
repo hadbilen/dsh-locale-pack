@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Respons buruk",
+  "action.dislikeActive": "Hapus penilaian",
+  "action.like": "Respons bagus",
+  "action.likeActive": "Hapus penilaian",
+  "category.instruction-following": "Pemahaman dan kepatuhan instruksi",
+  "category.other": "Lainnya",
+  "category.product-interaction": "Fitur dan interaksi produk",
+  "category.resource-cost": "Penggunaan sumber daya dan biaya",
+  "category.security-privacy-permission": "Keamanan, privasi, dan izin",
+  "category.service-stability": "Stabilitas dan kecepatan",
+  "category.task-result": "Hasil tugas",
+  "dialog.categories": "Kategori masukan",
+  "dialog.detail": "Detail masukan",
+  "dialog.hint": "Tambahkan detail untuk membantu kami meningkatkan layanan. Kiriman Anda akan menyertakan log percakapan saat ini.",
+  "dialog.title": "Kirim masukan",
+  "error.conflict": "Masukan ini diubah di tempat lain; status terbaru ditampilkan",
+  "error.generic": "Tidak dapat menyimpan masukan",
+  "error.load": "Tidak dapat memuat masukan",
+  "error.noteTooLarge": "Deskripsi terlalu panjang; persingkat lalu kirim ulang",
+  "toast.recorded": "Terima kasih atas masukan Anda"
+}

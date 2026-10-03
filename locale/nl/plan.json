@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Planmodus kon niet worden uitgeschakeld",
+  "chip.label": "Plan",
+  "chip.on.aria": "Planmodus aan, druk om uit te schakelen",
+  "chip.on.title": "Planmodus aan, klik om uit te schakelen (/plan off)",
+  "preview.action": "Openen",
+  "preview.document": "Plan · Markdown",
+  "preview.expired": "Deze tijdelijke planpreview is verlopen. Open deze opnieuw via de kaart voor openstaande beoordeling.",
+  "preview.failed": "Plan kon niet worden geladen",
+  "preview.full": "Volledig plan bekijken",
+  "preview.historyUnavailable": "Sessiegeschiedenis is niet beschikbaar",
+  "preview.invalidAddress": "Ongeldig planadres",
+  "preview.loading": "Plan laden…",
+  "preview.notFound": "Dit plan is niet gevonden",
+  "preview.open": "Plan openen in zijbalk",
+  "preview.openNamed": "Plan openen: {title}",
+  "preview.title": "Plan",
+  "preview.unavailable": "Planvoorbeeld is niet beschikbaar"
+}

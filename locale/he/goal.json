@@ -1,0 +1,14 @@
+{
+  "action.cancel": "בטל עריכה",
+  "action.clear": "נקה מטרה",
+  "action.edit": "ערוך מטרה",
+  "action.pause": "השהה מטרה",
+  "action.resume": "המשך מטרה",
+  "action.save": "שמור מטרה",
+  "commandInput.aria": "קלט פקודה",
+  "objective.aria": "יעד המטרה",
+  "phase.active": "מטרה פעילה",
+  "phase.active.disarmed": "מטרה לא פעילה",
+  "phase.blocked": "מטרה חסומה",
+  "phase.paused": "מטרה מושהית"
+}

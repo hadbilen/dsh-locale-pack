@@ -1,0 +1,16 @@
+{
+  "description": "Begränsa hur länge varje kommando får köras och hur mycket utdata det får ge.",
+  "invalidNumber": "Ange ett tal, eller lämna tomt för att använda standardvärdet.",
+  "maxOutputBytes": "Max utdata per ström (byte)",
+  "maxOutputBytesHint": "Utdata över denna gräns sparas till en tillfällig fil istället för att gå förlorad.",
+  "overridden": "Åsidosatt",
+  "readOnly": "Den här distributionen lagrar inställningar skrivskyddat.",
+  "reset": "Återställ till standard",
+  "save": "Spara",
+  "saveFailed": "Distributionen accepterade inte dessa värden; de lämnades kvar så att du kan rätta dem.",
+  "saving": "Sparar…",
+  "timeoutMs": "Tidsgräns för kommando (ms)",
+  "timeoutMsHint": "Hur länge ett kommando får köras innan det avslutas.",
+  "title": "Skal",
+  "unavailable": "Det här insticksprogrammet är inte inläst, så det kan inte konfigureras just nu."
+}

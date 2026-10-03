@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "yalnızca kullanıcı",
+  "row.failed": "Beceri yükleme başarısız oldu",
+  "row.inspect": "İncele",
+  "row.instructions": "Talimatlar",
+  "row.preparing": "Beceri yüklemeye hazırlanıyor",
+  "row.running": "Beceri yükleniyor",
+  "row.stopped": "Beceri yükleme durduruldu",
+  "row.title": "Beceri"
+}

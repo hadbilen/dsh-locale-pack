@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "משתמש בלבד",
+  "row.failed": "טעינת המיומנות נכשלה",
+  "row.inspect": "בדוק",
+  "row.instructions": "הוראות",
+  "row.preparing": "מתכונן לטעינת מיומנות",
+  "row.running": "טוען מיומנות",
+  "row.stopped": "טעינת המיומנות הופסקה",
+  "row.title": "מיומנות"
+}

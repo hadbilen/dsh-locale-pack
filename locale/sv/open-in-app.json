@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Öppna i {app}",
+  "open.tooltip": "Öppna lokalt",
+  "path.appDefault": "{app} (standard)",
+  "path.appsError": "Kunde inte ladda program",
+  "path.more": "Fler sätt att öppna",
+  "path.open": "Öppna",
+  "path.openError": "Kunde inte öppna. Försök igen.",
+  "path.reveal": "Visa filens plats",
+  "path.revealError": "Kunde inte visa filens plats. Försök igen.",
+  "shortcut.busy": "Öppnar arbetsytan",
+  "shortcut.unavailable": "Aktuell arbetsyta eller lokalt program är inte tillgängligt"
+}

@@ -1,0 +1,90 @@
+{
+  "$comment": "영어를 그대로 두는 용어 목록. 검사기 tools/check-keep.mjs가 읽는다. 출처가 둘이라 두 층으로 나눴다.",
+  "updatedAt": "2026-10-02",
+  "sources": {
+    "upstreamDocs": {
+      "url": "https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/i18n/terminology.md",
+      "note": "DSH 저장소의 문서 번역 정책. 영어 문서와 중국어 문서 양쪽에서 영어로 두기로 한 용어다. UI 정책이 아니라는 점에 주의. 같은 파일이 중국어 UI에서는 subagent를 다른 표기로 쓴다고 적어 두었다."
+    }
+  },
+  "upstreamDocs": {
+    "abbreviations": [
+      "ACP", "AI", "API", "CI", "CLI", "e2e", "HMR", "JSON Schema", "JSONL",
+      "LLM", "MCP", "PR", "RAG", "SDK", "SSE"
+    ],
+    "englishKept": [
+      "agent", "Agent Note", "agent harness", "agent loop", "blob hash", "coding agent",
+      "Cordis", "dispose", "doc-sync", "fiber", "fixture", "fork", "Function Calling",
+      "harness", "harness engineering", "KV Cache", "lint", "mock", "loader", "manifest",
+      "monorepo", "Round", "schema", "schema DSL", "seam", "Service Provider", "skill",
+      "slot", "spill", "spawn", "steering", "job id", "subagent", "transcript", "Typert",
+      "waterfall", "wheel", "worktree", "Zstandard"
+    ]
+  },
+  "ui": {
+    "$comment": "한국어 UI에서 영어로 두기로 한 것. upstreamDocs 목록을 그대로 UI에 옮기지 않는다. 한국어 UI는 세션·플러그인·작업 공간처럼 한국어로 옮기는 자리가 이미 정해져 있다.",
+    "translates": {
+      "agent": "에이전트",
+      "subagent": "서브에이전트",
+      "session": "세션",
+      "plugin": "플러그인",
+      "workspace": "작업 공간",
+      "tool": "도구",
+      "tool call": "도구 호출",
+      "skill": "스킬",
+      "prompt": "프롬프트",
+      "token": "토큰",
+      "trajectory": "궤적",
+      "compaction": "압축",
+      "permission": "권한",
+      "approval": "승인"
+    },
+    "terms": [
+      "DeepSeek Harness", "DSH", "Cordis", "Electron", "Node", "TypeScript", "JavaScript",
+      "Python", "Markdown", "Git", "GitHub", "GitLab", "Docker", "Linux", "macOS", "Windows",
+      "JSON", "JSONL", "YAML", "TOML", "MCP", "API", "URL", "URI", "CLI", "GUI", "SDK",
+      "LLM", "TTFT", "GPU", "CPU", "RAM", "KV Cache", "JSON Schema", "Function Calling",
+      "OpenAI Chat Completions", "OpenAI Responses", "Anthropic Messages",
+      "Bash", "Read", "Write", "Edit", "Glob", "Grep", "WebFetch", "WebSearch",
+      "Finder", "Terminal", "File Explorer", "Files", "PowerShell", "cmd",
+      "PNG", "JPG", "JPEG", "WebP", "GIF", "SVG", "PDF", "CSV", "HTML", "CSS",
+      "HTTP", "HTTPS", "SSH", "OAuth", "UUID", "VFS", "RFC", "MIT", "ok", "OK", "EXP", "Diff"
+    ],
+    "keyRules": [
+      {
+        "pattern": "^command\\.token\\.|^chat\\.message\\.compaction\\.commandTitle$",
+        "reason": "슬래시 명령 이름이다. 값이 명령 토큰 자체라 번역하면 명령이 깨진다"
+      }
+    ],
+    "valuePatterns": [
+      {
+        "pattern": "^[^A-Za-z\\p{L}]*$",
+        "reason": "글자 없이 기호와 숫자만 있는 값"
+      },
+      {
+        "pattern": "^\\{[\\w.]+\\}\\s*(ms|s|m|h|tok|tok/s|%)?$",
+        "reason": "자리표시자와 단위만 있는 값"
+      },
+      {
+        "pattern": "^(px|em|rem|ms|s|%)$",
+        "reason": "단위 표기"
+      },
+      {
+        "pattern": "^[a-z]{2}(-[A-Za-z]{2,4})?$",
+        "reason": "언어 코드"
+      },
+      {
+        "pattern": "^[+-]\\{[\\w.]+\\}$",
+        "reason": "증감 표기"
+      },
+      {
+        "pattern": "^\\{[\\w.]+\\}[\\s\\S]*\\{[\\w.]+\\}$",
+        "reason": "자리표시자 두 개로만 이뤄진 값"
+      },
+      {
+        "pattern": "^(https?://|userData/|[\\w-]+/[\\w.-]+\\.json$)",
+        "reason": "주소 또는 파일 경로"
+      }
+    ]
+  }
+}

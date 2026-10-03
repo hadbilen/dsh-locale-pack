@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "داكن",
+  "appearance.light": "فاتح",
+  "appearance.system": "النظام",
+  "appearance.title": "المظهر",
+  "fontSize.decrease": "تقليل حجم الخط",
+  "fontSize.description": "يؤثر على محتوى المحادثة فقط",
+  "fontSize.increase": "زيادة حجم الخط",
+  "fontSize.title": "حجم الخط",
+  "fontSize.unit": "px"
+}

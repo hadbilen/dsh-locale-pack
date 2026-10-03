@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "פתח ב {app}",
+  "open.tooltip": "פתח באופן מקומי",
+  "path.appDefault": "{app} (ברירת מחדל)",
+  "path.appsError": "לא ניתן לטעון את היישומים",
+  "path.more": "דרכים נוספות לפתיחה",
+  "path.open": "פתח",
+  "path.openError": "לא ניתן לפתוח. נסה שוב.",
+  "path.reveal": "הצג את מיקום הקובץ",
+  "path.revealError": "לא ניתן להציג את מיקום הקובץ. נסה שוב.",
+  "shortcut.busy": "פותח את סביבת העבודה",
+  "shortcut.unavailable": "סביבת העבודה הנוכחית או היישום המקומי אינם זמינים"
+}

@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Nauunawaan ko ang mga panganib at nais kong magpatuloy",
+  "confirm.cancel": "Kanselahin",
+  "confirm.description": "Hinahayaan ng Buong pag-access na bawasan ng mga bagong sesyon ang mga hakbang sa pagkumpirma at direktang gumawa ng mas maraming aksyon, kabilang ang mga sensitibong operasyon, pagbabago sa file, o panlabas na command. Gamitin lamang ito kapag pinagkakatiwalaan mo ang mga susunod na gawain.",
+  "confirm.enable": "I-enable ang Buong pag-access",
+  "confirm.title": "I-enable ang Buong pag-access?",
+  "description": "Piliin ang default na mode ng pahintulot para sa mga bagong sesyon",
+  "loading": "Naglo-load",
+  "preset.fullAccess": "Buong pag-access",
+  "preset.readOnly": "Read Lamang",
+  "preset.workspaceWrite": "Write sa Workspace",
+  "title": "Pahintulot",
+  "unavailable": "Hindi magagamit"
+}

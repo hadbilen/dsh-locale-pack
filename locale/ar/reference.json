@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(بدون مجلد عمل)",
+  "crumb.root": "مساحة العمل",
+  "section.files": "الملفات والمجلدات",
+  "section.sessions": "الجلسات",
+  "section.subagents": "الوكلاء الفرعيون",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "الآن",
+  "time.years": "{n}y"
+}

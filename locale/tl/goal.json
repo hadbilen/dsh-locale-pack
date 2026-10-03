@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Kanselahin ang pag-edit",
+  "action.clear": "Burahin ang layunin",
+  "action.edit": "I-edit ang layunin",
+  "action.pause": "I-pause ang layunin",
+  "action.resume": "Ipagpatuloy ang layunin",
+  "action.save": "I-save ang layunin",
+  "commandInput.aria": "Input ng utos",
+  "objective.aria": "Objectibo ng layunin",
+  "phase.active": "Patuloy na Layunin",
+  "phase.active.disarmed": "Hindi Aktibong Layunin",
+  "phase.blocked": "Hinarang na Layunin",
+  "phase.paused": "Naka-pause na Layunin"
+}

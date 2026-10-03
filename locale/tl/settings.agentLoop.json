@@ -1,0 +1,14 @@
+{
+  "description": "Kontrolin kung paano ipinamamahagi ng Agent ang mga tool call.",
+  "invalidNumber": "Maglagay ng numero, o iwang blangko upang gamitin ang default.",
+  "maxParallel": "Mga sabayang tool call",
+  "maxParallelHint": "Pinakamataas na limitasyon sa mga call na ligtas patakbuhin nang sabay sa loob ng isang hakbang.",
+  "overridden": "Nabago",
+  "readOnly": "Ang deployment na ito ay nag-iimbak ng mga setting bilang read-only.",
+  "reset": "Ibalik sa default",
+  "save": "I-save",
+  "saveFailed": "Hindi tinanggap ng deployment ang mga halagang ito; naiwan ang mga ito para maitama mo.",
+  "saving": "Nagse-save…",
+  "title": "Loop ng Agent",
+  "unavailable": "Hindi naka-load ang plugin na ito, kaya hindi ito mako-configure sa ngayon."
+}

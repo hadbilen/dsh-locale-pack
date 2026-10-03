@@ -1,0 +1,20 @@
+{
+  "member.empty": "빈 멤버 이름",
+  "member.open": "{name} 열기",
+  "phase.empty": "빈 단계 이름",
+  "phase.unassigned": "단계 없음",
+  "run.empty": "시작한 멤버가 없습니다.",
+  "run.members.one": "{count}명",
+  "run.members.other": "{count}명",
+  "run.title": "{name}",
+  "status.cancelled": "취소",
+  "status.completed": "완료",
+  "status.failed": "실패",
+  "status.interrupted": "중단",
+  "status.running": "실행 중",
+  "statusCount.cancelled": "취소 {count}",
+  "statusCount.completed": "완료 {count}",
+  "statusCount.failed": "실패 {count}",
+  "statusCount.interrupted": "중단 {count}",
+  "statusCount.running": "실행 중 {count}"
+}

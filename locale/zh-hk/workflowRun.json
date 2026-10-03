@@ -1,0 +1,20 @@
+{
+  "member.empty": "成員名稱為空",
+  "member.open": "開啟 {name}",
+  "phase.empty": "階段名稱為空",
+  "phase.unassigned": "未分階段",
+  "run.empty": "尚未有成員開始",
+  "run.members.one": "{count} 位成員",
+  "run.members.other": "{count} 位成員",
+  "run.title": "{name}",
+  "status.cancelled": "已取消",
+  "status.completed": "已完成",
+  "status.failed": "失敗",
+  "status.interrupted": "已中斷",
+  "status.running": "執行中",
+  "statusCount.cancelled": "已取消 {count}",
+  "statusCount.completed": "已完成 {count}",
+  "statusCount.failed": "失敗 {count}",
+  "statusCount.interrupted": "已中斷 {count}",
+  "statusCount.running": "執行中 {count}"
+}

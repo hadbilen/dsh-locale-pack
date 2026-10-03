@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Înțeleg aceste riscuri și vreau să continui",
+  "auto.confirm.description": "Revizuirea automată rulează fără sandbox. Înainte de fiecare apel de instrument nativ și de fiecare apel interior PTC, același model ca agentul curent verifică dacă acesta trebuie permis; aprobați sau respingeți fiecare apel pe care îl refuză. Această funcție este experimentală, poate permite sau refuza în mod eronat acțiuni și utilizează tokenuri suplimentare.",
+  "auto.confirm.enable": "Activați Revizuire automată",
+  "auto.confirm.title": "Activați Revizuire automată (experimentală)?",
+  "auto.description": "Rulați fără sandbox după o revizuire experimentală cu același model a fiecărui apel de instrument nativ și a fiecărui apel interior PTC.",
+  "auto.label": "Revizuire automată",
+  "close": "Închide",
+  "confirm.acknowledge": "Înțeleg riscurile și vreau să continui",
+  "confirm.cancel": "Anulare",
+  "confirm.description": "Acces complet reduce pașii de confirmare și permite agentului să efectueze mai multe acțiuni direct, inclusiv operațiuni sensibile, modificări de fișiere sau comenzi externe. Folosiți-l numai atunci când aveți încredere în sarcina curentă.",
+  "confirm.enable": "Activați Acces complet",
+  "confirm.title": "Activați Acces complet?",
+  "mode": "Mod de acces, curent: {name}",
+  "preset.fullAccess": "Acces complet",
+  "preset.readOnly": "Doar citire",
+  "preset.workspaceWrite": "Scriere în spațiul de lucru"
+}

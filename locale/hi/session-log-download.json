@@ -1,0 +1,12 @@
+{
+  "dialog.close": "बंद करें",
+  "dialog.commandFailed": "सत्र निर्यात शुरू नहीं हो सका।",
+  "dialog.errorTitle": "सत्र निर्यात विफल हुआ",
+  "dialog.preparingDescription": "इस सत्र, इसके उप-सत्रों और अनुलग्नकों वाली ZIP तैयार की जा रही है।",
+  "dialog.preparingTitle": "सत्र निर्यात हो रहा है",
+  "dialog.successDescription": "ब्राउज़र सत्र ZIP डाउनलोड कर रहा है।",
+  "dialog.successTitle": "सत्र डाउनलोड शुरू हो गया",
+  "header.more": "अधिक क्रियाएं",
+  "menu.download": "सत्र लॉग डाउनलोड करें",
+  "menu.feedback": "प्रतिक्रिया"
+}

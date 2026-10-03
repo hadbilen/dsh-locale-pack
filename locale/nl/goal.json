@@ -1,0 +1,14 @@
+{
+  "action.cancel": "Bewerken annuleren",
+  "action.clear": "Doel wissen",
+  "action.edit": "Doel bewerken",
+  "action.pause": "Doel pauzeren",
+  "action.resume": "Doel hervatten",
+  "action.save": "Doel opslaan",
+  "commandInput.aria": "Opdrachtinvoer",
+  "objective.aria": "Doelstelling",
+  "phase.active": "Lopend doel",
+  "phase.active.disarmed": "Inactief doel",
+  "phase.blocked": "Geblokkeerd doel",
+  "phase.paused": "Gepauzeerd doel"
+}

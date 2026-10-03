@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Schließen",
+  "dialog.commandFailed": "Der Export der Sitzung konnte nicht gestartet werden.",
+  "dialog.errorTitle": "Export der Sitzung fehlgeschlagen",
+  "dialog.preparingDescription": "Ein ZIP mit dieser Sitzung, ihren Untersitzungen und Anhängen wird vorbereitet.",
+  "dialog.preparingTitle": "Sitzung wird exportiert",
+  "dialog.successDescription": "Der Browser lädt das Sitzungs-ZIP herunter.",
+  "dialog.successTitle": "Download der Sitzung gestartet",
+  "header.more": "Weitere Aktionen",
+  "menu.download": "Sitzungsprotokoll herunterladen",
+  "menu.feedback": "Feedback"
+}

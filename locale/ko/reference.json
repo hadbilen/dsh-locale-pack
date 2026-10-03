@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(cwd 없음)",
+  "crumb.root": "작업 공간",
+  "section.files": "Files 및 폴더",
+  "section.sessions": "세션",
+  "section.subagents": "서브에이전트",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "지금",
+  "time.years": "{n}y"
+}

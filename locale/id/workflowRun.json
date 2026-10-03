@@ -1,0 +1,20 @@
+{
+  "member.empty": "Nama anggota kosong",
+  "member.open": "Buka {name}",
+  "phase.empty": "Nama fase kosong",
+  "phase.unassigned": "Tanpa fase",
+  "run.empty": "Tidak ada anggota yang mulai",
+  "run.members.one": "{count} anggota",
+  "run.members.other": "{count} anggota",
+  "run.title": "{name}",
+  "status.cancelled": "Dibatalkan",
+  "status.completed": "Selesai",
+  "status.failed": "Gagal",
+  "status.interrupted": "Terinterupsi",
+  "status.running": "Berjalan",
+  "statusCount.cancelled": "Dibatalkan {count}",
+  "statusCount.completed": "Selesai {count}",
+  "statusCount.failed": "Gagal {count}",
+  "statusCount.interrupted": "Terinterupsi {count}",
+  "statusCount.running": "Berjalan {count}"
+}

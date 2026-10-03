@@ -1,0 +1,16 @@
+{
+  "description": "Batasi berapa lama setiap perintah boleh berjalan dan berapa banyak keluaran yang boleh dihasilkan.",
+  "invalidNumber": "Masukkan angka, atau biarkan kosong untuk menggunakan nilai bawaan.",
+  "maxOutputBytes": "Batas keluaran per aliran (bytes)",
+  "maxOutputBytesHint": "Keluaran yang melebihi batas ini dialihkan ke berkas sementara agar tidak hilang.",
+  "overridden": "Ditimpa",
+  "readOnly": "Penerapan ini menyimpan pengaturan secara hanya baca.",
+  "reset": "Kembalikan ke bawaan",
+  "save": "Simpan",
+  "saveFailed": "Penerapan tidak menerima nilai-nilai ini; nilai tersebut dibiarkan agar Anda dapat memperbaikinya.",
+  "saving": "Menyimpan…",
+  "timeoutMs": "Batas waktu perintah (ms)",
+  "timeoutMsHint": "Berapa lama satu perintah boleh berjalan sebelum dihentikan.",
+  "title": "Shell",
+  "unavailable": "Plugin ini tidak dimuat, sehingga tidak dapat dikonfigurasi saat ini."
+}

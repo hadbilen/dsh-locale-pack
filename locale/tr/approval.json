@@ -1,0 +1,7 @@
+{
+  "allowOnce": "Bir kez izin ver",
+  "detail.aria": "Onay ayrıntıları",
+  "escalation": "Araç {toolName} ayrıcalıklı yürütme istiyor",
+  "reject": "Reddet",
+  "waiting": "Onay bekleniyor"
+}

@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "केवल उपयोगकर्ता",
+  "row.failed": "कौशल लोड विफल रहा",
+  "row.inspect": "निरीक्षण करें",
+  "row.instructions": "निर्देश",
+  "row.preparing": "कौशल लोड करने की तैयारी हो रही है",
+  "row.running": "कौशल लोड हो रहा है",
+  "row.stopped": "कौशल लोड रुक गया",
+  "row.title": "कौशल"
+}

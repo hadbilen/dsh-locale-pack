@@ -1,0 +1,16 @@
+{
+  "description": "Limitează cât timp poate rula fiecare comandă și cât poate afișa.",
+  "invalidNumber": "Introduceți un număr sau lăsați necompletat pentru a utiliza valoarea implicită.",
+  "maxOutputBytes": "Limită de ieșire pe flux (octeți)",
+  "maxOutputBytesHint": "Ieșirea care depășește această limită este salvată într-un fișier temporar, în loc să fie pierdută.",
+  "overridden": "Suprascrisă",
+  "readOnly": "Această implementare stochează setările doar pentru citire.",
+  "reset": "Resetează la valoarea implicită",
+  "save": "Salvează",
+  "saveFailed": "Implementarea nu a acceptat aceste valori; acestea au fost păstrate pentru a le corecta.",
+  "saving": "Se salvează…",
+  "timeoutMs": "Limită de timp pentru comandă (ms)",
+  "timeoutMsHint": "Cât timp poate rula o comandă înainte de a fi oprită.",
+  "title": "Shell",
+  "unavailable": "Acest modul nu este încărcat, deci nu poate fi configurat momentan."
+}

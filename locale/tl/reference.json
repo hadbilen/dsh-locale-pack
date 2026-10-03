@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(walang cwd)",
+  "crumb.root": "Lugar ng trabaho",
+  "section.files": "Files at mga folder",
+  "section.sessions": "Mga sesyon",
+  "section.subagents": "Mga subagent",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "ngayon",
+  "time.years": "{n}y"
+}

@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Nabigong lumabas sa plano mode",
+  "chip.label": "Plano",
+  "chip.on.aria": "Naka-on ang plano mode, pindutin upang patayin",
+  "chip.on.title": "Naka-on ang plano mode, i-click upang patayin (/plan off)",
+  "preview.action": "Buksan",
+  "preview.document": "Plano · Markdown",
+  "preview.expired": "Nag-expire na ang pansamantalang preview ng planong ito. Buksan itong muli mula sa pending review card.",
+  "preview.failed": "Hindi ma-load ang plano",
+  "preview.full": "Tingnan ang buong plano",
+  "preview.historyUnavailable": "Hindi available ang history ng session",
+  "preview.invalidAddress": "Hindi wastong address ng plano",
+  "preview.loading": "Naglo-load ng plano…",
+  "preview.notFound": "Hindi nahanap ang planong ito",
+  "preview.open": "Buksan ang plano sa sidebar",
+  "preview.openNamed": "Buksan ang plano: {title}",
+  "preview.title": "Plano",
+  "preview.unavailable": "Hindi available ang preview ng plano"
+}

@@ -1,0 +1,22 @@
+{
+  "action.dislike": "คำตอบไม่ดี",
+  "action.dislikeActive": "ลบการให้คะแนน",
+  "action.like": "คำตอบดี",
+  "action.likeActive": "ลบการให้คะแนน",
+  "category.instruction-following": "การเข้าใจและปฏิบัติตามคำสั่ง",
+  "category.other": "อื่นๆ",
+  "category.product-interaction": "ฟีเจอร์ของผลิตภัณฑ์และการโต้ตอบ",
+  "category.resource-cost": "การใช้ทรัพยากรและค่าใช้จ่าย",
+  "category.security-privacy-permission": "ความปลอดภัย ความเป็นส่วนตัว และสิทธิ์",
+  "category.service-stability": "ความเสถียรและความเร็ว",
+  "category.task-result": "ผลลัพธ์ของงาน",
+  "dialog.categories": "หมวดหมู่ความคิดเห็น",
+  "dialog.detail": "รายละเอียดความคิดเห็น",
+  "dialog.hint": "เพิ่มรายละเอียดเพื่อช่วยให้เราปรับปรุง การส่งของคุณจะรวมบันทึกการสนทนาปัจจุบันไว้ด้วย",
+  "dialog.title": "ส่งความคิดเห็น",
+  "error.conflict": "ความคิดเห็นนี้ถูกเปลี่ยนที่อื่น ขณะนี้แสดงสถานะล่าสุดแล้ว",
+  "error.generic": "ไม่สามารถบันทึกความคิดเห็นได้",
+  "error.load": "ไม่สามารถโหลดความคิดเห็นได้",
+  "error.noteTooLarge": "คำอธิบายยาวเกินไป โปรดทำให้สั้นลงแล้วส่งอีกครั้ง",
+  "toast.recorded": "ขอบคุณสำหรับความคิดเห็น"
+}

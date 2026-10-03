@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Mở trong {app}",
+  "open.tooltip": "Mở cục bộ",
+  "path.appDefault": "{app} (mặc định)",
+  "path.appsError": "Không thể tải ứng dụng",
+  "path.more": "Các cách mở khác",
+  "path.open": "Mở",
+  "path.openError": "Không thể mở. Hãy thử lại.",
+  "path.reveal": "Hiển thị vị trí tệp",
+  "path.revealError": "Không thể hiển thị vị trí tệp. Hãy thử lại.",
+  "shortcut.busy": "Đang mở không gian làm việc",
+  "shortcut.unavailable": "Không gian làm việc hiện tại hoặc ứng dụng cục bộ không khả dụng"
+}

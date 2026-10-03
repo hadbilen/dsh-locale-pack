@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Comprendo questi rischi e voglio continuare",
+  "auto.confirm.description": "Revisione automatica viene eseguita senza ambiente isolato. Prima di ogni chiamata di strumento nativa e chiamata interna PTC, lo stesso modello dell'agente corrente valuta se consentirla; approvi o rifiuti ogni chiamata negata. Questa funzionalità è sperimentale, può consentire o negare erroneamente azioni e utilizza token aggiuntivi.",
+  "auto.confirm.enable": "Attiva Revisione automatica",
+  "auto.confirm.title": "Attivare Revisione automatica (sperimentale)?",
+  "auto.description": "Esecuzione senza ambiente isolato dopo una revisione sperimentale, con lo stesso modello, di ogni chiamata di strumento nativa e chiamata interna PTC.",
+  "auto.label": "Revisione automatica",
+  "close": "Chiudi",
+  "confirm.acknowledge": "Comprendo i rischi e voglio continuare",
+  "confirm.cancel": "Annulla",
+  "confirm.description": "Accesso completo riduce i passaggi di conferma e consente all'agente di eseguire più azioni direttamente, incluse operazioni sensibili, modifiche ai file o comandi esterni. Usalo solo quando ritieni affidabile l'attività corrente.",
+  "confirm.enable": "Attiva Accesso completo",
+  "confirm.title": "Attivare Accesso completo?",
+  "mode": "Modalità di accesso, attuale: {name}",
+  "preset.fullAccess": "Accesso completo",
+  "preset.readOnly": "Sola lettura",
+  "preset.workspaceWrite": "Scrittura area di lavoro"
+}

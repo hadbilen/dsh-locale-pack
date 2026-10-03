@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(без cwd)",
+  "crumb.root": "Робоча область",
+  "section.files": "Files і папки",
+  "section.sessions": "Сесії",
+  "section.subagents": "Субагенти",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "зараз",
+  "time.years": "{n}y"
+}

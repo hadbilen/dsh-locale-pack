@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Comprendo i rischi e voglio continuare",
+  "confirm.cancel": "Annulla",
+  "confirm.description": "Accesso completo consente alle nuove sessioni di ridurre i passaggi di conferma ed eseguire più azioni direttamente, incluse operazioni sensibili, modifiche ai file o comandi esterni. Usalo solo quando ritieni affidabili le attività successive.",
+  "confirm.enable": "Abilita Accesso completo",
+  "confirm.title": "Abilitare Accesso completo?",
+  "description": "Scegli la modalità di autorizzazione predefinita per le nuove sessioni",
+  "loading": "Caricamento",
+  "preset.fullAccess": "Accesso completo",
+  "preset.readOnly": "Read Only",
+  "preset.workspaceWrite": "Workspace Write",
+  "title": "Autorizzazione",
+  "unavailable": "Non disponibile"
+}

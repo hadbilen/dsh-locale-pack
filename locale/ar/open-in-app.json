@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "فتح في {app}",
+  "open.tooltip": "فتح محليًا",
+  "path.appDefault": "{app} (الافتراضي)",
+  "path.appsError": "تعذر تحميل التطبيقات",
+  "path.more": "المزيد من طرق الفتح",
+  "path.open": "فتح",
+  "path.openError": "تعذر الفتح. حاول مرة أخرى.",
+  "path.reveal": "إظهار موقع الملف",
+  "path.revealError": "تعذر إظهار موقع الملف. حاول مرة أخرى.",
+  "shortcut.busy": "جارٍ فتح مساحة العمل",
+  "shortcut.unavailable": "مساحة العمل الحالية أو التطبيق المحلي غير متوفر"
+}

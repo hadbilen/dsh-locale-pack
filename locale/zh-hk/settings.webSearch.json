@@ -1,0 +1,20 @@
+{
+  "apiKey": "API 金鑰",
+  "apiKeyHint": "儲存在設定檔之外。如要保留目前金鑰，請留空。",
+  "apiKeySet": "已設定金鑰。",
+  "apiKeyUnset": "未設定金鑰；只有使用深度求索帳戶模型的對話可以透過預設端點進行搜尋。",
+  "baseUrl": "端點",
+  "baseUrlHint": "如要使用供應商預設值，請留空。",
+  "description": "設定深度求索搜尋供應商。",
+  "invalidNumber": "請輸入數字，或留空以使用預設值。",
+  "maxUses": "每次請求的搜尋次數上限",
+  "maxUsesHint": "一個請求在必須作答之前可以搜尋的次數。",
+  "overridden": "已覆寫",
+  "readOnly": "此部署以唯讀方式儲存設定。",
+  "reset": "重設為預設值",
+  "save": "儲存",
+  "saveFailed": "此部署未接受這些值；已保留這些值以供你修正。",
+  "saving": "儲存中…",
+  "title": "網上搜尋",
+  "unavailable": "此外掛程式尚未載入，因此目前無法設定。"
+}

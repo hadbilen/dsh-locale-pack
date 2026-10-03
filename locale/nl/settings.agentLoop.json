@@ -1,0 +1,14 @@
+{
+  "description": "Bepaal hoe de Agent toolaanroepen verzendt.",
+  "invalidNumber": "Voer een getal in of laat leeg om de standaardwaarde te gebruiken.",
+  "maxParallel": "Parallelle toolaanroepen",
+  "maxParallelHint": "Bovengrens voor parallelveilige aanroepen die binnen één stap tegelijk worden uitgevoerd.",
+  "overridden": "Overschreven",
+  "readOnly": "Deze implementatie slaat instellingen alleen-lezen op.",
+  "reset": "Terugzetten naar standaard",
+  "save": "Opslaan",
+  "saveFailed": "De implementatie heeft deze waarden niet geaccepteerd; ze zijn blijven staan zodat je ze kunt corrigeren.",
+  "saving": "Opslaan…",
+  "title": "Agentlus",
+  "unavailable": "Deze plug-in is niet geladen en kan daarom nu niet worden geconfigureerd."
+}

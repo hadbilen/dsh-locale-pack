@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Automatische Aktualisierung",
+  "autoRefresh.disable": "Automatische Aktualisierung deaktivieren",
+  "autoRefresh.enable": "Automatische Aktualisierung aktivieren",
+  "empty": "Leeres Verzeichnis",
+  "entry.other": "Keine Datei und kein Verzeichnis, daher kann es nicht geöffnet werden.",
+  "error.notDirectory": "Das ist kein Verzeichnis.",
+  "error.notFound": "Dieses Verzeichnis ist nicht mehr vorhanden. Es wurde möglicherweise verschoben oder gelöscht.",
+  "error.outsideWorkspace": "Dieses Verzeichnis liegt außerhalb des Arbeitsbereichs, daher wird es von der Seitenleiste nicht gelesen.",
+  "error.unavailable": "Lesen fehlgeschlagen: {message}",
+  "guide.description": "Durchsuchen Sie die Files im Arbeitsbereich dieser Sitzung",
+  "guide.title": "Files des Arbeitsbereichs",
+  "loading": "Wird gelesen…",
+  "noWorkspace": "Diese Sitzung hat kein Arbeitsbereichsverzeichnis.",
+  "reload": "Neu laden",
+  "shortcut.noSession": "Wählen Sie zuerst eine Sitzung aus",
+  "truncated": "Zu viele Einträge, es werden nur einige angezeigt.",
+  "type.label": "Dateien"
+}

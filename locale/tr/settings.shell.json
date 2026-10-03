@@ -1,0 +1,16 @@
+{
+  "description": "Her komutun ne kadar süre çalışabileceğini ve ne kadar çıktı üretebileceğini sınırlayın.",
+  "invalidNumber": "Bir sayı girin veya varsayılanı kullanmak için boş bırakın.",
+  "maxOutputBytes": "Akış başına çıktı sınırı (bayt)",
+  "maxOutputBytesHint": "Bu sınırı aşan çıktı kaybolmak yerine geçici bir dosyaya yazılır.",
+  "overridden": "Geçersiz kılındı",
+  "readOnly": "Bu dağıtım ayarları salt okunur olarak saklıyor.",
+  "reset": "Varsayılana sıfırla",
+  "save": "Kaydet",
+  "saveFailed": "Dağıtım bu değerleri kabul etmedi; düzeltmeniz için bırakıldı.",
+  "saving": "Kaydediliyor…",
+  "timeoutMs": "Komut zaman aşımı (ms)",
+  "timeoutMsHint": "Bir komutun sonlandırılmadan önce ne kadar süre çalışabileceği.",
+  "title": "Kabuk",
+  "unavailable": "Bu eklenti yüklenmedi, bu nedenle şu anda yapılandırılamaz."
+}

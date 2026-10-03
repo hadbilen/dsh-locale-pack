@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Cattiva risposta",
+  "action.dislikeActive": "Rimuovi valutazione",
+  "action.like": "Buona risposta",
+  "action.likeActive": "Rimuovi valutazione",
+  "category.instruction-following": "Comprensione ed esecuzione delle istruzioni",
+  "category.other": "Altro",
+  "category.product-interaction": "Funzionalità e interazione con il prodotto",
+  "category.resource-cost": "Utilizzo delle risorse e costi",
+  "category.security-privacy-permission": "Sicurezza, privacy e autorizzazioni",
+  "category.service-stability": "Stabilità e velocità",
+  "category.task-result": "Risultato dell'attività",
+  "dialog.categories": "Categoria del feedback",
+  "dialog.detail": "Dettagli del feedback",
+  "dialog.hint": "Aggiungi dettagli per aiutarci a migliorare. L'invio includerà il registro della conversazione corrente.",
+  "dialog.title": "Invia feedback",
+  "error.conflict": "Questo feedback è stato modificato altrove; viene mostrato lo stato più recente",
+  "error.generic": "Impossibile salvare il feedback",
+  "error.load": "Impossibile caricare il feedback",
+  "error.noteTooLarge": "La descrizione è troppo lunga; abbreviala e inviala di nuovo",
+  "toast.recorded": "Grazie per il feedback"
+}

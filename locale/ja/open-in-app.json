@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "{app}で開く",
+  "open.tooltip": "ローカルで開く",
+  "path.appDefault": "{app}（既定）",
+  "path.appsError": "アプリケーションを読み込めませんでした。",
+  "path.more": "その他の開き方",
+  "path.open": "開く",
+  "path.openError": "開けませんでした。もう一度お試しください。",
+  "path.reveal": "ファイルの場所を表示",
+  "path.revealError": "ファイルの場所を表示できませんでした。もう一度お試しください。",
+  "shortcut.busy": "ワークスペースを開いています",
+  "shortcut.unavailable": "現在のワークスペースまたはローカルアプリケーションは利用できません"
+}

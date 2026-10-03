@@ -1,0 +1,22 @@
+{
+  "action.dislike": "Погана відповідь",
+  "action.dislikeActive": "Прибрати оцінку",
+  "action.like": "Хороша відповідь",
+  "action.likeActive": "Прибрати оцінку",
+  "category.instruction-following": "Розуміння та виконання інструкцій",
+  "category.other": "Інше",
+  "category.product-interaction": "Функції продукту та взаємодія",
+  "category.resource-cost": "Використання ресурсів і вартість",
+  "category.security-privacy-permission": "Безпека, конфіденційність і дозволи",
+  "category.service-stability": "Стабільність і швидкість",
+  "category.task-result": "Результат завдання",
+  "dialog.categories": "Категорія відгуку",
+  "dialog.detail": "Деталі відгуку",
+  "dialog.hint": "Додайте деталі, щоб допомогти нам покращити сервіс. Ваше повідомлення включатиме поточний журнал розмови.",
+  "dialog.title": "Надіслати відгук",
+  "error.conflict": "Цей відгук змінено в іншому місці; показано актуальний стан",
+  "error.generic": "Не вдалося зберегти відгук",
+  "error.load": "Не вдалося завантажити відгук",
+  "error.noteTooLarge": "Опис занадто довгий; скоротіть його та надішліть знову",
+  "toast.recorded": "Дякуємо за ваш відгук"
+}

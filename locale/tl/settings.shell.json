@@ -1,0 +1,16 @@
+{
+  "description": "Takdaan kung gaano katagal maaaring tumakbo ang bawat command at kung gaano karami ang output nito.",
+  "invalidNumber": "Maglagay ng numero, o iwanan itong blangko upang gamitin ang default.",
+  "maxOutputBytes": "Hangganan ng output bawat stream (bytes)",
+  "maxOutputBytesHint": "Ang output na lalampas dito ay mapupunta sa pansamantalang file sa halip na mawala.",
+  "overridden": "Pinalitan",
+  "readOnly": "Ang deployment na ito ay nag-iimbak ng mga setting bilang read-only.",
+  "reset": "Ibalik sa default",
+  "save": "I-save",
+  "saveFailed": "Hindi tinanggap ng deployment ang mga halagang ito; naiwan ang mga ito para maitama mo.",
+  "saving": "Nagse-save…",
+  "timeoutMs": "Timeout ng command (ms)",
+  "timeoutMsHint": "Kung gaano katagal maaaring tumakbo ang isang command bago ito ihinto.",
+  "title": "Shell",
+  "unavailable": "Hindi naka-load ang plugin na ito, kaya hindi ito mako-configure sa ngayon."
+}

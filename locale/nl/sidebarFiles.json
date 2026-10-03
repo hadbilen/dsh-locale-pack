@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Automatisch vernieuwen",
+  "autoRefresh.disable": "Automatisch vernieuwen uitschakelen",
+  "autoRefresh.enable": "Automatisch vernieuwen inschakelen",
+  "empty": "Lege map",
+  "entry.other": "Geen bestand of map, dus het kan niet worden geopend.",
+  "error.notDirectory": "Dat is geen map.",
+  "error.notFound": "Die map is verdwenen. Mogelijk is deze verplaatst of verwijderd.",
+  "error.outsideWorkspace": "Die map bevindt zich buiten de werkruimte, dus de zijbalk leest deze niet.",
+  "error.unavailable": "Read mislukt: {message}",
+  "guide.description": "Blader door bestanden in de werkruimte van deze sessie",
+  "guide.title": "Werkruimtebestanden",
+  "loading": "Lezen…",
+  "noWorkspace": "Deze sessie heeft geen werkruimtemap.",
+  "reload": "Opnieuw laden",
+  "shortcut.noSession": "Selecteer eerst een sessie",
+  "truncated": "Te veel items, slechts een deel wordt weergegeven.",
+  "type.label": "Bestanden"
+}

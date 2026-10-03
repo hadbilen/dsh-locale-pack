@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "hanya pengguna",
+  "row.failed": "Gagal memuat keterampilan",
+  "row.inspect": "Periksa",
+  "row.instructions": "Instruksi",
+  "row.preparing": "Menyiapkan untuk memuat keterampilan",
+  "row.running": "Memuat keterampilan",
+  "row.stopped": "Pemuatan keterampilan dihentikan",
+  "row.title": "Keterampilan"
+}

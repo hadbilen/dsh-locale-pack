@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "منصوبہ موڈ ختم کرنے میں ناکام",
+  "chip.label": "منصوبہ",
+  "chip.on.aria": "منصوبہ موڈ آن ہے، بند کرنے کے لیے دبائیں",
+  "chip.on.title": "منصوبہ موڈ آن ہے، بند کرنے کے لیے کلک کریں (/plan off)",
+  "preview.action": "کھولیں",
+  "preview.document": "منصوبہ · Markdown",
+  "preview.expired": "عارضی منصوبے کے پیش نظارے کی میعاد ختم ہو گئی ہے۔ زیر التواء جائزہ کارڈ سے اسے دوبارہ کھولیں۔",
+  "preview.failed": "منصوبہ لوڈ نہیں ہو سکا",
+  "preview.full": "مکمل منصوبہ دیکھیں",
+  "preview.historyUnavailable": "سیشن ہسٹری دستیاب نہیں ہے",
+  "preview.invalidAddress": "منصوبے کا غلط پتہ",
+  "preview.loading": "منصوبہ لوڈ ہو رہا ہے…",
+  "preview.notFound": "یہ منصوبہ نہیں ملا",
+  "preview.open": "سائیڈبار میں منصوبہ کھولیں",
+  "preview.openNamed": "منصوبہ کھولیں: {title}",
+  "preview.title": "منصوبہ",
+  "preview.unavailable": "منصوبے کا پیش نظارہ دستیاب نہیں ہے"
+}

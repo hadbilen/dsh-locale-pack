@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Penyegaran otomatis",
+  "autoRefresh.disable": "Nonaktifkan penyegaran otomatis",
+  "autoRefresh.enable": "Aktifkan penyegaran otomatis",
+  "empty": "Direktori kosong",
+  "entry.other": "Bukan berkas atau direktori, sehingga tidak dapat dibuka.",
+  "error.notDirectory": "Itu bukan direktori.",
+  "error.notFound": "Direktori tersebut sudah tidak ada. Mungkin telah dipindahkan atau dihapus.",
+  "error.outsideWorkspace": "Direktori tersebut berada di luar ruang kerja, sehingga bilah sisi tidak akan membacanya.",
+  "error.unavailable": "Read gagal: {message}",
+  "guide.description": "Telusuri Files di ruang kerja sesi ini",
+  "guide.title": "Files ruang kerja",
+  "loading": "Membaca…",
+  "noWorkspace": "Sesi ini tidak memiliki direktori ruang kerja.",
+  "reload": "Muat ulang",
+  "shortcut.noSession": "Pilih sesi terlebih dahulu",
+  "truncated": "Terlalu banyak entri, hanya sebagian yang ditampilkan.",
+  "type.label": "File"
+}

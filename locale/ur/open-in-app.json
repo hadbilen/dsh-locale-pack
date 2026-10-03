@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "{app} میں کھولیں",
+  "open.tooltip": "مقامی طور پر کھولیں",
+  "path.appDefault": "{app} (پہلے سے طے شدہ)",
+  "path.appsError": "ایپلی کیشنز لوڈ نہیں ہو سکیں",
+  "path.more": "کھولنے کے مزید طریقے",
+  "path.open": "کھولیں",
+  "path.openError": "کھولا نہیں جا سکا۔ دوبارہ کوشش کریں۔",
+  "path.reveal": "فائل کی جگہ دکھائیں",
+  "path.revealError": "فائل کی جگہ نہیں دکھائی جا سکی۔ دوبارہ کوشش کریں۔",
+  "shortcut.busy": "ورک اسپیس کھولی جا رہی ہے",
+  "shortcut.unavailable": "موجودہ ورک اسپیس یا مقامی ایپلی کیشن دستیاب نہیں ہے"
+}

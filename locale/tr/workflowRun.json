@@ -1,0 +1,20 @@
+{
+  "member.empty": "Boş üye adı",
+  "member.open": "{name} aç",
+  "phase.empty": "Boş aşama adı",
+  "phase.unassigned": "Aşamasız",
+  "run.empty": "Başlayan üye yok",
+  "run.members.one": "{count} üye",
+  "run.members.other": "{count} üye",
+  "run.title": "{name}",
+  "status.cancelled": "İptal edildi",
+  "status.completed": "Tamamlandı",
+  "status.failed": "Başarısız",
+  "status.interrupted": "Kesildi",
+  "status.running": "Çalışıyor",
+  "statusCount.cancelled": "İptal edildi {count}",
+  "statusCount.completed": "Tamamlandı {count}",
+  "statusCount.failed": "Başarısız {count}",
+  "statusCount.interrupted": "Kesildi {count}",
+  "statusCount.running": "Çalışıyor {count}"
+}

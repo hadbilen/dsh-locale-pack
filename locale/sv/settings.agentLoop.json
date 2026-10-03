@@ -1,0 +1,14 @@
+{
+  "description": "Styr hur agenten skickar verktygsanrop.",
+  "invalidNumber": "Ange ett tal, eller lämna tomt för att använda standardvärdet.",
+  "maxParallel": "Parallella verktygsanrop",
+  "maxParallelHint": "Övre gräns för parallellsäkra anrop som körs samtidigt inom ett steg.",
+  "overridden": "Åsidosatt",
+  "readOnly": "Den här distributionen lagrar inställningar skrivskyddat.",
+  "reset": "Återställ till standard",
+  "save": "Spara",
+  "saveFailed": "Distributionen accepterade inte dessa värden; de lämnades kvar så att du kan korrigera dem.",
+  "saving": "Sparar…",
+  "title": "Agentslinga",
+  "unavailable": "Det här insticksprogrammet är inte inläst, så det kan inte konfigureras just nu."
+}

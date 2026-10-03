@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(geen cwd)",
+  "crumb.root": "Werkruimte",
+  "section.files": "Files & mappen",
+  "section.sessions": "Sessies",
+  "section.subagents": "Subagenten",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "nu",
+  "time.years": "{n}y"
+}

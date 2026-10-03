@@ -1,0 +1,14 @@
+{
+  "action.cancel": "ยกเลิกการแก้ไข",
+  "action.clear": "ล้างเป้าหมาย",
+  "action.edit": "แก้ไขเป้าหมาย",
+  "action.pause": "หยุดเป้าหมายชั่วคราว",
+  "action.resume": "ดำเนินการเป้าหมายต่อ",
+  "action.save": "บันทึกเป้าหมาย",
+  "commandInput.aria": "ช่องป้อนคำสั่ง",
+  "objective.aria": "วัตถุประสงค์ของเป้าหมาย",
+  "phase.active": "เป้าหมายที่กำลังดำเนินการ",
+  "phase.active.disarmed": "เป้าหมายที่ไม่ได้ใช้งาน",
+  "phase.blocked": "เป้าหมายที่ถูกบล็อก",
+  "phase.paused": "เป้าหมายที่หยุดชั่วคราว"
+}

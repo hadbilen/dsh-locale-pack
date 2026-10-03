@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "পরিকল্পনা মোড থেকে বের হতে ব্যর্থ হয়েছে",
+  "chip.label": "পরিকল্পনা",
+  "chip.on.aria": "পরিকল্পনা মোড চালু আছে, বন্ধ করতে চাপুন",
+  "chip.on.title": "পরিকল্পনা মোড চালু আছে, বন্ধ করতে ক্লিক করুন (/plan off)",
+  "preview.action": "খুলুন",
+  "preview.document": "পরিকল্পনা · Markdown",
+  "preview.expired": "এই অস্থায়ী পরিকল্পনার প্রিভিউ মেয়াদ শেষ হয়েছে। মুলতুবি পর্যালোচনা কার্ড থেকে এটি আবার খুলুন।",
+  "preview.failed": "পরিকল্পনা লোড করা যায়নি",
+  "preview.full": "সম্পূর্ণ পরিকল্পনা দেখুন",
+  "preview.historyUnavailable": "সেশনের ইতিহাস উপলব্ধ নয়",
+  "preview.invalidAddress": "অবৈধ পরিকল্পনা ঠিকানা",
+  "preview.loading": "পরিকল্পনা লোড হচ্ছে…",
+  "preview.notFound": "এই পরিকল্পনাটি পাওয়া যায়নি",
+  "preview.open": "সাইডবারে পরিকল্পনা খুলুন",
+  "preview.openNamed": "পরিকল্পনা খুলুন: {title}",
+  "preview.title": "পরিকল্পনা",
+  "preview.unavailable": "পরিকল্পনার প্রিভিউ উপলব্ধ নয়"
+}

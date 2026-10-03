@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Nu s-a putut ieși din modul plan",
+  "chip.label": "Plan",
+  "chip.on.aria": "Modul plan este activat, apasă pentru a-l dezactiva",
+  "chip.on.title": "Modul plan este activ, fă clic pentru a-l dezactiva (/plan off)",
+  "preview.action": "Deschide",
+  "preview.document": "Plan · Markdown",
+  "preview.expired": "Această previzualizare temporară a planului a expirat. Redeschide-o din cardul de revizuire în așteptare.",
+  "preview.failed": "Planul nu a putut fi încărcat",
+  "preview.full": "Vezi planul complet",
+  "preview.historyUnavailable": "Istoricul sesiunii este indisponibil",
+  "preview.invalidAddress": "Adresă de plan nevalidă",
+  "preview.loading": "Se încarcă planul…",
+  "preview.notFound": "Acest plan nu a fost găsit",
+  "preview.open": "Deschide planul în bara laterală",
+  "preview.openNamed": "Deschide planul: {title}",
+  "preview.title": "Plan",
+  "preview.unavailable": "Previzualizarea planului este indisponibilă"
+}

@@ -1,0 +1,11 @@
+{
+  "appearance.dark": "Темна",
+  "appearance.light": "Світла",
+  "appearance.system": "Системна",
+  "appearance.title": "Зовнішній вигляд",
+  "fontSize.decrease": "Зменшити розмір шрифту",
+  "fontSize.description": "Впливає лише на вміст розмови",
+  "fontSize.increase": "Збільшити розмір шрифту",
+  "fontSize.title": "Розмір шрифту",
+  "fontSize.unit": "px"
+}

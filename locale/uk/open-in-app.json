@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "Відкрити в {app}",
+  "open.tooltip": "Відкрити локально",
+  "path.appDefault": "{app} (за замовчуванням)",
+  "path.appsError": "Не вдалося завантажити програми",
+  "path.more": "Більше способів відкрити",
+  "path.open": "Відкрити",
+  "path.openError": "Не вдалося відкрити. Спробуйте ще раз.",
+  "path.reveal": "Показати розташування файлу",
+  "path.revealError": "Не вдалося показати розташування файлу. Спробуйте ще раз.",
+  "shortcut.busy": "Відкриття робочої області",
+  "shortcut.unavailable": "Поточна робоча область або локальна програма недоступна"
+}

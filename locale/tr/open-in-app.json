@@ -1,0 +1,17 @@
+{
+  "app.explorer": "File Explorer",
+  "app.filemanager": "Files",
+  "app.finder": "Finder",
+  "app.terminal": "Terminal",
+  "open.title": "{app} içinde aç",
+  "open.tooltip": "Yerel olarak aç",
+  "path.appDefault": "{app} (varsayılan)",
+  "path.appsError": "Uygulamalar yüklenemedi",
+  "path.more": "Açmak için diğer yollar",
+  "path.open": "Aç",
+  "path.openError": "Açılamadı. Tekrar deneyin.",
+  "path.reveal": "Dosya konumunu göster",
+  "path.revealError": "Dosya konumu gösterilemedi. Tekrar deneyin.",
+  "shortcut.busy": "Çalışma alanı açılıyor",
+  "shortcut.unavailable": "Geçerli çalışma alanı veya yerel uygulama kullanılamıyor"
+}

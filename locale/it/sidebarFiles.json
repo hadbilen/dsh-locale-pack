@@ -1,0 +1,19 @@
+{
+  "autoRefresh": "Aggiornamento automatico",
+  "autoRefresh.disable": "Disattiva aggiornamento automatico",
+  "autoRefresh.enable": "Attiva aggiornamento automatico",
+  "empty": "Directory vuota",
+  "entry.other": "Non è un file o una directory, quindi non può essere aperto.",
+  "error.notDirectory": "Non è una directory.",
+  "error.notFound": "Quella directory non esiste più. Potrebbe essere stata spostata o eliminata.",
+  "error.outsideWorkspace": "Quella directory è fuori dall'area di lavoro, quindi la barra laterale non la leggerà.",
+  "error.unavailable": "Lettura non riuscita: {message}",
+  "guide.description": "Sfoglia i file nell'area di lavoro di questa sessione",
+  "guide.title": "Files dell'area di lavoro",
+  "loading": "Lettura in corso…",
+  "noWorkspace": "Questa sessione non ha una directory dell'area di lavoro.",
+  "reload": "Ricarica",
+  "shortcut.noSession": "Seleziona prima una sessione",
+  "truncated": "Troppe voci, ne vengono mostrate solo alcune.",
+  "type.label": "File"
+}

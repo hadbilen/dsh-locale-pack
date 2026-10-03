@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "للمستخدم فقط",
+  "row.failed": "فشل تحميل المهارة",
+  "row.inspect": "فحص",
+  "row.instructions": "التعليمات",
+  "row.preparing": "الاستعداد لتحميل مهارة",
+  "row.running": "جارٍ تحميل المهارة",
+  "row.stopped": "تم إيقاف تحميل المهارة",
+  "row.title": "مهارة"
+}

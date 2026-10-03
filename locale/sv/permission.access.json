@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Jag förstår dessa risker och vill fortsätta",
+  "auto.confirm.description": "Automatisk granskning körs utan sandlåda. Innan varje inbyggt verktygsanrop och inre PTC-anrop granskar samma modell som den aktuella agenten om det ska tillåtas; du godkänner eller avvisar varje anrop som den nekar. Den här funktionen är experimentell, kan felaktigt tillåta eller neka åtgärder och använder ytterligare token.",
+  "auto.confirm.enable": "Aktivera Automatisk granskning",
+  "auto.confirm.title": "Aktivera Automatisk granskning (experimentell)?",
+  "auto.description": "Kör utan sandlåda efter en experimentell granskning med samma modell av varje inbyggt verktygsanrop och inre PTC-anrop.",
+  "auto.label": "Automatisk granskning",
+  "close": "Stäng",
+  "confirm.acknowledge": "Jag förstår riskerna och vill fortsätta",
+  "confirm.cancel": "Avbryt",
+  "confirm.description": "Full åtkomst minskar antalet bekräftelsesteg och låter agenten utföra fler åtgärder direkt, inklusive känsliga åtgärder, filändringar eller externa kommandon. Använd det endast när du litar på den aktuella uppgiften.",
+  "confirm.enable": "Aktivera Full åtkomst",
+  "confirm.title": "Aktivera Full åtkomst?",
+  "mode": "Åtkomstläge, aktuellt: {name}",
+  "preset.fullAccess": "Full åtkomst",
+  "preset.readOnly": "Skrivskyddad",
+  "preset.workspaceWrite": "Skriv i arbetsyta"
+}

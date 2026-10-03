@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Înțeleg riscurile și vreau să continui",
+  "confirm.cancel": "Anulează",
+  "confirm.description": "Accesul complet permite sesiunilor noi să reducă pașii de confirmare și să efectueze mai multe acțiuni direct, inclusiv operațiuni sensibile, modificări de fișiere sau comenzi externe. Folosește-l numai atunci când ai încredere în sarcinile ulterioare.",
+  "confirm.enable": "Activează accesul complet",
+  "confirm.title": "Activezi accesul complet?",
+  "description": "Alege modul implicit de permisiune pentru sesiunile noi",
+  "loading": "Se încarcă",
+  "preset.fullAccess": "Acces complet",
+  "preset.readOnly": "Doar citire",
+  "preset.workspaceWrite": "Scriere în spațiul de lucru",
+  "title": "Permisiune",
+  "unavailable": "Indisponibil"
+}

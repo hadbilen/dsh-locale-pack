@@ -1,0 +1,20 @@
+{
+  "apiKey": "Kunci API",
+  "apiKeyHint": "Disimpan di luar file pengaturan. Biarkan kosong untuk mempertahankan kunci saat ini.",
+  "apiKeySet": "Kunci sudah dikonfigurasi.",
+  "apiKeyUnset": "Tidak ada kunci yang dikonfigurasi; hanya percakapan yang menggunakan model DeepSeek Account yang dapat mencari, melalui endpoint bawaan.",
+  "baseUrl": "Endpoint",
+  "baseUrlHint": "Biarkan kosong untuk menggunakan bawaan penyedia.",
+  "description": "Siapkan penyedia pencarian DeepSeek.",
+  "invalidNumber": "Masukkan angka, atau biarkan kosong untuk menggunakan nilai bawaan.",
+  "maxUses": "Maksimal pencarian per permintaan",
+  "maxUsesHint": "Berapa kali satu permintaan boleh mencari sebelum harus menjawab.",
+  "overridden": "Ditimpa",
+  "readOnly": "Penerapan ini menyimpan pengaturan secara hanya baca.",
+  "reset": "Setel ulang ke bawaan",
+  "save": "Simpan",
+  "saveFailed": "Penerapan tidak menerima nilai ini; nilai tersebut dibiarkan untuk Anda perbaiki.",
+  "saving": "Menyimpan…",
+  "title": "Pencarian web",
+  "unavailable": "Plugin ini tidak dimuat, sehingga tidak dapat dikonfigurasi saat ini."
+}

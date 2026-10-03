@@ -1,0 +1,7 @@
+{
+  "allowOnce": "Izinkan sekali",
+  "detail.aria": "Detail persetujuan",
+  "escalation": "Alat {toolName} meminta eksekusi istimewa",
+  "reject": "Tolak",
+  "waiting": "Menunggu persetujuan"
+}

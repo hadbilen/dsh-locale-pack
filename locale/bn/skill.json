@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "শুধু ব্যবহারকারী",
+  "row.failed": "স্কিল লোড ব্যর্থ হয়েছে",
+  "row.inspect": "পরিদর্শন করুন",
+  "row.instructions": "নির্দেশাবলী",
+  "row.preparing": "স্কিল লোডের প্রস্তুতি চলছে",
+  "row.running": "স্কিল লোড হচ্ছে",
+  "row.stopped": "স্কিল লোড বন্ধ হয়েছে",
+  "row.title": "স্কিল"
+}

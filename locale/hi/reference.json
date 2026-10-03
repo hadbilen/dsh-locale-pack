@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(कोई cwd नहीं)",
+  "crumb.root": "कार्यक्षेत्र",
+  "section.files": "Files और फ़ोल्डर",
+  "section.sessions": "सत्र",
+  "section.subagents": "सबएजेंट",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "अभी",
+  "time.years": "{n}y"
+}

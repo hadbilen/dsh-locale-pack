@@ -1,0 +1,14 @@
+{
+  "action.cancel": "ترمیم منسوخ کریں",
+  "action.clear": "ہدف صاف کریں",
+  "action.edit": "ہدف میں ترمیم کریں",
+  "action.pause": "ہدف موقوف کریں",
+  "action.resume": "ہدف بحال کریں",
+  "action.save": "ہدف محفوظ کریں",
+  "commandInput.aria": "کمانڈ ان پٹ",
+  "objective.aria": "ہدف کا مقصد",
+  "phase.active": "جاری ہدف",
+  "phase.active.disarmed": "غیر فعال ہدف",
+  "phase.blocked": "مسدود ہدف",
+  "phase.paused": "موقوف ہدف"
+}

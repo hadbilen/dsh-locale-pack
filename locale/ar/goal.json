@@ -1,0 +1,14 @@
+{
+  "action.cancel": "إلغاء التحرير",
+  "action.clear": "مسح الهدف",
+  "action.edit": "تحرير الهدف",
+  "action.pause": "إيقاف الهدف مؤقتا",
+  "action.resume": "استئناف الهدف",
+  "action.save": "حفظ الهدف",
+  "commandInput.aria": "إدخال الأمر",
+  "objective.aria": "غاية الهدف",
+  "phase.active": "هدف جار",
+  "phase.active.disarmed": "هدف غير نشط",
+  "phase.blocked": "هدف محظور",
+  "phase.paused": "هدف متوقف مؤقتا"
+}

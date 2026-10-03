@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "endast-användare",
+  "row.failed": "Inläsning av färdighet misslyckades",
+  "row.inspect": "Inspektera",
+  "row.instructions": "Instruktioner",
+  "row.preparing": "Förbereder att läsa in en färdighet",
+  "row.running": "Laddar färdighet",
+  "row.stopped": "Inläsning av färdighet stoppad",
+  "row.title": "Färdighet"
+}

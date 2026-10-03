@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Stäng",
+  "dialog.commandFailed": "Kunde inte starta exporten av sessionen.",
+  "dialog.errorTitle": "Export av sessionen misslyckades",
+  "dialog.preparingDescription": "Förbereder en ZIP med den här sessionen, dess undersessioner och bilagor.",
+  "dialog.preparingTitle": "Exporterar session",
+  "dialog.successDescription": "Webbläsaren laddar ner sessionens ZIP-fil.",
+  "dialog.successTitle": "Nedladdning av sessionen har startat",
+  "header.more": "Fler åtgärder",
+  "menu.download": "Ladda ner sessionslogg",
+  "menu.feedback": "Återkoppling"
+}

@@ -1,0 +1,19 @@
+{
+  "chip.exitFailed": "Не вдалося вийти з режиму плану",
+  "chip.label": "План",
+  "chip.on.aria": "Режим плану увімкнено, натисніть, щоб вимкнути",
+  "chip.on.title": "Режим плану увімкнено, натисніть, щоб вимкнути (/plan off)",
+  "preview.action": "Відкрити",
+  "preview.document": "План · Markdown",
+  "preview.expired": "Термін дії цього тимчасового попереднього перегляду плану завершився. Відкрийте його повторно з картки очікування на перевірку.",
+  "preview.failed": "Не вдалося завантажити план",
+  "preview.full": "Переглянути повний план",
+  "preview.historyUnavailable": "Історія сеансу недоступна",
+  "preview.invalidAddress": "Недійсна адреса плану",
+  "preview.loading": "Завантаження плану…",
+  "preview.notFound": "Цей план не знайдено",
+  "preview.open": "Відкрити план у бічній панелі",
+  "preview.openNamed": "Відкрити план: {title}",
+  "preview.title": "План",
+  "preview.unavailable": "Попередній перегляд плану недоступний"
+}

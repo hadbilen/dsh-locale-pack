@@ -1,0 +1,20 @@
+{
+  "member.empty": "Walang laman na pangalan ng miyembro",
+  "member.open": "Buksan {name}",
+  "phase.empty": "Walang laman na pangalan ng yugto",
+  "phase.unassigned": "Walang yugto",
+  "run.empty": "Walang miyembrong nagsimula",
+  "run.members.one": "{count} miyembro",
+  "run.members.other": "{count} mga miyembro",
+  "run.title": "{name}",
+  "status.cancelled": "Nakansela",
+  "status.completed": "Nakumpleto",
+  "status.failed": "Nabigo",
+  "status.interrupted": "Naantala",
+  "status.running": "Tumatakbo",
+  "statusCount.cancelled": "Nakansela {count}",
+  "statusCount.completed": "Nakumpleto {count}",
+  "statusCount.failed": "Nabigo {count}",
+  "statusCount.interrupted": "Naantala {count}",
+  "statusCount.running": "Tumatakbo {count}"
+}

@@ -1,0 +1,20 @@
+{
+  "apiKey": "Khóa API",
+  "apiKeyHint": "Được lưu bên ngoài tệp cài đặt. Để trống để giữ khóa hiện tại.",
+  "apiKeySet": "Đã cấu hình khóa.",
+  "apiKeyUnset": "Chưa cấu hình khóa; chỉ các cuộc trò chuyện dùng mô hình DeepSeek Account mới có thể tìm kiếm, thông qua điểm cuối mặc định.",
+  "baseUrl": "Điểm cuối",
+  "baseUrlHint": "Để trống để dùng giá trị mặc định của nhà cung cấp.",
+  "description": "Thiết lập nhà cung cấp tìm kiếm DeepSeek.",
+  "invalidNumber": "Nhập một số, hoặc để trống để dùng giá trị mặc định.",
+  "maxUses": "Số lần tìm kiếm tối đa cho mỗi yêu cầu",
+  "maxUsesHint": "Số lần một yêu cầu có thể tìm kiếm trước khi phải trả lời.",
+  "overridden": "Đã ghi đè",
+  "readOnly": "Triển khai này lưu cài đặt ở chế độ chỉ đọc.",
+  "reset": "Đặt lại về mặc định",
+  "save": "Lưu",
+  "saveFailed": "Triển khai không chấp nhận các giá trị này; các giá trị được giữ lại để bạn sửa.",
+  "saving": "Đang lưu…",
+  "title": "Tìm kiếm web",
+  "unavailable": "Tiện ích này chưa được tải, vì vậy hiện không thể cấu hình."
+}

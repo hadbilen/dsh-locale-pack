@@ -1,0 +1,14 @@
+{
+  "description": "Kontrol cara Agen mengirimkan panggilan alat.",
+  "invalidNumber": "Masukkan angka, atau biarkan kosong untuk menggunakan nilai bawaan.",
+  "maxParallel": "Panggilan alat paralel",
+  "maxParallelHint": "Batas atas panggilan aman paralel yang berjalan sekaligus dalam satu langkah.",
+  "overridden": "Ditimpa",
+  "readOnly": "Penerapan ini menyimpan pengaturan secara hanya baca.",
+  "reset": "Kembalikan ke bawaan",
+  "save": "Simpan",
+  "saveFailed": "Penerapan tidak menerima nilai ini; nilai tersebut dibiarkan agar Anda dapat memperbaikinya.",
+  "saving": "Menyimpan…",
+  "title": "Perulangan Agen",
+  "unavailable": "Plugin ini tidak dimuat, sehingga tidak dapat dikonfigurasi saat ini."
+}

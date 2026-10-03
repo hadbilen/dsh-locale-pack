@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Riskleri anlıyorum ve devam etmek istiyorum",
+  "confirm.cancel": "İptal",
+  "confirm.description": "Tam erişim, yeni oturumların onay adımlarını azaltmasına ve hassas işlemler, dosya değişiklikleri veya harici komutlar dahil daha fazla işlemi doğrudan gerçekleştirmesine olanak tanır. Bunu yalnızca sonraki görevlere güvendiğinizde kullanın.",
+  "confirm.enable": "Tam erişimi etkinleştir",
+  "confirm.title": "Tam erişim etkinleştirilsin mi?",
+  "description": "Yeni oturumlar için varsayılan izin modunu seçin",
+  "loading": "Yükleniyor",
+  "preset.fullAccess": "Tam erişim",
+  "preset.readOnly": "Salt Okunur",
+  "preset.workspaceWrite": "Çalışma Alanı Yazma",
+  "title": "İzin",
+  "unavailable": "Kullanılamıyor"
+}

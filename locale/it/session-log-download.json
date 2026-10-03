@@ -1,0 +1,12 @@
+{
+  "dialog.close": "Chiudi",
+  "dialog.commandFailed": "Impossibile avviare l'esportazione della sessione.",
+  "dialog.errorTitle": "Esportazione della sessione non riuscita",
+  "dialog.preparingDescription": "Preparazione di un file ZIP contenente questa sessione, le relative sottosessioni e gli allegati.",
+  "dialog.preparingTitle": "Esportazione della sessione",
+  "dialog.successDescription": "Il browser sta scaricando il file ZIP della sessione.",
+  "dialog.successTitle": "Scaricamento della sessione avviato",
+  "header.more": "Altre azioni",
+  "menu.download": "Scarica registro della sessione",
+  "menu.feedback": "Commenti"
+}

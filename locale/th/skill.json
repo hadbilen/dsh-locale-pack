@@ -1,0 +1,10 @@
+{
+  "menu.userOnly": "เฉพาะผู้ใช้",
+  "row.failed": "โหลดทักษะล้มเหลว",
+  "row.inspect": "ตรวจสอบ",
+  "row.instructions": "คำแนะนำ",
+  "row.preparing": "กำลังเตรียมโหลดทักษะ",
+  "row.running": "กำลังโหลดทักษะ",
+  "row.stopped": "หยุดโหลดทักษะแล้ว",
+  "row.title": "ทักษะ"
+}

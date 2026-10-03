@@ -1,0 +1,19 @@
+{
+  "auto.badge": "EXP",
+  "auto.confirm.acknowledge": "Bu riskleri anlıyorum ve devam etmek istiyorum",
+  "auto.confirm.description": "Otomatik inceleme korumalı alan olmadan çalışır. Her yerel araç çağrısından ve PTC iç çağrısından önce, mevcut aracın kullandığı model buna izin verilip verilmeyeceğini inceler; reddettiği her çağrıyı siz onaylar veya reddedersiniz. Bu özellik deneyseldir, işlemlere yanlışlıkla izin verebilir veya reddedebilir ve ek jeton kullanır.",
+  "auto.confirm.enable": "Otomatik incelemeyi etkinleştir",
+  "auto.confirm.title": "Otomatik inceleme (deneysel) etkinleştirilsin mi?",
+  "auto.description": "Her yerel araç çağrısının ve PTC iç çağrısının aynı model tarafından deneysel olarak incelenmesinden sonra korumalı alan olmadan çalıştırın.",
+  "auto.label": "Otomatik inceleme",
+  "close": "Kapat",
+  "confirm.acknowledge": "Riskleri anlıyorum ve devam etmek istiyorum",
+  "confirm.cancel": "İptal",
+  "confirm.description": "Tam erişim, onay adımlarını azaltır ve aracının hassas işlemler, dosya değişiklikleri veya harici komutlar dahil olmak üzere daha fazla işlemi doğrudan gerçekleştirmesine olanak tanır. Bunu yalnızca mevcut göreve güvendiğinizde kullanın.",
+  "confirm.enable": "Tam erişimi etkinleştir",
+  "confirm.title": "Tam erişim etkinleştirilsin mi?",
+  "mode": "Erişim modu, mevcut: {name}",
+  "preset.fullAccess": "Tam erişim",
+  "preset.readOnly": "Salt Okunur",
+  "preset.workspaceWrite": "Çalışma Alanı Yazma"
+}

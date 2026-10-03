@@ -1,0 +1,20 @@
+{
+  "member.empty": "ชื่อสมาชิกว่างเปล่า",
+  "member.open": "เปิด {name}",
+  "phase.empty": "ชื่อเฟสว่างเปล่า",
+  "phase.unassigned": "ไม่มีเฟส",
+  "run.empty": "ยังไม่มีสมาชิกเริ่มต้น",
+  "run.members.one": "{count} สมาชิก",
+  "run.members.other": "{count} สมาชิก",
+  "run.title": "{name}",
+  "status.cancelled": "ยกเลิกแล้ว",
+  "status.completed": "เสร็จสมบูรณ์",
+  "status.failed": "ล้มเหลว",
+  "status.interrupted": "ถูกขัดจังหวะ",
+  "status.running": "กำลังทำงาน",
+  "statusCount.cancelled": "ยกเลิกแล้ว {count}",
+  "statusCount.completed": "เสร็จสมบูรณ์ {count}",
+  "statusCount.failed": "ล้มเหลว {count}",
+  "statusCount.interrupted": "ถูกขัดจังหวะ {count}",
+  "statusCount.running": "กำลังทำงาน {count}"
+}

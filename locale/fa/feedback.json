@@ -1,0 +1,22 @@
+{
+  "action.dislike": "پاسخ بد",
+  "action.dislikeActive": "حذف امتیاز",
+  "action.like": "پاسخ خوب",
+  "action.likeActive": "حذف امتیاز",
+  "category.instruction-following": "درک و پیروی از دستورالعمل",
+  "category.other": "سایر",
+  "category.product-interaction": "ویژگی‌ها و تعامل محصول",
+  "category.resource-cost": "مصرف منابع و هزینه",
+  "category.security-privacy-permission": "امنیت، حریم خصوصی و مجوزها",
+  "category.service-stability": "پایداری و سرعت",
+  "category.task-result": "نتیجه کار",
+  "dialog.categories": "دسته بازخورد",
+  "dialog.detail": "جزئیات بازخورد",
+  "dialog.hint": "برای کمک به بهبود ما جزئیات را اضافه کنید. ارسال شما شامل گزارش گفتگوی فعلی خواهد بود.",
+  "dialog.title": "ارسال بازخورد",
+  "error.conflict": "این بازخورد در جای دیگری تغییر کرده است؛ آخرین وضعیت نمایش داده می‌شود",
+  "error.generic": "امکان ذخیره بازخورد وجود نداشت",
+  "error.load": "امکان بارگیری بازخورد وجود نداشت",
+  "error.noteTooLarge": "توضیحات خیلی طولانی است؛ آن را کوتاه کنید و دوباره ارسال کنید",
+  "toast.recorded": "از بازخورد شما متشکریم"
+}

@@ -1,0 +1,13 @@
+{
+  "candidate.noCwd": "(ไม่มี cwd)",
+  "crumb.root": "พื้นที่ทำงาน",
+  "section.files": "Files & โฟลเดอร์",
+  "section.sessions": "เซสชัน",
+  "section.subagents": "ซับเอเจนต์",
+  "time.days": "{n}d",
+  "time.hours": "{n}h",
+  "time.minutes": "{n}min",
+  "time.months": "{n}mo",
+  "time.now": "ตอนนี้",
+  "time.years": "{n}y"
+}

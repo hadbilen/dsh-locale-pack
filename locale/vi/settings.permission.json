@@ -1,0 +1,14 @@
+{
+  "confirm.acknowledge": "Tôi hiểu các rủi ro và muốn tiếp tục",
+  "confirm.cancel": "Hủy",
+  "confirm.description": "Toàn quyền truy cập cho phép các phiên mới giảm bớt các bước xác nhận và thực hiện trực tiếp nhiều hành động hơn, bao gồm các thao tác nhạy cảm, thay đổi tệp hoặc lệnh bên ngoài. Chỉ sử dụng khi bạn tin tưởng các tác vụ tiếp theo.",
+  "confirm.enable": "Bật Toàn quyền truy cập",
+  "confirm.title": "Bật Toàn quyền truy cập?",
+  "description": "Chọn chế độ quyền mặc định cho các phiên mới",
+  "loading": "Đang tải",
+  "preset.fullAccess": "Toàn quyền truy cập",
+  "preset.readOnly": "Chỉ đọc",
+  "preset.workspaceWrite": "Ghi vào không gian làm việc",
+  "title": "Quyền",
+  "unavailable": "Không khả dụng"
+}
