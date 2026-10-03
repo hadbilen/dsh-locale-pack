@@ -20,6 +20,21 @@ const PLACEHOLDER = /\{[A-Za-z0-9_.]+\}/g;
 const CJK = /[\u4e00-\u9fff\u3040-\u30ff]/;
 const DASH = /[—–]/;
 
+// keep-english 정책의 용어를 두 갈래로 나눈다.
+//   PRODUCT_TERMS  : 제품명·파일 형식·프로토콜명. 값 안 어디에든 영어로 남는 것이 맞다.
+//   TOOL_NAMES     : 도구 이름. 그 자체가 값일 때만 영어로 두고, 더 긴 문구에 들어가면 번역한다.
+//                    예) 값이 "Read" → 유지. 원문 "Read Only"인데 번역 "Read Saja" → 오류.
+const ALL_TERMS = [
+  ...(policy.ui?.terms ?? []),
+  ...(policy.upstreamDocs?.englishKept ?? []),
+  ...(policy.upstreamDocs?.abbreviations ?? []),
+];
+const TOOL_NAMES = new Set([
+  'Read', 'Write', 'Edit', 'Glob', 'Grep', 'WebFetch', 'WebSearch',
+  'Finder', 'Terminal', 'File Explorer', 'Files', 'Bash', 'PowerShell', 'cmd',
+]);
+const PRODUCT_TERMS = new Set(ALL_TERMS.filter((t) => !TOOL_NAMES.has(t)));
+
 const MUST_KEEP = [
   'DeepSeek Harness', 'DSH', 'Cordis', 'MCP', 'JSON Schema', 'JSONL', 'JSON', 'YAML',
   'CLI', 'API', 'URL', 'SDK', 'LLM', 'KV Cache', 'Function Calling', 'TTFT',
@@ -66,9 +81,67 @@ for (const lang of langs) {
       for (const term of MUST_KEEP) {
         if (tokenIn(en, term) && !value.includes(term)) hard.push(`${where}: 식별자 소실 "${term}"`);
       }
+
+      // F. 도구 이름이 더 긴 문구에 남은 것.
+      //    도구 이름은 '그 자체가 값'일 때만 영어로 둔다. 문구 안에 들어가면 함께 번역한다.
+      if (value !== en.trim()) {
+        for (const m of value.matchAll(/[A-Za-z][A-Za-z-]{2,}/g)) {
+          const word = m[0];
+          if (!TOOL_NAMES.has(word)) continue;
+          if (en.trim() === word || en.trim() === word + '.') continue;
+          if (!tokenIn(en, word)) continue;
+          // Read/Write/Edit는 번역해야 하는 동사라 남으면 오류.
+          // Terminal/Files는 여러 언어에서 빌려 쓰므로 경고로만 둔다.
+          const line = `${where}: 도구 이름이 문구에 남음 "${word}"`;
+          (['Read', 'Write', 'Edit'].includes(word) ? hard : soft).push(line);
+        }
+      }
     }
   }
   summary.push([lang, keys]);
+}
+
+// G. 조각 짝 검사.
+//    이름이 Prefix/Suffix로 끝나는 키는 짝과 이어 붙여 한 문장이 된다.
+//    조각만 떼어 놓고 판단하면 고친 자리에서 문장이 다시 깨진다.
+//    여기서는 짝을 합친 결과를 눈으로 읽을 수 있게 출력한다.
+{
+  const pairs = new Map(); // stem -> {prefix: {lang: val}, suffix: {lang: val}}
+  for (const lang of langs) {
+    const dir = join(localeRoot, lang);
+    for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
+      const ns = basename(file, '.json');
+      const dict = JSON.parse(readFileSync(join(dir, file), 'utf8'));
+      for (const [key, value] of Object.entries(dict)) {
+        const m = key.match(/^(.*)(Prefix|Suffix)$/);
+        if (!m) continue;
+        const stem = `${ns}.${m[1]}`;
+        const side = m[2].toLowerCase();
+        if (!pairs.has(stem)) pairs.set(stem, { prefix: {}, suffix: {} });
+        pairs.get(stem)[side][lang] = value;
+      }
+    }
+  }
+  if (pairs.size) {
+    console.log(`\n조각 짝 ${pairs.size}묶음 (합쳐 읽을 것)`);
+    for (const [stem, sides] of pairs) {
+      const langsIn = new Set([...Object.keys(sides.prefix), ...Object.keys(sides.suffix)]);
+      for (const lang of [...langsIn].sort()) {
+        if (!(sides.prefix[lang] ?? '').trim() && !(sides.suffix[lang] ?? '').trim()) continue;
+        const p = sides.prefix[lang] ?? '(없음)';
+        const s2 = sides.suffix[lang] ?? '(없음)';
+        const joined = (sides.prefix[lang] ?? '') + (sides.suffix[lang] ?? '');
+        const hasP = sides.prefix[lang] !== undefined;
+        const hasS = sides.suffix[lang] !== undefined;
+        const warn = (!hasP || !hasS)
+          ? ((p !== '' && p !== '(없음)') || (s2 !== '' && s2 !== '(없음)') ? '  ← 짝 없음' : '')
+          : (joined.includes('  ') ? '  ← 이중 공백' : '');
+        console.log(`  [${lang}] ${stem}`);
+        console.log(`      ${JSON.stringify(p)} + ${JSON.stringify(s2)}`);
+        console.log(`      → ${JSON.stringify(joined)}${warn}`);
+      }
+    }
+  }
 }
 
 console.log('언어별 키 수');
