@@ -2,6 +2,8 @@
 
 <p align="right"><strong>English</strong> | <a href="README.ko.md">한국어</a></p>
 
+<p align="center"><img src="docs/banner.jpg" alt="DeepSeek Harness Multilingual Pack: 26 languages" width="100%"></p>
+
 A locale pack for the DeepSeek Harness desktop app. It registers 26 languages in the language picker and ships a dictionary for each one. Strings that are not translated yet fall back to English, so the screen stays readable while coverage grows. DeepSeek Harness ships English and Simplified Chinese by default, which makes 28 languages selectable after install.
 
 ## Why this exists
