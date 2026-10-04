@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(कोई cwd नहीं)",
   "crumb.root": "कार्यक्षेत्र",
-  "section.files": "Files और फ़ोल्डर",
+  "section.files": "फ़ाइलें और फ़ोल्डर",
   "section.sessions": "सत्र",
   "section.subagents": "सबएजेंट",
   "time.days": "{n}d",

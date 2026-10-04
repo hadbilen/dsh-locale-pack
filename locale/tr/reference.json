@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(cwd yok)",
   "crumb.root": "Çalışma alanı",
-  "section.files": "Files ve klasörler",
+  "section.files": "Dosyalar ve klasörler",
   "section.sessions": "Oturumlar",
   "section.subagents": "Alt ajanlar",
   "time.days": "{n}d",

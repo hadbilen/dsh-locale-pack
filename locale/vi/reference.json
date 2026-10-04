@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(không có cwd)",
   "crumb.root": "Không gian làm việc",
-  "section.files": "Files & thư mục",
+  "section.files": "Tệp & thư mục",
   "section.sessions": "Phiên",
   "section.subagents": "Tác tử phụ",
   "time.days": "{n}d",

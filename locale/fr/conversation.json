@@ -187,7 +187,7 @@
   "file.remove": "Supprimer le fichier {name}",
   "file.retry": "Réessayer l'envoi de {name}",
   "file.sessionUnavailable": "Session indisponible ; les fichiers ne peuvent pas être téléversés",
-  "file.stillUploading": "Files en cours de téléversement ; envoyez après la fin",
+  "file.stillUploading": "Fichiers en cours de téléversement ; envoyez après la fin",
   "file.uploadFailed": "L'envoi a échoué ; cliquez pour réessayer",
   "file.uploading": "Envoi en cours…",
   "hero.chooseWorkspace": "Choisir l'espace de travail",

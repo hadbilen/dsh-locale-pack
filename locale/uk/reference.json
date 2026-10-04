@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(без cwd)",
   "crumb.root": "Робоча область",
-  "section.files": "Files і папки",
+  "section.files": "Файли й папки",
   "section.sessions": "Сесії",
   "section.subagents": "Субагенти",
   "time.days": "{n}d",

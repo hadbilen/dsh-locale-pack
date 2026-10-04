@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(ingen cwd)",
   "crumb.root": "Arbetsyta",
-  "section.files": "Files & mappar",
+  "section.files": "Filer & mappar",
   "section.sessions": "Sessioner",
   "section.subagents": "Subagenter",
   "time.days": "{n}d",

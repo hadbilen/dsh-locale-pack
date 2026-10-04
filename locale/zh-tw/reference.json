@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(無工作目錄)",
   "crumb.root": "工作區",
-  "section.files": "Files 與資料夾",
+  "section.files": "檔案與資料夾",
   "section.sessions": "工作階段",
   "section.subagents": "子代理",
   "time.days": "{n}d",

@@ -187,7 +187,7 @@
   "file.remove": "Bestand {name} verwijderen",
   "file.retry": "Uploaden van {name} opnieuw proberen",
   "file.sessionUnavailable": "Sessie niet beschikbaar; bestanden kunnen niet worden geüpload",
-  "file.stillUploading": "Files worden nog geüpload; verzend nadat ze klaar zijn",
+  "file.stillUploading": "Bestanden worden nog geüpload; verzend nadat ze klaar zijn",
   "file.uploadFailed": "Uploaden mislukt; klik om opnieuw te proberen",
   "file.uploading": "Bezig met uploaden…",
   "hero.chooseWorkspace": "Kies werkruimte",

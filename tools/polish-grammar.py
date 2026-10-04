@@ -38,6 +38,8 @@ def polish_batch(lang: str, rows: list[list[str]]) -> dict[int, str]:
         "Rules:\n"
         "- Keep every {placeholder} exactly as it is.\n"
         "- Keep product names and protocol names in English (DSH, Cordis, MCP, JSON ...).\n"
+        "- The ordinary English word 'Files' must NOT survive. Use your own language's word "
+        "for file, exactly as this app's other strings do.\n"
         "- Keep the meaning of the English source exactly. Do not add or drop information.\n"
         "- Keep the same length register: labels stay short, sentences stay sentences.\n"
         "- If the current translation is already natural, return it unchanged.\n"
@@ -110,6 +112,10 @@ def main() -> int:
                 continue
             if PLACEHOLDER.findall(new) != PLACEHOLDER.findall(now):
                 print(f"  보류    {key}  (표시 자리가 달라짐)")
+                continue
+            # 여러 줄 값은 줄 수가 어긋나면 잘린 것이다. 모델 출력이 줄바꿈에서 끊기는 일이 있다.
+            if new.count("\n") != now.count("\n"):
+                print(f"  보류    {key}  (줄 수 {now.count(chr(10)) + 1} → {new.count(chr(10)) + 1})")
                 continue
             print(f"  다시씀  {key}")
             print(f"     {now!r}")

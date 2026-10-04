@@ -187,7 +187,7 @@
   "file.remove": "فایل {name} را حذف کنید",
   "file.retry": "تلاش مجدد برای بارگذاری {name}",
   "file.sessionUnavailable": "نشست در دسترس نیست؛ فایل‌ها را نمی‌توان آپلود کرد",
-  "file.stillUploading": "Files هنوز در حال آپلود هستند؛ بعد از پایان ارسال کنید",
+  "file.stillUploading": "فایل‌ها هنوز در حال آپلود هستند؛ پس از پایان آن‌ها ارسال کنید",
   "file.uploadFailed": "بارگذاری ناموفق بود؛ برای تلاش مجدد کلیک کنید",
   "file.uploading": "در حال بارگذاری…",
   "hero.chooseWorkspace": "انتخاب فضای کاری",

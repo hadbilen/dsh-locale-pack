@@ -187,7 +187,7 @@
   "file.remove": "移除檔案{name}",
   "file.retry": "重試上載{name}",
   "file.sessionUnavailable": "工作階段無法使用，無法上載檔案",
-  "file.stillUploading": "Files 仍在上載，請等完成後再傳送",
+  "file.stillUploading": "檔案仍在上載，請待上載完成後再傳送",
   "file.uploadFailed": "上載失敗，按一下以重試",
   "file.uploading": "正在上載…",
   "hero.chooseWorkspace": "選擇工作區",

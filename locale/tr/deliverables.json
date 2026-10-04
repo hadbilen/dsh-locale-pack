@@ -41,7 +41,7 @@
   "presented.revealError": "Dosya yöneticisinde gösterilemedi. Tekrar deneyin.",
   "presented.revealed": "Dosya yöneticisinde gösterme isteği gönderildi",
   "presented.revealing": "Dosya yöneticisinde gösteriliyor…",
-  "presented.unavailable": "Bu Host'ta harici uygulamalarda dosya veya klasör açmak için kullanılabilir masaüstü yok. Files yine de kenar çubuğunda önizlenebilir.",
+  "presented.unavailable": "Bu Host'ta harici uygulamalarda dosya veya klasör açmak için kullanılabilir masaüstü yok. Dosyalar yine de kenar çubuğunda önizlenebilir.",
   "review.nowrap": "Satır kaydırmayı devre dışı bırak",
   "review.openFile": "Dosyanın tamamını kenar çubuğunda aç",
   "review.openFileAria": "{name} dosyasını kenar çubuğunda aç",

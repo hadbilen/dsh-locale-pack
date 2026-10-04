@@ -33,7 +33,7 @@
   "presetMinimalName": "Minimalmodus",
   "presetPtcDescription": "Enthält alle Funktionen des Standardmodus. Besser geeignet für Aufgaben, bei denen Tools in Stapeln aufgerufen und die Ergebnisse dann gefiltert, organisiert, dedupliziert, gezählt oder zusammengefasst werden.",
   "presetPtcName": "PTC-Modus",
-  "presetStandardDescription": "Mit Code, Files und Informationen arbeiten. Für die meisten Aufgaben geeignet, mit Suche, Bearbeitung, Befehlen für Terminal und anderen Tools nach Bedarf.",
+  "presetStandardDescription": "Mit Code, Dateien und Informationen arbeiten. Für die meisten Aufgaben geeignet, mit Suche, Bearbeitung, Terminalbefehlen und anderen Tools nach Bedarf.",
   "presetStandardName": "Standardmodus",
   "seatHint": "Wählen Sie die Agent-Voreinstellung für Ihre neue Aufgabe",
   "sectionIntro": "Wählen Sie die Tools des Agenten und seine Arbeitsweise. Verwenden Sie den Standardmodus für alltägliche Aufgaben oder den Erstellermodus, um DSH Funktionen hinzuzufügen.",

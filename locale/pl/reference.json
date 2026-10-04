@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(brak cwd)",
   "crumb.root": "Obszar roboczy",
-  "section.files": "Files i foldery",
+  "section.files": "Pliki i foldery",
   "section.sessions": "Sesje",
   "section.subagents": "Subagenci",
   "time.days": "{n}d",

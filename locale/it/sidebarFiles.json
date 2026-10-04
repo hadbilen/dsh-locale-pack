@@ -9,7 +9,7 @@
   "error.outsideWorkspace": "Quella directory è fuori dall'area di lavoro, quindi la barra laterale non la leggerà.",
   "error.unavailable": "Lettura non riuscita: {message}",
   "guide.description": "Sfoglia i file nell'area di lavoro di questa sessione",
-  "guide.title": "Files dell'area di lavoro",
+  "guide.title": "File dell'area di lavoro",
   "loading": "Lettura in corso…",
   "noWorkspace": "Questa sessione non ha una directory dell'area di lavoro.",
   "reload": "Ricarica",

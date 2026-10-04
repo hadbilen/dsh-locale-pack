@@ -187,7 +187,7 @@
   "file.remove": "Eliminar archivo {name}",
   "file.retry": "Reintentar la subida de {name}",
   "file.sessionUnavailable": "Sesión no disponible; no se pueden subir los files",
-  "file.stillUploading": "Files todavía se están subiendo; envía cuando terminen",
+  "file.stillUploading": "Los archivos todavía se están subiendo; envíalos cuando terminen",
   "file.uploadFailed": "La subida falló; haz clic para reintentar",
   "file.uploading": "Subiendo…",
   "hero.chooseWorkspace": "Elegir espacio de trabajo",

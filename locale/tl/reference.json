@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(walang cwd)",
   "crumb.root": "Lugar ng trabaho",
-  "section.files": "Files at mga folder",
+  "section.files": "Mga file at folder",
   "section.sessions": "Mga sesyon",
   "section.subagents": "Mga subagent",
   "time.days": "{n}d",

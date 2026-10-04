@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(cwd নেই)",
   "crumb.root": "ওয়ার্কস্পেস",
-  "section.files": "Files ও ফোল্ডার",
+  "section.files": "ফাইল ও ফোল্ডার",
   "section.sessions": "সেশন",
   "section.subagents": "সাবএজেন্ট",
   "time.days": "{n}d",

@@ -187,7 +187,7 @@
   "file.remove": "ลบไฟล์ {name}",
   "file.retry": "ลองอัปโหลด {name} อีกครั้ง",
   "file.sessionUnavailable": "เซสชันไม่พร้อมใช้งาน; ไม่สามารถอัปโหลดไฟล์ได้",
-  "file.stillUploading": "Files ยังอัปโหลดอยู่; โปรดส่งหลังจากอัปโหลดเสร็จ",
+  "file.stillUploading": "ไฟล์ยังอัปโหลดอยู่ โปรดส่งหลังจากอัปโหลดเสร็จ",
   "file.uploadFailed": "อัปโหลดไม่สำเร็จ คลิกเพื่อลองอีกครั้ง",
   "file.uploading": "กำลังอัปโหลด…",
   "hero.chooseWorkspace": "เลือกพื้นที่ทำงาน",

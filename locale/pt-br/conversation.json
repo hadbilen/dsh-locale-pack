@@ -187,7 +187,7 @@
   "file.remove": "Remover arquivo {name}",
   "file.retry": "Tentar enviar {name} novamente",
   "file.sessionUnavailable": "Sessão indisponível; arquivos não podem ser enviados",
-  "file.stillUploading": "Files ainda estão sendo enviados; envie após concluírem",
+  "file.stillUploading": "Os arquivos ainda estão sendo enviados; envie depois que terminarem",
   "file.uploadFailed": "Falha no envio; clique para tentar novamente",
   "file.uploading": "Enviando…",
   "hero.chooseWorkspace": "Escolher espaço de trabalho",

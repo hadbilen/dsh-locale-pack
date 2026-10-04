@@ -22,7 +22,7 @@
   "failureTitle": "サインインできませんでした",
   "initializing": "サインインを開始しています…",
   "loading": "読み込み中…",
-  "loginDescription": "ディープシークのアカウントにサインインするか、APIキーを追加して開始してください。プロジェクトとFilesはローカルに保存されます。",
+  "loginDescription": "DeepSeekのアカウントにサインインするか、APIキーを追加して開始してください。プロジェクトとファイルはローカルに保存されます。",
   "loginTitle": "開始",
   "menu": "アカウントメニュー",
   "modelSignInRequired": "モデルを利用できません。サインインしてからもう一度お試しください。",

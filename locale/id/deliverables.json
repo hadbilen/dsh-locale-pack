@@ -41,7 +41,7 @@
   "presented.revealError": "Tidak dapat menampilkan di pengelola file. Coba lagi.",
   "presented.revealed": "Permintaan tampil di pengelola file",
   "presented.revealing": "Menampilkan di pengelola file…",
-  "presented.unavailable": "Host ini tidak memiliki desktop yang tersedia untuk membuka files atau folder di aplikasi eksternal. Files masih dapat dipratinjau di bilah sisi.",
+  "presented.unavailable": "Host ini tidak memiliki desktop tersedia untuk membuka berkas atau folder di aplikasi eksternal. Berkas masih dapat dipratinjau di bilah sisi.",
   "review.nowrap": "Nonaktifkan lipat baris",
   "review.openFile": "Buka seluruh file di bilah sisi",
   "review.openFileAria": "Buka {name} di bilah sisi",

@@ -41,7 +41,7 @@
   "presented.revealError": "Nu s-a putut afișa în managerul de fișiere. Încearcă din nou.",
   "presented.revealed": "S-a solicitat afișarea în managerul de fișiere",
   "presented.revealing": "Se afișează în managerul de fișiere…",
-  "presented.unavailable": "Acest Host nu are niciun desktop disponibil pentru a deschide fișiere sau dosare în aplicații externe. Files pot fi în continuare previzualizate în bara laterală.",
+  "presented.unavailable": "Acest Host nu are niciun desktop disponibil pentru a deschide fișiere sau dosare în aplicații externe. Fișierele pot fi în continuare previzualizate în bara laterală.",
   "review.nowrap": "Dezactivează înfășurarea liniilor",
   "review.openFile": "Deschide întregul fișier în bara laterală",
   "review.openFileAria": "Deschide {name} în bara laterală",

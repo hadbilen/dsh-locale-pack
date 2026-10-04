@@ -1,7 +1,7 @@
 {
   "candidate.noCwd": "(sans cwd)",
   "crumb.root": "Espace de travail",
-  "section.files": "Files et dossiers",
+  "section.files": "Fichiers et dossiers",
   "section.sessions": "Sessions",
   "section.subagents": "Sous-agents",
   "time.days": "{n}d",

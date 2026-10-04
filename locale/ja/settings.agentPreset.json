@@ -33,7 +33,7 @@
   "presetMinimalName": "最小モード",
   "presetPtcDescription": "標準モードの機能をすべて含みます。ツールをまとめて呼び出し、結果を選別、整理、重複除去、集計、要約する作業に向いています。",
   "presetPtcName": "ピーティーシーモード",
-  "presetStandardDescription": "コードやFiles、情報を扱うための設定で、ほとんどの作業に適しています。検索や編集、Terminalによる命令実行などを必要に応じて使えます。",
+  "presetStandardDescription": "コードやファイル、情報を扱うための設定で、ほとんどの作業に適しています。検索や編集、Terminalによる命令実行などを必要に応じて使えます。",
   "presetStandardName": "標準モード",
   "seatHint": "新しい作業用のエージェントプリセットを選んでください",
   "sectionIntro": "エージェントのツールと動作方法を選んでください。日常的な作業には標準モード、DSH への機能追加にはクリエーターモードを使ってください。",
