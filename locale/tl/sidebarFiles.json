@@ -7,7 +7,7 @@
   "error.notDirectory": "Hindi iyon isang direktoryo.",
   "error.notFound": "Wala na ang direktoryong iyon. Maaaring inilipat o tinanggal ito.",
   "error.outsideWorkspace": "Nasa labas ng workspace ang direktoryong iyon, kaya hindi ito babasahin ng sidebar.",
-  "error.unavailable": "Nabigo ang Read: {message}",
+  "error.unavailable": "Nabigo ang Basahin: {message}",
   "guide.description": "I-browse ang mga file sa workspace ng session na ito",
   "guide.title": "Mga file ng workspace",
   "loading": "Nagbabasa…",

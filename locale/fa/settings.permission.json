@@ -7,8 +7,8 @@
   "description": "حالت پیش‌فرض مجوز را برای نشست‌های جدید انتخاب کنید",
   "loading": "در حال بارگذاری",
   "preset.fullAccess": "دسترسی کامل",
-  "preset.readOnly": "فقط خواندنی (Read)",
-  "preset.workspaceWrite": "نوشتن در فضای کاری (Write)",
+  "preset.readOnly": "فقط خواندنی (خواندن)",
+  "preset.workspaceWrite": "نوشتن در فضای کاری (نوشتن)",
   "title": "مجوز",
   "unavailable": "در دسترس نیست"
 }

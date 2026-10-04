@@ -11,7 +11,7 @@
   "desktop-document": "userData/keybindings.json",
   "desktop-reload": "перезапустіть Harness",
   "dismiss": "Закрити меню або верхнє діалогове вікно",
-  "edit-label": "Edit комбінацію клавіш для {command}",
+  "edit-label": "Редагувати комбінацію клавіш для {command}",
   "empty": "Немає відповідних сполучень клавіш",
   "future": "Конфігурацію комбінацій клавіш у {location} створено новішою версією. Оновіть Harness і повторіть спробу.",
   "global-hint": "Відкрити з будь-якого місця",

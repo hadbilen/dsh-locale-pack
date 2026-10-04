@@ -11,7 +11,7 @@
   "desktop-document": "userData/keybindings.json",
   "desktop-reload": "starta om Harness",
   "dismiss": "Stäng menyn eller den översta dialogrutan",
-  "edit-label": "Edit genväg för {command}",
+  "edit-label": "Redigera genväg för {command}",
   "empty": "Inga matchande genvägar",
   "future": "Genvägskonfigurationen i {location} skapades av en nyare version. Uppgradera Harness och försök igen.",
   "global-hint": "Öppna varifrån som helst",

@@ -7,8 +7,8 @@
   "description": "Piliin ang default na mode ng pahintulot para sa mga bagong sesyon",
   "loading": "Naglo-load",
   "preset.fullAccess": "Buong pag-access",
-  "preset.readOnly": "Read Lamang",
-  "preset.workspaceWrite": "Write sa Workspace",
+  "preset.readOnly": "Basahin Lamang",
+  "preset.workspaceWrite": "Isulat sa Workspace",
   "title": "Pahintulot",
   "unavailable": "Hindi magagamit"
 }

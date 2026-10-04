@@ -11,7 +11,7 @@
   "desktop-document": "userData/keybindings.json",
   "desktop-reload": "uruchom ponownie Harness",
   "dismiss": "Zamknij menu lub górne okno dialogowe",
-  "edit-label": "Edit: skrót dla {command}",
+  "edit-label": "Edycja skrótu dla {command}",
   "empty": "Brak pasujących skrótów",
   "future": "Konfiguracja skrótów w {location} została utworzona przez nowszą wersję. Uaktualnij Harness i spróbuj ponownie.",
   "global-hint": "Otwórz z dowolnego miejsca",

@@ -7,7 +7,7 @@
   "error.notDirectory": "รายการนั้นไม่ใช่ไดเรกทอรี.",
   "error.notFound": "ไดเรกทอรีนั้นหายไปแล้ว อาจถูกย้ายหรือลบไปแล้ว.",
   "error.outsideWorkspace": "ไดเรกทอรีนั้นอยู่นอกพื้นที่ทำงาน แถบด้านข้างจึงจะไม่เปิดอ่าน.",
-  "error.unavailable": "Read ล้มเหลว: {message}",
+  "error.unavailable": "อ่าน ล้มเหลว: {message}",
   "guide.description": "เรียกดูไฟล์ในพื้นที่ทำงานของเซสชันนี้",
   "guide.title": "ไฟล์ในพื้นที่ทำงาน",
   "loading": "กำลังอ่าน…",

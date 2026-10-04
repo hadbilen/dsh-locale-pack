@@ -14,6 +14,6 @@
   "confirm.title": "সম্পূর্ণ অ্যাক্সেস সক্ষম করবেন?",
   "mode": "অ্যাক্সেস মোড, বর্তমান: {name}",
   "preset.fullAccess": "সম্পূর্ণ অ্যাক্সেস",
-  "preset.readOnly": "Read শুধুমাত্র",
-  "preset.workspaceWrite": "ওয়ার্কস্পেস Write"
+  "preset.readOnly": "পড়া শুধুমাত্র",
+  "preset.workspaceWrite": "ওয়ার্কস্পেস লেখা"
 }

@@ -7,7 +7,7 @@
   "error.notDirectory": "Dat is geen map.",
   "error.notFound": "Die map is verdwenen. Mogelijk is deze verplaatst of verwijderd.",
   "error.outsideWorkspace": "Die map bevindt zich buiten de werkruimte, dus de zijbalk leest deze niet.",
-  "error.unavailable": "Read mislukt: {message}",
+  "error.unavailable": "Lees mislukt: {message}",
   "guide.description": "Blader door bestanden in de werkruimte van deze sessie",
   "guide.title": "Werkruimtebestanden",
   "loading": "Lezen…",

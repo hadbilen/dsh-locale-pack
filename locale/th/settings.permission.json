@@ -7,8 +7,8 @@
   "description": "เลือกโหมดสิทธิ์เริ่มต้นสำหรับเซสชันใหม่",
   "loading": "กำลังโหลด",
   "preset.fullAccess": "การเข้าถึงเต็มรูปแบบ",
-  "preset.readOnly": "Read อย่างเดียว",
-  "preset.workspaceWrite": "พื้นที่ทำงาน Write",
+  "preset.readOnly": "อ่านอย่างเดียว",
+  "preset.workspaceWrite": "พื้นที่ทำงาน เขียน",
   "title": "สิทธิ์การอนุญาต",
   "unavailable": "ไม่พร้อมใช้งาน"
 }

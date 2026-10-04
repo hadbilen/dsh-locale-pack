@@ -7,8 +7,8 @@
   "description": "نئے سیشنز کے لیے ڈیفالٹ اجازت موڈ منتخب کریں",
   "loading": "لوڈ ہو رہا ہے",
   "preset.fullAccess": "مکمل رسائی",
-  "preset.readOnly": "صرف Read",
-  "preset.workspaceWrite": "ورک اسپیس Write",
+  "preset.readOnly": "صرف پڑھیں",
+  "preset.workspaceWrite": "ورک اسپیس لکھیں",
   "title": "اجازت",
   "unavailable": "دستیاب نہیں"
 }

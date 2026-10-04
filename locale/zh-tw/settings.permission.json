@@ -7,8 +7,8 @@
   "description": "選擇新工作階段的預設權限模式",
   "loading": "載入中",
   "preset.fullAccess": "完整存取",
-  "preset.readOnly": "Read 唯讀",
-  "preset.workspaceWrite": "工作區 Write",
+  "preset.readOnly": "唯讀",
+  "preset.workspaceWrite": "工作區寫入",
   "title": "權限",
   "unavailable": "無法使用"
 }

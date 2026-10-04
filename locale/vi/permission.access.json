@@ -14,6 +14,6 @@
   "confirm.title": "Bật Truy cập đầy đủ?",
   "mode": "Chế độ truy cập, hiện tại: {name}",
   "preset.fullAccess": "Truy cập đầy đủ",
-  "preset.readOnly": "Chỉ đọc (Read Only)",
-  "preset.workspaceWrite": "Ghi vào không gian làm việc (Workspace Write)"
+  "preset.readOnly": "Chỉ đọc",
+  "preset.workspaceWrite": "Ghi vào không gian làm việc"
 }

@@ -7,7 +7,7 @@
   "error.notDirectory": "Це не каталог.",
   "error.notFound": "Цей каталог зник. Можливо, його переміщено або видалено.",
   "error.outsideWorkspace": "Цей каталог поза робочою областю, тому бічна панель не читатиме його.",
-  "error.unavailable": "Read не вдалося: {message}",
+  "error.unavailable": "Прочитати не вдалося: {message}",
   "guide.description": "Переглядайте Files у робочій області цього сеансу",
   "guide.title": "Files робочої області",
   "loading": "Читання…",

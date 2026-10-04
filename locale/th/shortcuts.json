@@ -11,7 +11,7 @@
   "desktop-document": "userData/keybindings.json",
   "desktop-reload": "รีสตาร์ท Harness",
   "dismiss": "ปิดเมนูหรือกล่องโต้ตอบบนสุด",
-  "edit-label": "Edit ทางลัดสำหรับ {command}",
+  "edit-label": "แก้ไขทางลัดสำหรับ {command}",
   "empty": "ไม่มีทางลัดที่ตรงกัน",
   "future": "การกำหนดค่าทางลัดใน {location} ถูกสร้างโดยเวอร์ชันที่ใหม่กว่า อัปเกรด Harness แล้วลองอีกครั้ง",
   "global-hint": "เปิดจากที่ใดก็ได้",

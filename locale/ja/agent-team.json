@@ -23,5 +23,5 @@
   "trigger": "エージェントチーム",
   "unavailable": "チームは利用できません",
   "unowned": "未割り当て",
-  "writeScopes": "Writeスコープ"
+  "writeScopes": "書き込みスコープ"
 }
