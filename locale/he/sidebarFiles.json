@@ -7,7 +7,7 @@
   "error.notDirectory": "זו אינה תיקייה.",
   "error.notFound": "התיקייה הזו נעלמה. ייתכן שהיא הועברה או נמחקה.",
   "error.outsideWorkspace": "התיקייה הזו נמצאת מחוץ לסביבת העבודה, ולכן סרגל הצד לא יקרא אותה.",
-  "error.unavailable": "קריאה נכשל: {message}",
+  "error.unavailable": "הקריאה נכשלה: {message}",
   "guide.description": "עיין ב Files בסביבת העבודה של ההפעלה הזו",
   "guide.title": "Files של סביבת העבודה",
   "loading": "קורא…",

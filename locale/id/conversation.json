@@ -229,7 +229,7 @@
   "queue.count": "{n} pesan antrean",
   "queue.edit": "Ubah pesan antrean",
   "queue.edit.unsupported": "Berisi konten non-teks; pengeditan belum didukung",
-  "queue.editFailed": "Ubah gagal: pesan ini mungkin sudah mulai dikirim.",
+  "queue.editFailed": "Pengeditan gagal: pesan ini mungkin sudah mulai dikirim.",
   "queue.file": "File antrean {name}",
   "queue.image": "Gambar pesan antrean",
   "queue.remove": "Hapus pesan antrean",

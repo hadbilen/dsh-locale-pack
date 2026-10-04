@@ -7,7 +7,7 @@
   "error.notDirectory": "Bu bir dizin değil.",
   "error.notFound": "Bu dizin artık yok. Taşınmış veya silinmiş olabilir.",
   "error.outsideWorkspace": "Bu dizin çalışma alanının dışında, bu nedenle kenar çubuğu onu okumayacak.",
-  "error.unavailable": "Oku başarısız oldu: {message}",
+  "error.unavailable": "Okuma başarısız oldu: {message}",
   "guide.description": "Bu oturumun çalışma alanındaki dosyalara göz atın",
   "guide.title": "Çalışma alanı dosyaları",
   "loading": "Okunuyor…",

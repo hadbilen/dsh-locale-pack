@@ -45,7 +45,7 @@
   "deleteTitle": "{provider} silinsin mi?",
   "deleting": "{provider} siliniyor…",
   "edit": "Edit",
-  "editProvider": "{provider} için Düzenle",
+  "editProvider": "{provider} için düzenle",
   "fetchAdopt": "Seçilenleri ekle",
   "fetchDescription": "Bunlar bu sağlayıcının sunduğu modellerdir. Eklemek istediklerinizi seçin.",
   "fetchDeselectAll": "Tüm seçimi kaldır",

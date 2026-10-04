@@ -8,7 +8,7 @@
   "loading": "กำลังโหลด",
   "preset.fullAccess": "การเข้าถึงเต็มรูปแบบ",
   "preset.readOnly": "อ่านอย่างเดียว",
-  "preset.workspaceWrite": "พื้นที่ทำงาน เขียน",
+  "preset.workspaceWrite": "เขียนในพื้นที่ทำงาน",
   "title": "สิทธิ์การอนุญาต",
   "unavailable": "ไม่พร้อมใช้งาน"
 }

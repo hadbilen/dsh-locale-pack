@@ -11,7 +11,7 @@
   "desktop-document": "userData/keybindings.json",
   "desktop-reload": "Harness পুনরায় চালু করুন",
   "dismiss": "মেনু বা উপরের ডায়ালগ বন্ধ করুন",
-  "edit-label": "{command} এর শর্টকাট সম্পাদনা করুন",
+  "edit-label": "{command}-এর শর্টকাট সম্পাদনা করুন",
   "empty": "কোনো মিলে যাওয়া শর্টকাট নেই",
   "future": "{location} এ শর্টকাট কনফিগারেশন একটি নতুন সংস্করণ দ্বারা তৈরি করা হয়েছে। Harness আপগ্রেড করুন এবং আবার চেষ্টা করুন।",
   "global-hint": "যেকোনো জায়গা থেকে খুলুন",

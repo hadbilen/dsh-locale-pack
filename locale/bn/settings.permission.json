@@ -7,8 +7,8 @@
   "description": "নতুন সেশনগুলির জন্য ডিফল্ট অনুমতি মোড বেছে নিন",
   "loading": "লোড হচ্ছে",
   "preset.fullAccess": "সম্পূর্ণ অ্যাক্সেস",
-  "preset.readOnly": "পড়া শুধুমাত্র",
-  "preset.workspaceWrite": "ওয়ার্কস্পেস লেখা",
+  "preset.readOnly": "শুধুমাত্র পড়া যায়",
+  "preset.workspaceWrite": "ওয়ার্কস্পেসে লেখা যায়",
   "title": "অনুমতি",
   "unavailable": "অনুপলব্ধ"
 }

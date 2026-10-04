@@ -8,7 +8,7 @@
   "loading": "Wird geladen",
   "preset.fullAccess": "Voller Zugriff",
   "preset.readOnly": "Nur Lesen",
-  "preset.workspaceWrite": "Arbeitsbereich Schreiben",
+  "preset.workspaceWrite": "Schreiben im Arbeitsbereich",
   "title": "Berechtigung",
   "unavailable": "Nicht verfügbar"
 }

@@ -75,7 +75,7 @@
   "message.stepProcess.done.plan": "Plan aktualisiert",
   "message.stepProcess.done.questions": "Fragen gestellt",
   "message.stepProcess.done.read": "Dateien gelesen",
-  "message.stepProcess.done.readImage": "Lesen Bilder",
+  "message.stepProcess.done.readImage": "Bilder lesen",
   "message.stepProcess.done.search": "Code durchsucht",
   "message.stepProcess.done.subagents": "Subagenten koordiniert",
   "message.stepProcess.done.thinking": "Analyse abgeschlossen",

@@ -229,7 +229,7 @@
   "queue.count": "{n} mensagens na fila",
   "queue.edit": "Editar mensagem na fila",
   "queue.edit.unsupported": "Contém conteúdo não textual; a edição ainda não é suportada",
-  "queue.editFailed": "Editar falhou: esta mensagem talvez já tenha começado a ser enviada.",
+  "queue.editFailed": "Falha ao editar: esta mensagem pode já ter começado a ser enviada.",
   "queue.file": "Arquivo na fila {name}",
   "queue.image": "Imagem da mensagem na fila",
   "queue.remove": "Remover mensagem na fila",
